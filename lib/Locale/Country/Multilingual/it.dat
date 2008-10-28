@@ -1,0 +1,246 @@
+af:afg:004:Afghanistan 
+al:alb:008:Albania 
+dz:dza:012:Algeria 
+ad:and:020:Andorra 
+ao:ago:024:Angola 
+ai:aia:660:Anguilla 
+aq:ata:010:Antartide 
+ag:atg:028:Antigua e Barbuda 
+an:ant:530:Antille Olandesi 
+sa:sau:682:Arabia Saudita 
+ar:arg:032:Argentina 
+am:arm:051:Armenia 
+aw:abw:533:Aruba 
+au:aus:036:Australia 
+at:aut:040:Austria 
+az:aze:031:Azerbaigian 
+bs:bhs:044:Bahamas 
+bh:bhr:048:Bahrain 
+bd:bgd:050:Bangladesh 
+bb:brb:052:Barbados 
+be:bel:056:Belgio 
+bz:blz:084:Belize 
+bj:ben:204:Benin 
+bm:bmu:060:Bermuda 
+bt:btn:064:Bhutan 
+by:blr:112:Bielorussia 
+mm:mmr:104:Birmania 
+bo:bol:068:Bolivia 
+ba:bih:070:Bosnia-Erzegovina 
+bw:bwa:072:Botswana 
+br:bra:076:Brasile 
+bn:brn:096:Brunei 
+bg:bgr:100:Bulgaria 
+bf:bfa:854:Burkina Faso 
+bi:bdi:108:Burundi 
+kh:khm:116:Cambogia 
+cm:cmr:120:Camerun 
+ca:can:124:Canada 
+cv:cpv:132:Capo Verde 
+td:tcd:148:Ciad 
+cl:chl:152:Cile 
+cn:chn:156:Cina 
+cy:cyp:196:Cipro 
+va:vat:336:Città del Vaticano 
+co:col:170:Colombia 
+km:com:174:Comore 
+kp:prk:408:Corea del Nord 
+kr:kor:410:Corea del Sud 
+ci:civ:384:Costa d'Avorio 
+cr:cri:188:Costa Rica 
+hr:hrv:191:Croazia 
+cu:cub:192:Cuba 
+dk:dnk:208:Danimarca 
+dm:dma:212:Dominica 
+ec:ecu:218:Ecuador 
+eg:egy:818:Egitto 
+sv:slv:222:El Salvador 
+ae:are:784:Emirati Arabi Uniti 
+er:eri:232:Eritrea 
+ee:est:233:Estonia 
+et:eth:231:Etiopia 
+fj:fji:242:Figi 
+ph:phl:608:Filippine 
+fi:fin:246:Finlandia 
+fr:fra:250:Francia 
+ga:gab:266:Gabon 
+gm:gmb:270:Gambia 
+ge:geo:268:Georgia 
+gs:sgs:239:Georgia del Sud e isole Sandwich 
+de:deu:276:Germania 
+gh:gha:288:Ghana 
+jm:jam:388:Giamaica 
+jp:jpn:392:Giappone 
+gi:gib:292:Gibilterra 
+dj:dji:262:Gibuti 
+jo:jor:400:Giordania 
+gr:grc:300:Grecia 
+gd:grd:308:Grenada 
+gl:grl:304:Groenlandia 
+gp:glp:312:Guadalupa 
+gu:gum:316:Guam 
+gt:gtm:320:Guatemala 
+gg:ggy:831:Guernsey 
+gn:gin:324:Guinea 
+gw:gnb:624:Guinea-Bissau 
+gq:gnq:226:Guinea Equatoriale 
+gy:guy:328:Guyana 
+gf:guf:254:Guyana Francese 
+ht:hti:332:Haiti 
+hn:hnd:340:Honduras 
+hk:hkg:344:Hong Kong 
+in:ind:356:India 
+id:idn:360:Indonesia 
+ir:irn:364:Iran 
+iq:irq:368:Iraq 
+ie:irl:372:Irlanda 
+is:isl:352:Islanda 
+bv:bvt:074:Isola Bouvet 
+im:imn:833:Isola di Man 
+cx:cxr:162:Isola di Natale 
+nf:nfk:574:Isola Norfolk 
+ax:ala:248:Isole Åland 
+ky:cym:136:Isole Cayman 
+cc:cck:166:Isole Cocos 
+ck:cok:184:Isole Cook 
+fo:fro:234:Isole Fær Øer 
+fk:flk:238:Isole Falkland 
+hm:hmd:334:Isole Heard e McDonald 
+mp:mnp:580:Isole Marianne Settentrionali 
+mh:mhl:584:Isole Marshall 
+um:umi:581:Isole minori degli Stati Uniti 
+pn:pcn:612:Isole Pitcairn 
+sb:slb:090:Isole Salomone 
+vg:vgb:092:Isole Vergini britanniche 
+vi:vir:850:Isole Vergini americane 
+il:isr:376:Israele 
+it:ita:380:Italia 
+je:jey:832:Jersey 
+kz:kaz:398:Kazakistan 
+ke:ken:404:Kenya 
+kg:kgz:417:Kirghizistan 
+ki:kir:296:Kiribati 
+kw:kwt:414:Kuwait 
+la:lao:418:Laos 
+ls:lso:426:Lesotho 
+lv:lva:428:Lettonia 
+lb:lbn:422:Libano 
+lr:lbr:430:Liberia 
+ly:lby:434:Libia 
+li:lie:438:Liechtenstein 
+lt:ltu:440:Lituania 
+lu:lux:442:Lussemburgo 
+mo:mac:446:Macao 
+mk:mkd:807:Macedonia 
+mg:mdg:450:Madagascar 
+mw:mwi:454:Malawi 
+my:mys:458:Malesia 
+mv:mdv:462:Maldive 
+ml:mli:466:Mali 
+mt:mlt:470:Malta 
+ma:mar:504:Marocco 
+mq:mtq:474:Martinica 
+mr:mrt:478:Mauritania 
+mu:mus:480:Mauritius 
+yt:myt:175:Mayotte 
+mx:mex:484:Messico 
+fm:fsm:583:Micronesia 
+md:mda:498:Moldavia 
+mn:mng:496:Mongolia 
+me:mne:499:Montenegro 
+ms:msr:500:Montserrat 
+mz:moz:508:Mozambico 
+na:nam:516:Namibia 
+nr:nru:520:Nauru 
+np:npl:524:Nepal 
+ni:nic:558:Nicaragua 
+ne:ner:562:Niger 
+ng:nga:566:Nigeria 
+nu:niu:570:Niue 
+no:nor:578:Norvegia 
+nc:ncl:540:Nuova Caledonia 
+nz:nzl:554:Nuova Zelanda 
+om:omn:512:Oman 
+nl:nld:528:Paesi Bassi 
+pk:pak:586:Pakistan 
+pw:plw:585:Palau 
+ps:pse:275:Palestina 
+pa:pan:591:Panamá 
+pg:png:598:Papua Nuova Guinea 
+py:pry:600:Paraguay 
+pe:per:604:Perù 
+pf:pyf:258:Polinesia francese 
+pl:pol:616:Polonia 
+pr:pri:630:Porto Rico 
+pt:prt:620:Portogallo 
+mc:mco:492:Monaco 
+qa:qat:634:Qatar 
+gb:gbr:826:Regno Unito 
+cd:cod:180:Rep. Dem. del Congo 
+tw:twn:158:Taiwan 
+cz:cze:203:Repubblica Ceca 
+cf:caf:140:Repubblica Centrafricana 
+cg:cog:178:Repubblica del Congo 
+do:dom:214:Repubblica Dominicana 
+re:reu:638:Réunion 
+ro:rou:642:Romania 
+rw:rwa:646:Ruanda 
+ru:rus:643:Russia 
+eh:esh:732:Sahara Occidentale 
+kn:kna:659:Saint Kitts e Nevis 
+lc:lca:662:Santa Lucia 
+sh:shn:654:Sant'Elena 
+vc:vct:670:Saint Vincent e Grenadine 
+bl:blm:652:Saint-Barthélemy 
+mf:maf:663:Saint-Martin 
+pm:spm:666:Saint-Pierre e Miquelon 
+ws:wsm:882:Samoa 
+as:asm:016:Samoa Americane 
+sm:smr:674:San Marino 
+st:stp:678:São Tomé e Príncipe 
+sn:sen:686:Senegal 
+rs:srb:688:Serbia 
+sc:syc:690:Seychelles 
+sl:sle:694:Sierra Leone 
+sg:sgp:702:Singapore 
+sy:syr:760:Siria 
+sk:svk:703:Slovacchia 
+si:svn:705:Slovenia 
+so:som:706:Somalia 
+es:esp:724:Spagna 
+lk:lka:144:Sri Lanka 
+us:usa:840:Stati Uniti d'America 
+za:zaf:710:Sudafrica 
+sd:sdn:736:Sudan 
+sr:sur:740:Suriname 
+sj:sjm:744:Svalbard e Jan Mayen 
+se:swe:752:Svezia 
+ch:che:756:Svizzera 
+sz:swz:748:Swaziland 
+tj:tjk:762:Tagikistan 
+tz:tza:834:Tanzania 
+tf:atf:260:Territori francesi meridionali 
+io:iot:086:Territorio Britannico dell'Oceano Indiano 
+th:tha:764:Thailandia 
+tl:tls:626:Timor Est 
+tg:tgo:768:Togo 
+tk:tkl:772:Tokelau 
+to:ton:776:Tonga 
+tt:tto:780:Trinidad e Tobago 
+tn:tun:788:Tunisia 
+tr:tur:792:Turchia 
+tm:tkm:795:Turkmenistan 
+tc:tca:796:Turks e Caicos 
+tv:tuv:798:Tuvalu 
+ua:ukr:804:Ucraina 
+ug:uga:800:Uganda 
+hu:hun:348:Ungheria 
+uy:ury:858:Uruguay 
+uz:uzb:860:Uzbekistan 
+vu:vut:548:Vanuatu 
+ve:ven:862:Venezuela 
+vn:vnm:704:Vietnam 
+wf:wlf:876:Wallis e Futuna 
+ye:yem:887:Yemen 
+zm:zmb:894:Zambia 
+zw:zwe:716:Zimbabwe 
