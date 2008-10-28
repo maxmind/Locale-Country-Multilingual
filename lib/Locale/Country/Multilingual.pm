@@ -161,6 +161,8 @@ sub _load_data {
 
 __END__
 
+=encoding utf-8
+
 =head1 NAME
 
 Locale::Country::Multilingual - ISO codes for country identification with multi-language (ISO 3166)
