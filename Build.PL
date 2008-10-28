@@ -11,6 +11,7 @@ my $builder = Module::Build->new(
     build_requires => {
         'Test::More' => 0,
         'File::Spec' => 0,
+        'Class::Data::Inheritable' => 0,
     },
     add_to_cleanup      => [ 'Locale-Country-Multilingual-*' ],
 );

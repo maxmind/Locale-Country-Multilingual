@@ -1,5 +1,15 @@
 Revision history for Locale-Country-Multilingual
 
+0.07    10/27/2008
+        - added correct Unicode support (Bernhard Graf)
+        - updated and fixed some errors in country data files (Bernhard Graf)
+        - tie language data to the class, not the instance (Bernhard Graf)
+	- possibility to preload language files at compile time (Bernhard Graf)
+	- added method assert_lang() to check availability (Bernhard Graf)
+	- changed from hashes to arrays where possible (Bernhard Graf)
+	- documentation (Bernhard Graf)
+	- tests for new features (Bernhard Graf)
+
 0.06    8/11/2008 14:54
         Thanks to Andreas Marienborg for Norwegian dat file.
 

@@ -13,6 +13,7 @@ as:asm:016:Amerikansk Samoa
 at:aut:040:Østerrike
 au:aus:036:Australia
 aw:abw:533:Aruba
+ax:ala:248:Åland
 az:aze:031:Aserbajdsjan
 ba:bih:070:Bosnia-Hercegovina
 bb:brb:052:Barbados
@@ -23,6 +24,7 @@ bg:bgr:100:Bulgaria
 bh:bhr:048:Bahrain
 bi:bdi:108:Burundi
 bj:ben:204:Benin
+bl:blm:652:Saint-Barthélemy 				
 bm:bmu:060:Bermuda
 bn:brn:096:Brunei
 bo:bol:068:Bolivia
@@ -35,6 +37,7 @@ by:blr:112:Hviterussland
 bz:blz:084:Belize
 ca:can:124:Canada
 cc:cck:166:Kokosøyene
+cd:cod:180:Den demokratiske republikken Kongo
 cf:caf:140:Den sentralafrikanske republikk
 cg:cog:178:Kongo-Brazzaville
 ch:che:756:Sveits
@@ -74,6 +77,7 @@ gb:gbr:826:Storbritannia
 gd:grd:308:Grenada
 ge:geo:268:Georgia
 gf:guf:254:Fransk Guyana
+gg:ggy:831:Guernsey
 gh:gha:288:Ghana
 gi:gib:292:Gibraltar
 gl:grl:304:Grønland
@@ -96,12 +100,14 @@ hu:hun:348:Ungarn
 id:idn:360:Indonesia
 ie:irl:372:Irland
 il:isr:376:Israel
+im:imn:833:Isle of Man
 in:ind:356:India
 io:iot:086:Britisk territorium i Indiahavet
 iq:irq:368:Irak
 ir:irn:364:Iran
 is:isl:352:Island
 it:ita:380:Italia
+je:jey:832:Jersey
 jm:jam:388:Jamaica
 jo:jor:400:Jordan
 jp:jpn:392:Japan
@@ -130,6 +136,8 @@ ly:lby:434:Libya
 ma:mar:504:Marokko
 mc:mco:492:Monaco
 md:mda:498:Moldova
+me:mne:499:Montenegro
+mf:maf:663:Saint-Martin (franske)
 mg:mdg:450:Madagaskar
 mh:mhl:584:Marshalløyene
 mk:mkd:807:Makedonia
@@ -178,6 +186,7 @@ py:pry:600:Paraguay
 qa:qat:634:Qatar
 re:reu:638:Réunion
 ro:rom:642:Romania
+rs:srb:688:Serbia
 ru:rus:643:Russland
 rw:rwa:646:Rwanda
 sa:sau:682:Saudi-Arabia
@@ -206,10 +215,10 @@ tg:tgo:768:Togo
 th:tha:764:Thailand
 tj:tjk:762:Tadsjikistan
 tk:tkl:772:Tokelau
+tl:tls:626:Øst-Timor
 tm:tkm:795:Turkmenistan
 tn:tun:788:Tunisia
 to:ton:776:Tonga
-tl:tls:626:Øst-Timor
 tr:tur:792:Tyrkia
 tt:tto:780:Trinidad og Tobago
 tv:tuv:798:Tuvalu

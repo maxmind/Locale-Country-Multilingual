@@ -24,6 +24,7 @@ bg:bgr:100:Bulgaria
 bh:bhr:048:Bahrain
 bi:bdi:108:Burundi
 bj:ben:204:Benin
+bl:blm:652:Saint-Barthélemy
 bm:bmu:060:Bermuda
 bn:brn:096:Brunei Darussalam
 bo:bol:068:Bolivia
@@ -47,7 +48,6 @@ cm:cmr:120:Cameroon
 cn:chn:156:China
 co:col:170:Colombia
 cr:cri:188:Costa Rica
-cs:scg:891:Serbia and Montenegro:Yugoslavia
 cu:cub:192:Cuba
 cv:cpv:132:Cape Verde
 cx:cxr:162:Christmas Island
@@ -72,12 +72,12 @@ fk:flk:238:Falkland Islands (Malvinas):Falkland Islands (Islas Malvinas)
 fm:fsm:583:Micronesia, Federated States of
 fo:fro:234:Faroe Islands
 fr:fra:250:France
-fx:fxx:249:France, Metropolitan
 ga:gab:266:Gabon
-gb:gbr:826:United Kingdom:Great Britain
+gb:gbr:826:United Kingdom:United Kingdom of Great Britain and Northern Ireland
 gd:grd:308:Grenada
 ge:geo:268:Georgia
 gf:guf:254:French Guiana
+gg:ggy:831:Guernsey
 gh:gha:288:Ghana
 gi:gib:292:Gibraltar
 gl:grl:304:Greenland
@@ -100,12 +100,14 @@ hu:hun:348:Hungary
 id:idn:360:Indonesia
 ie:irl:372:Ireland
 il:isr:376:Israel
+im:imn:833:Isle of Man
 in:ind:356:India
 io:iot:086:British Indian Ocean Territory
 iq:irq:368:Iraq
 ir:irn:364:Iran, Islamic Republic of:Iran
 is:isl:352:Iceland
 it:ita:380:Italy
+je:jey:832:Jersey
 jm:jam:388:Jamaica
 jo:jor:400:Jordan
 jp:jpn:392:Japan
@@ -134,9 +136,11 @@ ly:lby:434:Libyan Arab Jamahiriya:Libya
 ma:mar:504:Morocco
 mc:mco:492:Monaco
 md:mda:498:Moldova, Republic of:Moldova
+me:mne:499:Montenegro
+mf:maf:663:Saint-Martin (French part)
 mg:mdg:450:Madagascar
 mh:mhl:584:Marshall Islands
-mk:mkd:807:Macedonia, the Former Yugoslav Republic of:Macedonia, Former Yugoslav Republic of:Macedonia
+mk:mkd:807:Macedonia
 ml:mli:466:Mali
 mm:mmr:104:Myanmar:Burma
 mn:mng:496:Mongolia
@@ -182,6 +186,7 @@ py:pry:600:Paraguay
 qa:qat:634:Qatar
 re:reu:638:Reunion
 ro:rou:642:Romania
+rs:srb:688:Serbia
 ru:rus:643:Russian Federation:Russia
 rw:rwa:646:Rwanda
 sa:sau:682:Saudi Arabia
@@ -210,10 +215,10 @@ tg:tgo:768:Togo
 th:tha:764:Thailand
 tj:tjk:762:Tajikistan
 tk:tkl:772:Tokelau
+tl:tls:626:Timor-Leste:East Timor
 tm:tkm:795:Turkmenistan
 tn:tun:788:Tunisia
 to:ton:776:Tonga
-tl:tls:626:Timor-Leste:East Timor
 tr:tur:792:Turkey
 tt:tto:780:Trinidad and Tobago
 tv:tuv:798:Tuvalu

@@ -1,20 +1,21 @@
----
-name: Locale-Country-Multilingual
-version: 0.06
-author:
-  - 'Fayland Lam <fayland@gmail.com>'
-abstract: ISO codes for country identification with multi-language (ISO 3166)
-license: perl
-resources:
-  license: http://dev.perl.org/licenses/
-build_requires:
-  File::Spec: 0
-  Test::More: 0
-provides:
-  Locale::Country::Multilingual:
-    file: lib/Locale/Country/Multilingual.pm
-    version: 0.06
-generated_by: Module::Build version 0.2808
+--- #YAML:1.0
+name:               Locale-Country-Multilingual
+version:            0.07
+abstract:           ~
+author:  []
+license:            unknown
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    Class::Data::Inheritable:  0
+    File::Spec:           0
+    Test::More:           0
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.46
 meta-spec:
-  url: http://module-build.sourceforge.net/META-spec-v1.2.html
-  version: 1.2
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4
