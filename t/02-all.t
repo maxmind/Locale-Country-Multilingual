@@ -15,6 +15,6 @@ ok(grep(/^chn$/, @codes), "all_country_codes('LOCALE_CODE_ALPHA_3') works");
 my @names   = $lcm->all_country_names();
 ok(grep(/^China$/i, @names), "all_country_names() works");
 
-my $lang = 'cn';
+my $lang = 'zh';
 @names   = $lcm->all_country_names($lang);
-ok(grep(/^中国$/, @names), "all_country_names('cn') works");
+ok(grep(/^中国$/, @names), "all_country_names('zh') works");

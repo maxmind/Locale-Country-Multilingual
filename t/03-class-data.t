@@ -14,9 +14,9 @@ load('it');
 
 is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it)], 'language en and it both loaded');
 
-load('cn');
+load('zh');
 
-is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(cn en it)], 'language cn, en and it all loaded');
+is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it zh)], 'language zh, en and it all loaded');
 
 
 sub load {

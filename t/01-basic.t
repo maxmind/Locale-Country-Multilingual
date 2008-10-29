@@ -14,7 +14,7 @@ is($country, 'China', "alpha3: code2country('chn') works");
 $country = $lcm->code2country('250');
 is($country, 'France', "NUMERIC: code2country('250') works");
 
-$lcm->set_lang('cn');
+$lcm->set_lang('zh');
 
 $country = $lcm->code2country('cn'); 
 is($country, '中国', "code2country('cn') works after set_lang");
@@ -22,9 +22,9 @@ is($country, '中国', "code2country('cn') works after set_lang");
 my $lang = 'en';
 $country = $lcm->code2country('cn', $lang);
 is($country, 'China', "code2country('cn', 'en') works");
-$lang = 'cn';
+$lang = 'zh';
 $country = $lcm->code2country('cn', $lang);
-is($country, '中国', "code2country('cn', 'cn') works");
+is($country, '中国', "code2country('cn', 'zh') works");
 
 $lcm->set_lang('en');
 my $code    = $lcm->country2code('Norway');
@@ -40,9 +40,9 @@ $CODE = 'LOCALE_CODE_NUMERIC';
 $code    = $lcm->country2code('Norway', $CODE);    # $code gets '578'
 is($code, '578', "NUMERIC: country2code('Norway', 'LOCALE_CODE_NUMERIC') works");
 
-$code    = $lcm->country2code('挪威', $CODE, 'cn');
-is($code, '578', "NUMERIC: country2code('挪威', 'LOCALE_CODE_NUMERIC', 'cn') works");
+$code    = $lcm->country2code('挪威', $CODE, 'zh');
+is($code, '578', "NUMERIC: country2code('挪威', 'LOCALE_CODE_NUMERIC', 'zh') works");
 
-$lcm->set_lang('tw');
+$lcm->set_lang('zh_TW');
 $country = $lcm->code2country('tw'); 
-is($country, '台灣', "code2country('tw') works after set_lang=tw");
+is($country, '臺灣', "code2country('tw') works after set_lang=zh_TW");
