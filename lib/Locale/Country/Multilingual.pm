@@ -364,7 +364,9 @@ other languages are welcome to send by email.
 
 =over 4
 
-=item subversion trunk L<http://code.google.com/p/perl-locale-country-multilingual/>
+=item subversion trunk
+
+L<http://code.google.com/p/perl-locale-country-multilingual/>
 
 =back
 
@@ -381,6 +383,7 @@ Thanks to Andreas Marienborg for Norwegian dat file.
 =head1 AUTHOR
 
 Fayland Lam <fayland at gmail.com>
+
 Bernhard Graf <graf at cpan.org>
 
 =head1 COPYRIGHT & LICENSE
