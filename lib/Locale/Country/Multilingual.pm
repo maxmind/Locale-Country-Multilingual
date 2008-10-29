@@ -56,7 +56,7 @@ sub new {
 sub set_lang {
     my $self = shift;
 
-    $self->{'lang'} = shift if @_;
+    $self->{'lang'} = _backwards_compat(shift) if @_;
 }
 
 sub assert_lang {
@@ -126,6 +126,9 @@ sub all_country_names {
 
 sub _load_data {
     my ($self, $lang) = @_;
+    
+    $lang = _backwards_compat( $lang );
+    
     my $languages = $self->languages;
     my $language = $languages->{$lang};
 
@@ -155,6 +158,15 @@ sub _load_data {
     close(FH);
 
     return $language;
+}
+
+# backwards compatibility
+sub _backwards_compat {
+    my ( $lang ) = @_;
+    
+    return 'zh'    if ( $lang eq 'cn' );
+    return 'zh_TW' if ( $lang eq 'tw' );
+    return $lang;
 }
 
 1;
@@ -360,7 +372,8 @@ Thanks to Andreas Marienborg for Norwegian dat file.
 
 =head1 AUTHOR
 
-Fayland Lam, C<< <fayland at gmail.com> >>
+Fayland Lam <fayland at gmail.com>
+Bernhard Graf <graf at cpan.org>
 
 =head1 COPYRIGHT & LICENSE
 
