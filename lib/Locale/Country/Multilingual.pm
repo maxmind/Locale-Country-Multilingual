@@ -164,8 +164,9 @@ sub _load_data {
 sub _backwards_compat {
     my ( $lang ) = @_;
     
-    return 'zh'    if ( $lang eq 'cn' );
+    return 'zh_CN' if ( $lang eq 'cn' );
     return 'zh_TW' if ( $lang eq 'tw' );
+    return 'zh_CN' if ( $lang eq 'zh' );
     return $lang;
 }
 
@@ -189,7 +190,7 @@ Locale::Country::Multilingual - ISO codes for country identification with multi-
     $country = $lcm->code2country('250');       # $country gets 'France'
     $code    = $lcm->country2code('Norway');    # $code gets 'no'
     
-    $lcm->set_lang('zh'); # set default language to Chinese
+    $lcm->set_lang('zh_CN'); # set default language to Chinese
     $country = $lcm->code2country('cn');        # $country gets '中国'
     $code    = $lcm->country2code('日本');      # $code gets 'jp'
     
@@ -199,7 +200,7 @@ Locale::Country::Multilingual - ISO codes for country identification with multi-
     # more heavy call
     my $lang = 'en';
     $country = $lcm->code2country('cn', $lang);        # $country gets 'China'
-    $lang = 'zh';
+    $lang = 'zh_CN';
     $country = $lcm->code2country('cn', $lang);        # $country gets '中国'
     
     my $CODE = 'LOCALE_CODE_ALPHA_2'; # by default
@@ -208,10 +209,10 @@ Locale::Country::Multilingual - ISO codes for country identification with multi-
     $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'nor'
     $CODE = 'LOCALE_CODE_NUMERIC';
     $code    = $lcm->country2code('Norway', $CODE);    # $code gets '578'
-    $code    = $lcm->country2code('挪威', $CODE, 'zh');    # with lang=zh
+    $code    = $lcm->country2code('挪威', $CODE, 'zh_CN');    # with lang=zh_CN
     
     $CODE = 'LOCALE_CODE_ALPHA_3';
-    $lang = 'zh';
+    $lang = 'zh_CN';
     @codes   = $lcm->all_country_codes($CODE);         # return codes with 3alpha
     @names   = $lcm->all_country_names($lang);         # get all Chinese Countries Names
 
@@ -286,7 +287,7 @@ this way:
 =head2 code2country
 
   $country = $lcm->code2country('gb');
-  $country = $lcm->code2country('gb', 'zh');
+  $country = $lcm->code2country('gb', 'zh_CN');
 
 Turns an ISO 3166-1 code into a country name in the current language.
 The default language is C<"en">.
@@ -338,7 +339,7 @@ locale.
 
 =item en - English
 
-=item zh - Chinese Simp.
+=item zh_CN - Chinese Simp.
 
 =item zh_TW - Chinese Trad.
 
