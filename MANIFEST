@@ -1,7 +1,6 @@
 Build.PL
 Changes
 lib/Locale/Country/Multilingual.pm
-lib/Locale/Country/Multilingual/cn.dat
 lib/Locale/Country/Multilingual/de.dat
 lib/Locale/Country/Multilingual/en.dat
 lib/Locale/Country/Multilingual/es.dat
@@ -10,8 +9,9 @@ lib/Locale/Country/Multilingual/it.dat
 lib/Locale/Country/Multilingual/ja.dat
 lib/Locale/Country/Multilingual/no.dat
 lib/Locale/Country/Multilingual/pt.dat
-lib/Locale/Country/Multilingual/tw.dat
 lib/Locale/Country/Multilingual/Unicode.pod
+lib/Locale/Country/Multilingual/zh-tw.dat
+lib/Locale/Country/Multilingual/zh.dat
 Makefile.PL
 MANIFEST			This list of files
 META.yml

@@ -1,6 +1,6 @@
 #!perl -T
 
-use Test::More tests => 4;
+use Test::More tests => 5;
 
 use Locale::Country::Multilingual;
 
@@ -10,13 +10,17 @@ load('en');
 
 is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en)], 'language en loaded successfully');
 
+load('zh_TW');
+
+is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en zh-tw)], 'language en and zh-tw both loaded');
+
 load('it');
 
-is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it)], 'language en and it both loaded');
+is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it zh-tw)], 'language en, it and zh-tw all loaded');
 
 load('zh_CN');
 
-is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it zh_CN)], 'language zh, en and it all loaded');
+is_deeply([sort keys %{Locale::Country::Multilingual->languages}], [qw(en it zh zh-tw)], 'language en, it, zh and zh-tw all loaded');
 
 
 sub load {
