@@ -1,7 +1,7 @@
 Revision history for Locale-Country-Multilingual
 
 0.09
-        - rename cn.dat to zh.dat and tw.dat to zh_TW.dat
+        - rename cn.dat to zh_CN.dat and tw.dat to zh_TW.dat
 
 0.08    10/28/2008
         - set explicit utf-8 encoding for POD (Bernhard Graf)
