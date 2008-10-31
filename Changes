@@ -1,5 +1,8 @@
 Revision history for Locale-Country-Multilingual
 
+0.10    
+    - POD fix
+
 0.09	10/30/2008
 	- added a DESCRIPTION (Bernhard Graf)
 	- "languages" cn and tw are now deprecated (Bernhard Graf)
