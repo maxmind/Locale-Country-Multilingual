@@ -15,18 +15,17 @@ __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
 __PACKAGE__->mk_classdata('use_io_layer');
 
-use constant {
-    CODE => 0,
-    COUNTRY => 1,
+use constant CODE => 0;
+use constant COUNTRY => 1;
+use constant LOCALE_CODE_ALPHA_2 => 0;
+use constant LOCALE_CODE_ALPHA_3 => 1;
+use constant LOCALE_CODE_NUMERIC => 2;
+use constant MAP_LOCALE_CODE_STR_TO_IDX => {
     LOCALE_CODE_ALPHA_2 => 0,
     LOCALE_CODE_ALPHA_3 => 1,
     LOCALE_CODE_NUMERIC => 2,
-    MAP_LOCALE_CODE_STR_TO_IDX => {
-	LOCALE_CODE_ALPHA_2 => 0,
-	LOCALE_CODE_ALPHA_3 => 1,
-	LOCALE_CODE_NUMERIC => 2,
-    },
 };
+
 
 croak __PACKAGE__->dir, ": $!"
     unless -d __PACKAGE__->dir;
@@ -122,7 +121,7 @@ sub all_country_names {
     $lang ||= $self->{lang} || 'en';
     my $language = $self->_load_data($lang);
 
-    return keys %{ $language->[COUNTRY]->[LOCALE_CODE_ALPHA_2] };
+    return values %{ $language->[CODE]->[LOCALE_CODE_ALPHA_2] };
 }
 
 sub _load_data {
@@ -236,9 +235,11 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 
 =head1 DESCRIPTION
 
-C<Locale::Country::Multilingual> is nearly a drop-in replacement for
-L<Locale::Country|Locale::Country>, but supports country names in several
+C<Locale::Country::Multilingual> is an OO replacement for
+L<Locale::Country|Locale::Country>, that supports country names in several
 languages.
+
+=head2 Language Codes
 
 A language is selected by a two-letter language code as described by
 ISO 639-1 L<http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>.
@@ -251,6 +252,14 @@ HTTP 1.1 L<http://www.ietf.org/rfc/rfc2616.txt> and the POSIX
 L<setlocale(3)> function. Codes can be given in small or capital letters
 and be divided by an arbitrary string of none-letter ASCII bytes (but
 C<"-"> or C<"_"> is recommended).
+
+=head2 Language Selection Fallback
+
+In case a language code contains a region, language selection falls back to
+the two-letter language code if no specific language file for the region
+exists. Example: For C<"zh_CN"> selection will fall back to C<"zh"> since
+there is no file F<"zh-cn.dat"> - actually C<"zh.dat"> happens to contain
+the country names in Simplified (Han) Chinese.
 
 =head1 METHODS
 
@@ -362,13 +371,21 @@ This method L<croaks|Carp> if the language is not available.
 
 =head2 all_country_codes
 
+  @countrycodes = $lcm->all_country_codes;
+  @countrycodes = $lcm->all_country_codes($codeset);
+
+Returns an unsorted list of all ISO-3166 codes.
+
+The argument is optional and can be one of C<"LOCALE_CODE_ALPHA_2">,
+C<"LOCALE_CODE_ALPHA_3"> and C<"LOCALE_CODE_NUMERIC">. The default is
+C<"LOCALE_CODE_ALPHA2">.
+
 =head2 all_country_names
 
   @countrynames = $lcm->all_country_names;
   @countrynames = $lcm->all_country_names('fr');
 
-Returns an array of all lowercased country names in the current or given
-locale.
+Returns an unsorted list of country names in the current or given locale.
 
 =head1 AVAILABLE LANGAUGES
 
@@ -396,7 +413,7 @@ locale.
 
 =back
 
-other languages are welcome to send by email.
+Other languages are welcome to send by email.
 
 =head2 Deprecated languages
 
