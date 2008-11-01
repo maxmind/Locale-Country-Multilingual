@@ -2,7 +2,12 @@
 
 use utf8;
 
-use Test::More tests => 2;
+use Test::More;
+
+eval "use 5.8.0";
+plan skip_all => "Perl 5.8 required for testing POD" if $@;
+
+plan tests => 2;
 
 use Locale::Country::Multilingual {use_io_layer => 1};
 

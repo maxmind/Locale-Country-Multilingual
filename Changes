@@ -1,5 +1,8 @@
 Revision history for Locale-Country-Multilingual
 
+0.11	2008-11-02
+	- skip tests for pod and use_io_layer for Perls < 5.8.0
+
 0.10    2008-10-31
 	- fixed "use constant" to work with older Perls (Bernhard Graf)
 	- described language fallback mechanism (Bernhard Graf)

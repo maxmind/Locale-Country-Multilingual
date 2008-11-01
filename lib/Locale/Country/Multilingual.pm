@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.10';
+$VERSION = '0.11';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -236,7 +236,7 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 =head1 DESCRIPTION
 
 C<Locale::Country::Multilingual> is an OO replacement for
-L<Locale::Country|Locale::Country>, that supports country names in several
+L<Locale::Country|Locale::Country>, and supports country names in several
 languages.
 
 =head2 Language Codes
@@ -275,7 +275,7 @@ language data that is loaded before forking, is shared by all processes.
 
 The last argument can be a reference to a hash of options.
 
-The only option ATM is C<use_io_layer>. See
+The only option ATM is C<use_io_layer> and works for Perl 5.8 and higher. See
 L<Locale::Country::Multilingual::Unicode|Locale::Country::Multilingual::Unicode>
 for more information.
 
