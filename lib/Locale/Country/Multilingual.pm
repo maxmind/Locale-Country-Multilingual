@@ -393,27 +393,156 @@ Returns an unsorted list of country names in the current or given locale.
 
 =item en English
 
+=item bg Bulgarian
+
+=item bn Bengali
+
+=item ca Catalan
+
+=item cs Czech
+
+=item cy Welsh
+
+=item da Danish
+
+=item de German
+
+=item dz Dzongkha
+
+=item el Greek
+
+=item eo Esperanto
+
+=item es Spanish
+
+=item et Estonian
+
+=item eu Basque
+
+=item fa Persian
+
+=item fi Finnish
+
+=item fo Faroese
+
+=item fr French
+
+=item ga Irish
+
+=item gl Galician
+
+=item gu Gujarati
+
+=item he Hebrew
+
+=item hi Hindi
+
+=item hr Croatian
+
+=item hu Hungarian
+
+=item hy Armenian
+
+=item id Indonesian
+
+=item ii Sichuan Yi
+
+=item is Icelandic
+
+=item it Italian
+
+=item ja Japanese
+
+=item ka Georgian
+
+=item km Central Khmer
+
+=item kn Kannada
+
+=item ko Korean
+
+=item ln Lingala
+
+=item lo Lao
+
+=item lt Lithuanian
+
+=item lv Latvian
+
+=item mk Macedonian
+
+=item ml Malayalam
+
+=item mn Mongolian
+
+=item ms Malay
+
+=item mt Maltese
+
+=item my Burmese
+
+=item nb Norwegian Bokmål
+
+=item ne Nepali
+
+=item nl Dutch
+
+=item nn Norwegian Nynorsk
+
+=item no Norwegian
+
+=item pl Polish
+
+=item ps Pushto
+
+=item pt Portuguese
+
+=item ro Romanian
+
+=item ru Russian
+
+=item se Northern Sami
+
+=item sk Slovak
+
+=item sl Slovenian
+
+=item so Somali
+
+=item sq Albanian
+
+=item sr Serbian
+
+=item sv Swedish
+
+=item sw Swahili
+
+=item ta Tamil
+
+=item te Telugu
+
+=item th Thai
+
+=item to Tonga
+
+=item tr Turkish
+
+=item uk Ukrainian
+
+=item ur Urdu
+
+=item uz Uzbek
+
+=item vi Vietnamese
+
 =item zh (zh-cn) Chinese Simp.
 
 =item zh-tw Chinese Trad.
 
-=item it Italian
-
-=item es Spanish
-
-=item pt Portuguese
-
-=item de German
-
-=item fr French
-
-=item ja Japanese
-
-=item no Norwegian
-
 =back
 
-Other languages are welcome to send by email.
+Language files are more or less (in-)complete and fall back to English.
+Corrections, additions and more languages are highly appreciated.
 
 =head2 Deprecated languages
 
