@@ -29,6 +29,7 @@
 \#$
 \.#
 \.rej$
+\.screenrc
 
 # Avoid OS-specific files/dirs
 #   Mac OSX metadata
@@ -37,3 +38,7 @@
 \B\._
 # Avoid archives of this distribution
 \bLocale-Country-Multilingual-[\d\.\_]+
+
+# Avoid data and tools directories
+\bdata\b
+\btools\b
