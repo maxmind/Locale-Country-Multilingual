@@ -1,0 +1,7 @@
+http://unicode.org/cldr/
+
+http://www.statoids.com/
+
+https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
+
+http://www.swissdata.net/

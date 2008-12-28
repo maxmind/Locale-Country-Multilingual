@@ -1,0 +1,247 @@
+ID;Code A2;Code A3;Code N3;Land Englisch;Land Französisch;Land Deutsch;Land Italienisch;Land Portugiesisch;Land Spanisch;Hauptstadt;Kolonie von;Fläche Total km2;Fläche Land km2;Fläche Wasser km2;Koordinate X;Koordinate Y
+000184;AF;AFG;004;Afghanistan;Afganistan;Afghanistan;Afganistan;Afeganistão;Afganistán;Kabul;;647500.00;647500.00;0.00;03300N;06500E
+000241;AX;ALA;248;Aland Islands;Iles Aland;Alandinseln;Isole Aland;Ilhas Aland;Islas Aland;Mariehamn;Finnland;1527.00;1527.00;0.00;060 12 N;020 00 E
+000027;AL;ALB;008;Albania;Albanie;Albanien;Albania;Albânia;Albania;Tirana;;28703.00;28703.00;0.00;04100N;02000E
+000024;DZ;DZA;012;Algeria;Algérie;Algerien;Algeria;Argélia;Argelia;Algiers;;2381740.00;2381740.00;0.00;02800N;00300E
+000028;AS;ASM;016;American Samoa;Samoa Américaines;Amerikanisch Samoa;Samoa Americane;Samoa Americana;Samoa Americana;Pago Pago;Vereinigte Staaten;199.00;199.00;0.00;01420S;17000W
+000212;VI;VIR;850;American Virgin Islands;Iles Vierges Américaines;Amerikanische Jungferninseln;Isole Vergini Americane;Ilhas Virgens Americanas;Islas Vírgenes Americana;Charlotte Amalie;Vereinigte Staaten;352.00;352.00;0.00;01820N;06450W
+000029;AD;AND;020;Andorra;Andorre;Andorra;Andorra;Andorra;Andorra;Andorra la Vella;;468.00;468.00;0.00;04230N;00130E
+000030;AO;AGO;024;Angola;Angola;Angola;Angola;Angola;Angola;Luanda;;1246700.00;1246700.00;0.00;01230S;01830E
+000031;AI;AIA;660;Anguilla;Anguilla;Anguilla;Anguilla;Anguila;Anguilla;The Valley;Grossbritannien;102.00;102.00;0.00;01815N;06310W
+000224;AQ;ATA;010;Antarctica;Antarctique;Antarktis;Antartide;Antárctida;Antártida;Amundsen Scott Base;;14000000.00;14000000.00;0.00;09000S;00000E
+000032;AG;ATG;028;Antigua and Barbuda;Antigua et Barbuda;Antigua und Barbuda;Antigua e Barbuda;Antígua e Barbuda;Antigua y Barbuda;Saint Johns;;443.00;443.00;0.00;01703N;06148W
+000033;AR;ARG;032;Argentina;Argentine;Argentinien;Argentina;Argentina;Argentina;Buenos Aires;;2766890.00;2736690.00;30200.00;03400S;06400W
+000034;AM;ARM;051;Armenia;Arménie;Armenien;Armenia;Arménia;Armenia;Yerevan;;29800.00;28400.00;1400.00;04000N;04500E
+000236;AW;ABW;533;Aruba;Aruba;Aruba;Aruba;Aruba;Aruba;Oranjestad;Niederlande;193.00;193.00;0.00;01230N;06958W
+000238;AC;ASC;903;Ascension Island;Ile Ascension;Ascensioninsel;Isola Ascension;Ilha Acension;Isla Ascension;Georgetown;;42.00;42.00;0.00;00757S;01422W
+000035;AU;AUS;036;Australia;Australie;Australien;Australia;Austrália;Australia;Canberra;;7686850.00;7617930.00;68920.00;02700S;13300E
+000005;AT;AUT;040;Austria;Autriche;Oesterreich;Austria;Áustria;Austria;Vienna;;83871.71;82445.71;1426.00;04720N;01320E
+000036;AZ;AZE;031;Azerbaijan;Azerbaïdjan;Aserbaidschan;Azerbaijan;Azerbejdżan;Azerbaijan;Baku;;86600.00;86100.00;500.00;04030N;04730E
+000037;BS;BHS;044;Bahamas;Bahamas;Bahamas;Bahama;Bahamas;Bahamas;Nassau;;13940.00;10070.00;3870.00;02415N;07600W
+000038;BH;BHR;048;Bahrain;Bahrein;Bahrain;Bahrain;Barém;Bahrain;Al Manama;;665.00;665.00;0.00;02600N;05033E
+000039;BD;BGD;050;Bangladesh;Bangladesh;Bangladesch;Bangladesh;Bangladeche;Bangladesh;Dhaka;;144000.00;133910.00;10090.00;02400N;09000E
+000040;BB;BRB;052;Barbados;Barbade;Barbados;Barbados;Barbados;Barbados;Bridgetown;;431.00;431.00;0.00;01310N;05932W
+000215;BY;BLR;112;Belarus;Biélorussie;Belarus;Bielorussia;Bielorrússia;Bielorrusia;Minsk;;207600.00;207600.00;0.00;05300N;02800E
+000010;BE;BEL;056;Belgium;Belgique;Belgien;Belgio;Bélgica;Bélgica;Brussels;;30528.00;30278.00;250.00;05050N;00400E
+000041;BZ;BLZ;084;Belize;Belize;Belize;Belize;Belize;Belize;Belmopan;;22966.00;22806.00;160.00;01715N;08845W
+000042;BJ;BEN;204;Benin;Bénin;Benin;Benin;Benim;Benin;Porto Novo;;112620.00;110620.00;2000.00;00930N;00215E
+000043;BM;BMU;060;Bermuda;Bermudes;Bermuda;Bermuda;Bermudas;Bermudas;Hamilton;Grossbritannien;53.30;53.30;0.00;03220N;06445W
+000044;BT;BTN;064;Bhutan;Bhoutan;Bhutan;Bhutan;Butão;Bhután;Thimphu;;47000.00;47000.00;0.00;02730N;09030E
+000045;BO;BOL;068;Bolivia;Bolivie;Bolivien;Bolivia;Bolívia;Bolivia;La Paz;;1098580.00;1084390.00;14190.00;01700S;06500W
+000183;BA;BIH;070;Bosnia and Herzegovina;Bosnie et Herzégovine;Bosnien und Herzegowina;Bosnia e Erzegovina;Bósnia e Herzegovina;Bosnia y Hercegovina;Sarajevo;;51129.00;51129.00;0.00;04400N;01800E
+000046;BW;BWA;072;Botswana;Botswana;Botsuana;Botswana;Botsuana;Botsuana;Gaborone;;600370.00;585370.00;15000.00;02200S;02400E
+000235;BV;BVT;074;Bouvet Island;Ile Bouvet;Bouvetinsel;Isola Bouvet;Ilha Bouvet;Isla Bouvet;Oslo;Norwegen;49.00;49.00;0.00;05426S;00324E
+000047;BR;BRA;076;Brazil;Brésil;Brasilien;Brasile;Brasil;Brasil;Brasilia;;8511965.00;8456510.00;55455.00;01000S;05500W
+000225;IO;IOT;086;British Indian Ocean Territory;Territoire Britannique de l'Océan Indien;Britisches Territorium im Indischen Ozean;Territorio Britannico dell'Oceano Indiano;Território Britânico do Oceano Índico;Territorio Británico del Océano Indico;Road Town;Grossbritannien;104.00;104.00;0.00;00600S;07130E
+000216;VG;VGB;092;British Virgin Islands;Iles Vierges Britanniques;Britische Jungferninseln;Isole Vergini Britanniche;Ilhas Virgens Britânicas;Islas Vírgenes Británicas;Road Town;Grossbritannien;153.00;153.00;0.00;01830N;06430W
+000048;BN;BRN;096;Brunei Darussalam;Brunei Darussalam;Brunei Darussalam;Brunei Darussalam;Brunéi Darussalem;Brunei Darussalam;Bandar Seri Begawan;;5770.00;5270.00;500.00;00430N;11440E
+000049;BG;BGR;100;Bulgaria;Bulgarie;Bulgarien;Bulgaria;Bulgária;Bulgaria;Sofia;;110910.00;110550.00;360.00;04300N;02500E
+000050;BF;BFA;854;Burkina Faso;Burkina Faso;Burkina Faso;Burkina Faso;Burquina Faso;Burkina Faso;Ouagadougou;;274200.00;273800.00;400.00;01300N;00200W
+000051;BI;BDI;108;Burundi;Burundi;Burundi;Burundi;Burúndi;Burundi;Bujumbura;;27830.00;25650.00;2180.00;00330S;03000E
+000052;KH;KHM;116;Cambodia;Cambodge;Kambodscha;Cambogia;Camboja;Camboya;Phnom Penh;;181040.00;176520.00;4520.00;01300N;10500E
+000053;CM;CMR;120;Cameroon;Cameroun;Kamerun;Camerun;Camarões;Camerún;Yaounde;;475440.00;469440.00;6000.00;00600N;01200E
+000026;CA;CAN;124;Canada;Canada;Kanada;Canada;Canadá;Canadá;Ottawa;;9984670.00;9093507.00;891163.00;06000N;09500W
+000054;CV;CPV;132;Cape Verde;Cap Vert;Kap Verde;Cape Verde;Cabo Verde;Cabo Verde;Praia;;4033.00;4033.00;0.00;01600N;02400W
+000055;KY;CYM;136;Cayman Islands;Iles Cayman;Caymaninseln;Isole Caiman;Ilhas Caimão;Islas Caimán;George Town;Grossbritannien;262.00;262.00;0.00;01930N;08030W
+000056;CF;CAF;140;Central African Republic;République Centrafricaine;Zentralafrikanische Republik;Repubblica Centrafricana;República Centroafricana;República Centroafricana;Bangui;;622984.00;622984.00;0.00;00700N;02100E
+000057;TD;TCD;148;Chad;Tchad;Tschad;Ciad;Chade;Chad;N'Djamena;;1284000.00;1259200.00;24800.00;01500N;01900E
+000058;CL;CHL;152;Chile;Chili;Chile;Cile;Chile;Chile;Santiago;;756950.00;748800.00;8150.00;03000S;07100W
+000013;CN;CHN;156;China;Chine;China;Cina;China;China;Beijng;;9651429.00;9380879.00;270550.00;03500N;10500E
+000226;CX;CXR;162;Christmas Island;Ile Christmas;Weihnachtsinsel;Isola Christmas;Ilha do Natal;Isla Christmas;The Settlement;Australien;135.00;135.00;0.00;01030S;10540E
+000234;CC;CCK;166;Cocos Islands;Iles des Cocos;Kokosinseln;Isole Cocos;Ilhas Cocos;Islas Cocos;Bantam Village;Australien;14.00;14.00;0.00;01230S;09650E
+000059;CO;COL;170;Colombia;Colombie;Kolumbien;Colombia;Colômbia;Colombia;Bogota;;1138910.00;1038700.00;100210.00;00400N;07200W
+000206;KM;COM;174;Comoros;Comores;Komoren;Comore;Comores;Comoras;Moroni;;2170.00;2170.00;0.00;01210S;04415E
+000207;CG;COG;178;Congo;Congo;Kongo;Congo;Congo;Congo;Brazzaville;;342000.00;341500.00;500.00;00100S;01500E
+000060;CK;COK;184;Cook Islands;Iles Cook;Cookinseln;Isole Cook;Ilhas Cook;Islas Cook;Rarotonga;Neuseeland;236.70;236.70;0.00;02114S;15946W
+000061;CR;CRI;188;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Costa Rica;Costa Rica;San José;;51100.00;50660.00;440.00;01000N;08400W
+000099;CI;CIV;384;Cote d'Ivoire;Côte d'Ivoire;Elfenbeinküste;Costa d'Avorio;Costa do Marfim;Costa de Marfil;Yamoussoukro;;322460.00;318000.00;4460.00;00800N;00500W
+000062;HR;HRV;191;Croatia;Croatie;Kroatien;Croazia;Croácia;Croacia;Zagreb;;56542.00;56414.00;128.00;04510N;01530E
+000209;CU;CUB;192;Cuba;Cuba;Kuba;Cuba;Cuba;Cuba;Havana;;110860.00;110860.00;0.00;02130N;08000W
+000063;CY;CYP;196;Cyprus;Chypre;Zypern;Cipro;Chipre;Chipre;Nicosia;;9250.00;9240.00;10.00;03500N;03300E
+000064;CZ;CZE;203;Czech Republic;RépubliqueTchèque;Tschechische Republik;Republica Ceca;República Checa;República Checa;Prague;;78866.00;77276.00;1590.00;04945N;01530E
+000208;CD;COD;180;Democratic Republic of the Congo;République Démocratique du Congo;Demokratische Republik Kongo;Repubblica Democratica del Congo;República Democrática del Congo;República Democrática del Congo;Kinshasa;;2345410.00;2267600.00;77810.00;00000N;02500E
+000065;DK;DNK;208;Denmark;Danemark;Dänemark;Danimarca;Dinamarca;Dinamarca;Copenhagen;;43094.00;42394.00;700.00;05600N;01000E
+000066;DJ;DJI;262;Djibouti;Djibouti;Dschibuti;Gibuti;Jibuti;Yibuti;Djibouti;;23000.00;22980.00;20.00;01130N;04300E
+000067;DM;DMA;212;Dominica;Dominique;Dominica;Dominica;Domínica;Dominica;Roseau;;754.00;754.00;0.00;01525N;06120W
+000068;DO;DOM;214;Dominican Republic;République Dominicaine;Dominikanische Republik;Repubblica Dominicana;República Dominicana;República Dominicana;Santa Domingo;;48730.00;48380.00;350.00;01900N;07040W
+000220;TL;TLS;626;East Timor;Timor Oriental;Osttimor;Timor Orientale;Timor Leste;Timor Oriental;Dili;;15007.00;15007.00;0.00;00850S;12555E
+000069;EC;ECU;218;Ecuador;Équateur;Ecuador;Ecuador;Equador;Ecuador;Quito;;283560.00;276840.00;6720.00;00200S;07730W
+000070;EG;EGY;818;Egypt;Egypte;Aegypten;Egitto;Egipto;Egipto;Cairo;;1001450.00;995450.00;6000.00;02700N;03000E
+000071;SV;SLV;222;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;San Salvador;;21040.00;20720.00;320.00;01350N;08855W
+000072;GQ;GNQ;226;Equatorial Guinea;Guinée Equatoriale;Equatorial Guinea;Guinea Equatoriale;Guiné Equatorial;Guinea Ecuatorial;Malabo;;28051.00;28051.00;0.00;00200N;01000E
+000073;ER;ERI;232;Eritrea;Erythrée;Eritrea;Eritrea;Eritreia;Eritrea;Asmara;;121320.00;121320.00;0.00;01500N;03900E
+000074;EE;EST;233;Estonia;Estonie;Estland;Estonia;Estónia;Estonia;Tallinn;;45226.00;43211.00;2015.00;05900N;02600E
+000075;ET;ETH;231;Ethiopia;Ethiopie;Aethiopien;Etiopia;Etiópia;Etiopía;Addis Ababa;;1127127.00;1119683.00;7444.00;00800N;03800E
+000221;FK;FLK;238;Falkland Islands;Iles Falkland;Falklandinseln;Isole Malvinas;Ilhas Falkland;Islas Malvinas;Stanley;Grossbritannien;12173.00;12173.00;0.00;05145S;05900W
+000186;FO;FRO;234;Faroe Islands;Iles Féroé;Färöer Inseln;Isole Faroe;Ilhas Faroé;Islas Feroe;Torshavn;Dänemark;1399.00;1399.00;0.00;06200N;00700W
+000187;FJ;FJI;242;Fiji;Fidji;Fidschi;Figi;Fiji;Fidji;Suva;;18270.00;18270.00;0.00;01800S;17500E
+000076;FI;FIN;246;Finland;Finlande;Finnland;Finlandia;Finlândia;Finlandia;Helsinki;;336618.00;302946.00;33672.00;06400N;02600E
+000004;FR;FRA;250;France;France;Frankreich;Francia;França;Francia;Paris;;547030.00;545630.00;1400.00;04600N;00200E
+000233;GF;GUF;254;French Guyana;Guyane Française;Französisch Guyana;Guiana Francese;Guiana Francesa;Guayana Francesa;Cayenne;Frankreich;91000.00;89150.00;1850.00;00400N;05300W
+000077;PF;PYF;258;French Polynesia;Polynésie Française;Französisch Polynesien;Polinesia Francese;Polinésia Francesa;Polinesia Francesa;Papeete;Frankreich;4167.00;3660.00;507.00;01500S;14000W
+000231;TF;ATF;260;French Southern Territories;Terres Australes Françaises;Französische Gebiete im Indischen Ozean;Territori Australi Francesi;Territórios Austrais Franceses;Territorios Australes Franceses;Saint Pierre;Frankreich;7829.00;7829.00;0.00;04300S;06700E
+000078;GA;GAB;266;Gabon;Gabon;Gabun;Gabon;Gabão;Gabón;Libreville;;267667.00;257667.00;10000.00;00100S;01145E
+000082;GM;GMB;270;Gambia;Gambie;Gambia;Gambia;Gâmbia;Gambia;Banjul;;11300.00;10000.00;1300.00;01328N;01634W
+000083;GE;GEO;268;Georgia;Géorgie;Georgien;Georgia;Geórgia;Georgia;Tbilisi;;69700.00;69700.00;0.00;04200N;04330E
+000002;DE;DEU;276;Germany;Allemagne;Deutschland;Germania;Alemanha;Alemania;Berlin;;357046.00;349248.00;7798.00;05100N;00900E
+000084;GH;GHA;288;Ghana;Ghana;Ghana;Ghana;Gana;Ghana;Accra;;239460.00;230940.00;8520.00;00800N;00200W
+000219;GI;GIB;292;Gibraltar;Gibraltar;Gibraltar;Gibilterra;Gibraltar;Gibraltar;Gibraltar;Grossbritannien;6.50;6.50;0.00;03608N;00521W
+000085;GR;GRC;300;Greece;Grèce;Griechenland;Grecia;Grécia;Grecia;Athenes;;131940.00;130800.00;1140.00;03900N;02200E
+000188;GL;GRL;304;Greenland;Groenland;Grönland;Groenlandia;Gronelândia;Groenlandia;Nuuk;Dänemark;2166086.00;2166086.00;0.00;07200N;04000W
+000086;GD;GRD;308;Grenada;Grenade;Grenada;Grenada;Granada;Granada;Saint Georges;;344.00;344.00;0.00;01207N;06140W
+000087;GP;GLP;312;Guadeloupe;Guadeloupe;Guadeloupe;Guadalupa;Guadalupe;Guadalupe;Basse Terre;Frankreich;1780.00;1706.00;74.00;01615N;06135W
+000088;GU;GUM;316;Guam;Guam;Guam;Guam;Guame;Guam;Hagatna;Vereinigte Staaten;541.30;541.30;0.00;01328N;14447E
+000089;GT;GTM;320;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala City;;108890.00;108430.00;460.00;01530N;09015W
+000243;GG;GGY;831;Guernsey;Guernesey;Guernsey;Guernsey;Guernsey;Guernsey;Saint Peter Port;Grossbritannien;78.00;78.00;0.00;049 28 N;002 35 W
+000090;GN;GIN;324;Guinea;Guinée;Guinea;Guinea;Guiné;Guinea;Conakry;;245857.00;245857.00;0.00;01100N;01000W
+000214;GW;GNB;624;Guinea Bissau;Guiné Bissao;Guinea Bissau;Guinea Bissau;Guinea Bissau;Guinea Bissau;Bissau;;36120.00;28000.00;8120.00;01200N;01500W
+000091;GY;GUY;328;Guyana;Guyane;Guyana;Guyana;Guiana;Guayana;Georgetown;;214970.00;196850.00;18120.00;00500N;05900W
+000092;HT;HTI;332;Haiti;Haiti;Haiti;Haiti;Haiti;Haití;Port au Prince;;27750.00;27560.00;190.00;01900N;07225W
+000239;HM;HMD;334;Heard Island and McDonald Islands;Iles Heard et McDonald;Heard und McDonaldinseln;Isole Heard e McDonald;Ilhas Heard e McDonald;Islas Heard y McDonald;Hobart;Australien;412.00;412.00;0.00;05306S;07231E
+000093;HN;HND;340;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Tegucigalpa;;112090.00;111890.00;200.00;01500N;08630W
+000019;HK;HKG;344;Hong Kong;Hong Kong;Hong Kong;Hong Kong;Hong Kong;Hong Kong;Hong Kong;China;1092.00;1042.00;50.00;02215N;11410E
+000094;HU;HUN;348;Hungary;Hongrie;Ungarn;Ungheria;Hungria;Hungría;Budapest;;93030.00;92340.00;690.00;04700N;02000E
+000095;IS;ISL;352;Iceland;Islande;Island;Islanda;Islândia;Islandia;Reykjavik;;103000.00;100250.00;2750.00;06500N;01800W
+000096;IN;IND;356;India;Inde;Indien;India;India;India;New Delhi;;3287590.00;2973190.00;314400.00;02000N;07700E
+000097;ID;IDN;360;Indonesia;Indonésie;Indonesien;Indonesia;Indonésia;Indonesia;Jakarta;;1919440.00;1826440.00;93000.00;00500S;12000E
+000020;IR;IRN;364;Iran;Iran;Iran;Iran;Irão;Irán;Tehran;;1648000.00;1636000.00;12000.00;03200N;05300E
+000022;IQ;IRQ;368;Iraq;Iraq;Irak;Iraq;Iraque;Iraq;Baghdad;;437072.00;432162.00;4910.00;03300N;04400E
+000098;IE;IRL;372;Ireland;Irlande;Irland;Irlanda;Irlanda;Irlanda;Dublin;;70280.00;68890.00;1390.00;05300N;00800W
+000246;IM;IMN;833;Isle of Man;Ile de Man;Maninsel;Isola di Man;Ilha de Man;Isla de Man;Douglas;Grossbritannien;572.00;572.00;0.00;054 15 N;004 30 W
+000021;IL;ISR;376;Israel;Israël;Israel;Israele;Israel;Israel;Jerusalem;;20770.00;20330.00;440.00;03130N;03445E
+000003;IT;ITA;380;Italy;Italie;Italien;Italia;Itália;Italia;Rome;;301230.00;294020.00;7210.00;04250N;01250E
+000100;JM;JAM;388;Jamaica;Jamaïque;Jamaika;Giamaica;Jamaica;Jamaica;Kingston;;10991.00;10831.00;160.00;01815N;07730W
+000006;JP;JPN;392;Japan;Japon;Japan;Giappone;Japão;Japón;Tokyo;;377835.00;374744.00;3091.00;03600N;13800E
+000101;JO;JOR;400;Jordan;Jordanie;Jordanien;Giordania;Jordânia;Jordania;Amman;;92300.00;91971.00;329.00;03100N;03600E
+000102;KZ;KAZ;398;Kazakstan;Kazakhstan;Kasachstan;Kazakistan;Cazaquistão;Kazajstán;Astana;;2717300.00;2669800.00;47500.00;04800N;06800E
+000103;KE;KEN;404;Kenya;Kenya;Kenya;Kenya;Quénia;Kenia;Nairobi;;582650.00;569250.00;13400.00;00100N;03800E
+000189;KI;KIR;296;Kiribati;Kiribati;Kiribati;Kiribati;Quiribáti;Kiribati;Tarawa;;811.00;811.00;0.00;00125N;17300E
+000104;KW;KWT;414;Kuwait;Koweït;Kuwait;Kuwait;Kuwait;Kuwait;Kuwait;;17820.00;17820.00;0.00;02930N;04545E
+000105;KG;KGZ;417;Kyrgyzstan;Kirghizistan;Kirgisistan;Kirghizistan;Quirguizistão;Kirguizistán;Bishkek;;198500.00;191300.00;7200.00;04100N;07500E
+000190;LA;LAO;418;Laos;Laos;Laos;Laos;Laos;Laos;Vientiane;;236800.00;230800.00;6000.00;01800N;10500E
+000106;LV;LVA;428;Latvia;Lettonie;Lettland;Lettonia;Letónia;Letonia;Riga;;64589.00;63589.00;1000.00;05700N;02500E
+000107;LB;LBN;422;Lebanon;Liban;Libanon;Libano;Líbano;Líbano;Beirut;;10400.00;10230.00;170.00;03350N;03550E
+000023;LS;LSO;426;Lesotho;Lesotho;Lesotho;Lesotho;Lesoto;Lesoto;Maseru;;30355.00;30355.00;0.00;02930S;02830E
+000108;LR;LBR;430;Liberia;Liberia;Liberia;Liberia;Libéria;Liberia;Monrovia;;111370.00;96320.00;15050.00;00630N;00930W
+000191;LY;LBY;434;Libya;Libye;Libyen;Libia;Líbya;Libya;Tripoli;;1759540.00;1759540.00;0.00;02500N;01700E
+000109;LI;LIE;438;Liechtenstein;Liechtenstein;Liechtenstein;Liechtenstein;Listenstaine;Liechtenstein;Vaduz;;160.47;160.47;0.00;04716N;00932E
+000110;LT;LTU;440;Lithuania;Lithuanie;Litauen;Lituania;Lituânia;Lituania;Vilnius;;65200.00;65200.00;0.00;05600N;02400E
+000011;LU;LUX;442;Luxembourg;Luxembourg;Luxemburg;Lussemburgo;Luxemburgo;Luxemburgo;Luxembourg;;2586.00;2586.00;0.00;04945N;00610E
+000222;MO;MAC;446;Macau;Macao;Macao;Macao;Macau;Macao;Macau City;China;28.20;28.20;0.00;02210N;11333E
+000111;MK;MKD;807;Macedonia;Macédoine;Mazedonien;Macedonia;Macedonia;Macedonia;Skopje;;25333.00;24856.00;477.00;04150N;02200E
+000112;MG;MDG;450;Madagascar;Madagascar;Madagaskar;Madagascar;Madagáscar;Madagascar;Antananarivo;;587040.00;581540.00;5500.00;02000S;04700E
+000113;MW;MWI;454;Malawi;Malawi;Malawi;Malawi;Malávi;Malawi;Lilongwe;;118480.00;94080.00;24400.00;01330S;03400E
+000015;MY;MYS;458;Malaysia;Malaisie;Malaysia;Malesia;Malásia;Malasia;Kuala Lumpur;;329750.00;328550.00;1200.00;00230N;11230E
+000114;MV;MDV;462;Maldives;Maldives;Malediven;Maldive;Maldivas;Maldivas;Male;;300.00;300.00;0.00;00315N;07300E
+000115;ML;MLI;466;Mali;Mali;Mali;Mali;Mali;Malí;Bamako;;1240000.00;1220000.00;20000.00;01700N;00400W
+000116;MT;MLT;470;Malta;Malte;Malta;Malta;Malta;Malta;Valletta;;316.00;316.00;0.00;03550N;01435E
+000117;MH;MHL;584;Marshall Islands;Iles Marshall;Marshallinseln;Isole Marshall;Ilhas Marshall;Islas Marshall;Majuro;;181.30;181.30;0.00;00900N;16800E
+000118;MQ;MTQ;474;Martinique;Martinique;Martinique;Martinica;Martinica;Martinica;Fort de France;Frankreich;1100.00;1060.00;40.00;01440N;06100W
+000119;MR;MRT;478;Mauritania;Mauritanie;Mauretanien;Mauritania;Mauritânia;Mauritania;Nouakchott;;1030700.00;1030400.00;300.00;02000N;01200W
+000120;MU;MUS;480;Mauritius;Maurice;Mauritius;Maurizio;Maurícia;Mauricio;Port Louis;;2040.00;2030.00;10.00;02017S;05733E
+000192;YT;MYT;175;Mayotte;Mayotte;Mayotte;Mayotte;Mayotte;Mayotte;Mamoutzou;Frankreich;374.00;374.00;0.00;01250S;04510E
+000121;MX;MEX;484;Mexico;Mexique;Mexiko;Messico;México;México;Mexico City;;1972550.00;1923040.00;49510.00;02300N;10200W
+000122;FM;FSM;583;Micronesia;Micronésie;Mikronesien;Micronesia;Micronésia;Micronesia;Kolonia;;702.00;702.00;0.00;00655N;15815E
+000123;MD;MDA;498;Moldova;Moldavie;Moldawien;Moldavia;Moldávia;Moldavia;Kishinev;;33843.00;33371.00;472.00;04700N;02900E
+000124;MC;MCO;492;Monaco;Monaco;Monaco;Monaco;Mónaco;Mónaco;Monte Carlo;;1.95;1.95;0.00;04344N;00724E
+000125;MN;MNG;496;Mongolia;Mongolie;Mongolei;Mongolia;Mongólia;Mongolia;Ulaan Baatar;;1564116.00;1564116.00;0.00;04600N;10500E
+000242;ME;MNE;499;Montenegro;Monténégro;Montenegro;Montenegro;Montenegro;Montenegro;Podgorica;;14026.00;13812.00;1.00;042 20 N;019 18 E
+000126;MS;MSR;500;Montserrat;Monserrat;Montserrat;Montserrat;Monserrate;Montserrat;Plymouth;Grossbritannien;102.00;102.00;0.00;01645N;06212W
+000127;MA;MAR;504;Morocco;Maroc;Marokko;Marocco;Marrocos;Marruecos;Rabat;;446550.00;446300.00;250.00;03200N;00500W
+000128;MZ;MOZ;508;Mozambique;Mozambique;Mosambik;Mozambico;Moçambique;Mozambique;Maputo;;801590.00;784090.00;17500.00;01815S;03500E
+000017;MM;MMR;104;Myanmar;Myanmar;Myanmar;Myanmar;Myanmar;Myanmar;Rangoon;;678500.00;657740.00;20760.00;02200N;09800E
+000129;NA;NAM;516;Namibia;Namibie;Namibia;Namibia;Namíbia;Namibia;Windhoek;;825418.00;825418.00;0.00;02200S;01700E
+000193;NR;NRU;520;Nauru;Nauru;Nauru;Nauru;Nauru;Nauru;Makwa;;21.00;21.00;0.00;00032S;16655E
+000130;NP;NPL;524;Nepal;Nepal;Nepal;Nepal;Nepal;Nepal;Kathmandu;;147181.00;143181.00;4000.00;02800N;08400E
+000131;NL;NLD;528;Netherlands;Pays Bas;Niederlande;Paesi Bassi;Países Baixos;Países Bajos;Amsterdam;;41526.00;33883.00;7643.00;05230N;00545E
+000194;AN;ANT;530;Netherlands Antilles;Antilles Néerlandaises;Niederländische Antillen;Antille Olandesi;Antilhas Neerlandesas;Antillas Neerlandesas;Willemstad;Niederlande;960.00;960.00;0.00;01215N;06845W
+000132;NC;NCL;540;New Caledonia;Nouvelle Calédonie;Neukaledonien;Nuova Caledonia;Nova Caledónia;Nueva Caledonia;Noumea;Frankreich;19060.00;18575.00;485.00;02130S;16530E
+000133;NZ;NZL;554;New Zealand;Nouvelle Zélande;Neuseeland;Nuova Zelanda;Nova Zelândia;Nueva Zelanda;Wellington;;268680.00;268680.00;0.00;04100S;17400E
+000134;NI;NIC;558;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nicarágua;Nicaragua;Managua;;129494.00;120254.00;9240.00;01300N;08500W
+000135;NE;NER;562;Niger;Niger;Niger;Niger;Níger;Níger;Niamey;;1267000.00;1266700.00;300.00;01600N;00800E
+000136;NG;NGA;566;Nigeria;Nigeria;Nigeria;Nigeria;Nigéria;Nigeria;Abuja;;923768.00;910768.00;13000.00;01000N;00800E
+000195;NU;NIU;570;Niue;Nioué;Niue;Niue;Niue;Niue;Alofi;Neuseeland;260.00;260.00;0.00;01902S;16952W
+000196;NF;NFK;574;Norfolk Island;Ile Norfolk;Norfolkinsel;Isola Norfolk;Ilha Norfolk;Isla Norfolk;Kingston;Australien;34.60;34.60;0.00;02902S;16757E
+000218;KP;PRK;408;North Korea;Corée du Nord;Nordkorea;Corea del Norte;Coreia do Norte;Corea del Norte;Pyongyang;;120540.00;120410.00;130.00;04000N;12700E
+000197;MP;MNP;580;Northern Mariana Islands;Iles Mariana du Nord;Nördliche Marianeninseln;Isole Mariana del Norte;Ilhas Mariana do Norte;Islas Mariana del Norte;Saipan;Vereinigte Staaten;477.00;477.00;0.00;01512N;14545E
+000137;NO;NOR;578;Norway;Norvège;Norwegen;Norvegia;Noruega;Noruega;Oslo;;323802.00;307442.00;16360.00;06200N;01000E
+000138;OM;OMN;512;Oman;Oman;Oman;Oman;Omã;Omán;Muscat;;212460.00;212460.00;0.00;02100N;05700E
+000139;PK;PAK;586;Pakistan;Pakistan;Pakistan;Pakistan;Paquistão;Pakistán;Islamabad;;803940.00;778720.00;25220.00;03000N;07000E
+000140;PW;PLW;585;Palau;Palau;Palau;Palau;Palau;Palaos;Koror;;458.00;458.00;0.00;00730N;13430E
+000141;PS;PSE;275;Palestine;Palestine;Palästina;Palestina;Palestina;Palestina;Ramallah;;2410.00;2410.00;0.00;03200N;03515E
+000142;PA;PAN;591;Panama;Panama;Panama;Panama;Panamá;Panamá;Panama City;;78200.00;75990.00;2210.00;00900N;08000W
+000143;PG;PNG;598;Papua New Guinea;Papouasie Nouvelle Guinée;Papua Neu Guinea;Papua Nuova Guinea;Papua Nova Guiné;Papúa Nueva Guinea;Port Moresby;;462840.00;452860.00;9980.00;00600S;14700E
+000144;PY;PRY;600;Paraguay;Paraguay;Paraguay;Paraguay;Paraguai;Paraguay;Asuncion;;406750.00;397300.00;9450.00;02300S;05800W
+000025;PE;PER;604;Peru;Pérou;Peru;Perù;Peru;Perú;Lima;;1285220.00;1280000.00;5220.00;01000S;07600W
+000007;PH;PHL;608;Philippines;Philippines;Philippinen;Filippine;Filipinas;Filipinas;Manila;;300000.00;298170.00;1830.00;01300N;12200E
+000228;PN;PCN;612;Pitcairn Islands;Iles Pitcairn;Pitcairninseln;Isole Pitcairn;Ilhas Pitcairn;Islas Pitcairn;Adamstown;Grossbritannien;47.00;47.00;0.00;02504S;13006W
+000012;PL;POL;616;Poland;Pologne;Polen;Polonia;Polónia;Polonia;Warsaw;;312685.00;304465.00;8220.00;05200N;02000E
+000145;PT;PRT;620;Portugal;Portugal;Portugal;Portogallo;Portugal;Portugal;Lisbon;;92391.00;91951.00;440.00;03930N;00800W
+000211;PR;PRI;630;Puerto Rico;Porto Rico;Puerto Rico;Porto Rico;Puerto Rico;Puerto Rico;San Juan;Vereinigte Staaten;13790.00;8869.00;4921.00;01815N;06630W
+000146;QA;QAT;634;Qatar;Qatar;Qatar;Qatar;Catar;Qatar;Ad Dawhah;;11437.00;11437.00;0.00;02530N;05115E
+000147;RE;REU;638;Reunion;Réunion;Reunion;Riunione;Reunião;Reunión;Saint Denis;Frankreich;2517.00;2507.00;10.00;02106S;05536E
+000148;RO;ROM;642;Romania;Roumanie;Rumänien;Romania;Roménia;Rumania;Bucharest;;237500.00;230340.00;7160.00;04600N;02500E
+000014;RU;RUS;643;Russia;Russie;Russland;Russia;Rússia;Rusia;Moscow;;17075200.00;16995800.00;79400.00;06000N;10000E
+000149;RW;RWA;646;Rwanda;Rwanda;Ruanda;Ruanda;Ruanda;Ruanda;Kigali;;26338.00;24948.00;1390.00;00200S;03000E
+000245;BL;BLM;652;Saint Barthelemy;Saint Barthélemy;Sankt Barthélemy;Saint Barthélemy;São Barthélemy;San Bartolomé;Gustavia;Frankreich;21.00;21.00;0.00;017 90 N;062 85 W
+000229;SH;SHN;654;Saint Helena;Sainte Hélène;Sankt Helena;Sant'Elena;Santa Helena;Santa Helena;Jamestown;Grossbritannien;413.00;413.00;0.00;01556S;00542W
+000159;KN;KNA;659;Saint Kitts and Nevis;Saint Christophe et Niévès;Sankt Kitts und Nevis;Saint Kitts e Nevis;São Cristóvão e Neves;San Cristóbal y Nieves;Basseterre;;261.00;261.00;0.00;01720N;06245W
+000160;LC;LCA;662;Saint Lucia;Sainte Lucie;Santa Lucia;Santa Lucia;Santa Lúcia;Santa Lucía;Castries;;616.00;606.00;10.00;01353N;06068W
+000244;MF;MAF;663;Saint Martin;Saint Martin;Sankt Martin;Saint Martin;São Martim;San Martín;Marigot;Frankreich;54.00;54.00;0.00;018 05 N;063 57 W
+000201;PM;SPM;666;Saint Pierre and Miquelon;Saint Pierre et Miquelon;Sankt Pierre und Miquelon;Santa Pierre e Miquelon;São Pedro e Miquelon;San Pedro y Miquelón;Saint Pierre;Frankreich;242.00;242.00;0.00;04650N;05620W
+000161;VC;VCT;670;Saint Vincent and the Grenadines;Saint Vincent et les Grenadines;Sankt Vincent und die Grenadinen;Santa Vincent e Grenadine;São Vicente e Granadinas;San Vicente y las Granadinas;Kingstown;;389.00;389.00;0.00;01315N;06112W
+000227;WS;WSM;882;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Apia;;2944.00;2934.00;10.00;01335S;17220W
+000199;SM;SMR;674;San Marino;Saint Marin;San Marino;San Marino;São Marinho;San Marino;San Marino;;61.20;61.20;0.00;04346N;01225E
+000200;ST;STP;678;Sao Tome and Principe;Sao Tome et Principe;Sao Tome und Principe;Sao Tome e Principe;São Tomé e Príncipe;Santo Tomás y Príncipe;Sao Tome;;1001.00;1001.00;0.00;00100N;00700E
+000150;SA;SAU;682;Saudi Arabia;Arabie Saoudite;Saudi Arabien;Arabia Saudita;Arábia Saudita;Arabia Saudí;Riyadh;;1960582.00;1960582.00;0.00;02500N;04500E
+000151;SN;SEN;686;Senegal;Sénégal;Senegal;Senegal;Senegal;Senegal;Dakar;;196190.00;192000.00;4190.00;01400N;01400W
+000232;RS;SRB;688;Serbia;Serbie;Serbien;Serbia;Serbia;Serbia;Belgrade;;88361.00;88361.00;0.00;04400N;02100E
+000018;SC;SYC;690;Seychelles;Seychelles;Seyschellen;Seicelle;Seicheles;Seychelles;Victoria;;455.00;455.00;0.00;00435S;05540E
+000152;SL;SLE;694;Sierra Leone;Sierra Leone;Sierra Leone;Sierra Leone;Serra Leoa;Sierra Leone;Freetown;;71740.00;71620.00;120.00;00830N;01130W
+000016;SG;SGP;702;Singapore;Singapour;Singapur;Singapore;Singapura;Singapur;Singapore;;692.70;682.70;10.00;00122N;10348E
+000153;SK;SVK;703;Slovakia;Slovaquie;Slowakei;Slovacchia;Eslováquia;Eslovaquia;Bratislava;;48845.00;48800.00;45.00;04840N;01930E
+000154;SI;SVN;705;Slovenia;Slovénie;Slowenien;Slovenia;Eslovénia;Eslovenia;Ljubljana;;20273.00;20151.00;122.00;04607N;01449E
+000198;SB;SLB;090;Solomon Islands;Iles Solomon;Solomoninseln;Isole Solomone;Ilhas Solomão;Islas Solomón;Honiara;;28450.00;27540.00;910.00;00800S;15900E
+000155;SO;SOM;706;Somalia;Somalie;Somalia;Somalia;Somália;Somalia;Mogadishu;;637657.00;627337.00;10320.00;01000N;04900E
+000156;ZA;ZAF;710;South Africa;Afrique du Sud;Südafrika;Sudafrica;Africa do Sul;Sudáfrica;Pretoria;;1219912.00;1219912.00;0.00;02900S;02400E
+000001;GS;SGS;239;South Georgia and the South Sandwich Islands;Géorgie du Sud et Iles Sandwich du Sud;Südgeorgien und südliche Sandwichinseln;Georgia del Sud e Isole Sandwich del Sud;Geórgia do Sul e Sandwich do Sul;Georgia del Sur y Islas Sandwich del Sur;Grytviken;Grossbritannien;3903.00;3903.00;0.00;05430S;03700W
+000157;KR;KOR;410;South Korea;Corée du Sud;Südkorea;Corea del Sud;Coreia do Sul;Corea del Sur;Seoul;;98480.00;98190.00;290.00;03700N;12730E
+000009;ES;ESP;724;Spain;Espagne;Spanien;Spagna;Espanha;España;Madrid;;504782.00;499542.00;5240.00;04000N;00400W
+000158;LK;LKA;144;Sri Lanka;Sri Lanka;Sri Lanka;Sri Lanka;Sri Lanca;Sri Lanka;Colombo;;65610.00;64740.00;870.00;00700N;08100E
+000162;SD;SDN;736;Sudan;Soudan;Sudan;Sudan;Sudão;Sudán;Khartoum;;2505810.00;2376000.00;129810.00;01500N;03000E
+000163;SR;SUR;740;Suriname;Suriname;Suriname;Suriname;Suriname;Surinam;Paramaribo;;163270.00;161470.00;1800.00;00400N;05600W
+000223;SJ;SJM;744;Svalbard and Jan Mayen;Svalbard et Jan Mayen;Svalbard und Jan Mayen;Svalbard e Jan Mayen;Svalbard e Jan Mayen;Svalbard y Jan Mayen;Longyearbyen;Norwegen;61020.00;61020.00;0.00;07800N;02000E
+000164;SZ;SWZ;748;Swaziland;Swaziland;Swasiland;Swaziland;Suazilândia;Suazilandia;Mbabane;;17363.00;17203.00;160.00;02630S;03130E
+000165;SE;SWE;752;Sweden;Suède;Schweden;Svezia;Suécia;Suecia;Stockholm;;449964.00;410934.00;39030.00;06200N;01500E
+000237;CH;CHE;756;Switzerland;Suisse;Schweiz;Svizzera;Suíça;Suiza;Bern;;41284.37;39995.55;1288.82;04700N;00800E
+000166;SY;SYR;760;Syria;Syrie;Syrien;Siria;Síria;Siria;Damascus;;185180.00;184050.00;1130.00;03500N;03800E
+000167;TW;TWN;158;Taiwan;Taïwan;Taiwan;Taiwan;Taiwan;Taiwán;Taipei;;35980.00;32260.00;3720.00;02330N;12100E
+000202;TJ;TJK;762;Tajikistan;Tadjikistan;Tadschikistan;Tagikistan;Tajiquistão;Tayikistán;Dushanbe;;143100.00;142700.00;400.00;03900N;07100E
+000168;TZ;TZA;834;Tanzania;Tanzanie;Tansania;Tanzania;Tanzânia;Tanzania;Dodoma;;945087.00;886037.00;59050.00;00600S;03500E
+000008;TH;THA;764;Thailand;Thaïlande;Thailand;Thailandia;Tailândia;Tailandia;Bangkok;;514000.00;511770.00;2230.00;01500N;10000E
+000169;TG;TGO;768;Togo;Togo;Togo;Togo;Togo;Togo;Lomé;;56785.00;54385.00;2400.00;00800N;00110E
+000230;TK;TKL;772;Tokelau Islands;Iles Tokélaou;Tokelauinseln;Isole Tokelau;Ilhas Tokelau;Islas Tokelau;Alofi;Neuseeland;10.00;10.00;0.00;00900S;17200W
+000203;TO;TON;776;Tonga;Iles Tonga;Tonga;Tonga;Tonga;Tonga;Nuku'alofa;;748.00;718.00;30.00;02000S;17500W
+000170;TT;TTO;780;Trinidad and Tobago;Trinité et Tobago;Trinidad und Tobago;Trinidad e Tobago;Trindade e Tobago;Trinidad y Tobago;Port of Spain;;5128.00;5128.00;0.00;01100N;06100W
+000171;TN;TUN;788;Tunisia;Tunisie;Tunesien;Tunisia;Tunísia;Túnez;Tunis;;163610.00;155360.00;8250.00;03400N;00900E
+000172;TR;TUR;792;Turkey;Turquie;Türkei;Turchia;Turquia;Turquía;Ankara;;780580.00;770760.00;9820.00;03900N;03500E
+000173;TM;TKM;795;Turkmenistan;Turkménistan;Turkmenistan;Turkmenistan;Turquemenistão;Turkmenistán;Ashgabat;;488100.00;488100.00;0.00;04000N;06000E
+000185;TC;TCA;796;Turks and Caicos Islands;Iles Turks et Caicos;Turks- und Caicosinseln;Isole Turks e Caicos;Ilhas Turcas e Caicos;Islas Turcas y Caicos;Grand Turk;Grossbritannien;430.00;430.00;0.00;02145N;07135W
+000213;TV;TUV;798;Tuvalu;Tuvalu;Tuvalu;Tuvalu;Tuvalu;Tuvalu;Funafuti;;26.00;26.00;0.00;00800S;17800E
+000175;UG;UGA;800;Uganda;Ouganda;Uganda;Uganda;Uganda;Uganda;Kampala;;236040.00;199710.00;36330.00;00100N;03200E
+000176;UA;UKR;804;Ukraine;Ukraine;Ukraine;Ucraina;Ucrânia;Ucrania;Kiev;;603700.00;603700.00;0.00;04900N;03200E
+000174;AE;ARE;784;United Arab Emirates;Emirats Arabes Unis;Vereinigte Arabische Emirate;Emirati Arabi Uniti;Emiratos Arabes Unidos;Emiratos Arabes Unidos;Abu Dhabi;;82880.00;82880.00;0.00;02400N;05400E
+000210;GB;GBR;826;United Kingdom;Grande Bretagne;Grossbritannien;Gran Bretagna;Gran Bretaña;Gran Bretaña;London;;244820.00;241590.00;3230.00;05400N;00200W
+000204;US;USA;840;United States;Etats Unis;Vereinigte Staaten;Stati Uniti;Estados Unidos;Estado Unidos;Washington;;9631420.00;9161923.00;469497.00;03800N;09700W
+000240;UM;UMI;581;United States Minor Outlying Islands;Iles Mineures Eloignées des Etats Unis;Kleinere Amerikanische Ueberseeinseln;Isole Minori lontane dagli Stati Uniti;Ilhas Menores Distantes dos Estados Unidos;Islas menores alejadas de los Estados Unidos;Johnston;Vereinigte Staaten;42.00;42.00;0.00;00022S;16003W
+000177;UY;URY;858;Uruguay;Uruguay;Uruguay;Uruguay;Uruguai;Uruguay;Montevideo;;176220.00;173620.00;2600.00;03300S;05600W
+000178;UZ;UZB;860;Uzbekistan;Ouzbékistan;Usbekistan;Uzbekistan;Usbequistão;Uzbekistán;Tashkent;;447400.00;425400.00;22000.00;04100N;06400E
+000179;VU;VUT;548;Vanuatu;Vanuatu;Vanuatu;Vanuatu;Vanuatu;Vanuatu;Port Vila;;12200.00;12200.00;0.00;01600S;16700E
+000180;VA;VAT;336;Vatican;Vatican;Vatikan;Vaticano;Vaticano;Vaticano;Vatican City;;0.44;0.44;0.00;04154N;01227E
+000181;VE;VEN;862;Venezuela;Venezuela;Venezuela;Venezuela;Venezuela;Venezuela;Caracas;;912050.00;882050.00;30000.00;00800N;06600W
+000182;VN;VNM;704;Vietnam;Viêtnam;Vietnam;Vietnam;Vietname;Vietnam;Hanoi;;329560.00;325360.00;4200.00;01600N;10600E
+000079;WF;WLF;876;Wallis and Futuna;Wallis et Futuna;Wallis und Futuna;Wallis e Futuna;Wallis e Futuna;Wallis y Futuna;Mata Utu;Frankreich;274.00;274.00;0.00;01318S;17612W
+000205;EH;ESH;732;Western Sahara;Sahara Occidental;Westsahara;Sahara Occidentale;Sara Ocidental;Sáhara Occidental;El Aaiún;Marokko;266000.00;266000.00;0.00;02430N;01300W
+000080;YE;YEM;887;Yemen;Yémen;Jemen;Yemen;Iémen;Yemen;Sanaa;;527970.00;527970.00;0.00;01500N;04800E
+000081;ZM;ZMB;894;Zambia;Zambie;Zambia;Zambia;Zâmbia;Zambia;Lusaka;;752614.00;740724.00;11890.00;01500S;03000E
+000217;ZW;ZWE;716;Zimbabwe;Zimbabwe;Zimbabwe;Zimbawe;Zimbabué;Zimbabue;Harare;;390580.00;386670.00;3910.00;02000S;03000E
