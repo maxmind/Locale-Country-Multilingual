@@ -439,7 +439,8 @@ ISO 639 L<http://en.wikipedia.org/wiki/ISO_639>,
 ISO 3166 L<http://en.wikipedia.org/wiki/ISO_3166>,
 RFC 2616 L<http://www.ietf.org/rfc/rfc2616.txt>
 RFC 4646 L<http://www.ietf.org/rfc/rfc4646.txt>,
-RFC 4647 L<http://www.ietf.org/rfc/rfc4647.txt>
+RFC 4647 L<http://www.ietf.org/rfc/rfc4647.txt>,
+Unicode CLDR Project L<http://unicode.org/cldr/>
 
 =head1 ACKNOWLEDGEMENTS
 
@@ -447,7 +448,9 @@ Thanks to michele ongaro for Italian/Spanish/Portuguese/German/French/Japanese d
 
 Thanks to Andreas Marienborg for Norwegian dat file.
 
-=head1 AUTHOR
+Thanks to all contributors of the Unicode CLDR Project.
+
+=head1 AUTHORS
 
 Fayland Lam <fayland at gmail.com>
 
@@ -455,7 +458,7 @@ Bernhard Graf <graf at cpan.org>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2007-2008 *AUTHOR* all rights reserved.
+Copyright 2007-2008 by the aforementioned authors.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
