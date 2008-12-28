@@ -1,0 +1,21 @@
+startup_message off
+hardstatus alwayslastline "%{=b}%{G} %{b}%w %=%{r} F9=New F10=Detach F11=Quit %{kG}%c"
+bindkey '[1;5D' prev
+bindkey '[1;5C' next
+bindkey -k k9 screen
+bindkey -k F1 quit
+bindkey -k k; detach
+screen -t run
+stuff 'cd $HOME/perl/perl-locale-country-multilingualclear'
+screen -t lib
+stuff 'cd $HOME/perl/perl-locale-country-multilingual/libclear'
+screen -t tools
+stuff 'cd $HOME/perl/perl-locale-country-multilingual/toolsclear'
+screen -t t
+stuff 'cd $HOME/perl/perl-locale-country-multilingual/tclear'
+screen -t data
+stuff 'cd $HOME/perl/perl-locale-country-multilingual/dataclear'
+screen -t shell
+stuff 'cd $HOME/perl/perl-locale-country-multilingualclear'
+sessionname LCM
+select 0
