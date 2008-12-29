@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.11';
+$VERSION = '0.20';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -71,20 +71,21 @@ sub assert_lang {
 
 
 sub code2country {
-    my ($self, $code, $lang) = @_;
+    my $self = shift;
+    my $code = shift
+	or return;
     
-    return unless defined $code;
-    return if ($code =~ /\W/);
+    return if $code =~ /\W/;
     
-    $lang ||= $self->{lang} || 'en';
+    my $lang = shift || $self->{lang} || 'en';
     my $language = $self->_load_data($lang);
 
     if ($code =~ /^\d+$/) {
         return $language->[CODE]->[LOCALE_CODE_NUMERIC]->{$code + 0};
     } elsif (length($code) == 2) {
-        return $language->[CODE]->[LOCALE_CODE_ALPHA_2]->{$code};
+        return $language->[CODE]->[LOCALE_CODE_ALPHA_2]->{uc($code)};
     } elsif (length($code) == 3) {
-        return $language->[CODE]->[LOCALE_CODE_ALPHA_3]->{$code};
+        return $language->[CODE]->[LOCALE_CODE_ALPHA_3]->{uc($code)};
     }
     return;
 }
@@ -125,7 +126,8 @@ sub all_country_names {
 }
 
 sub _load_data {
-    my ($self, $lang) = @_;
+    my $self = shift;
+    my $lang = lc shift;
 
     my $languages = $self->languages;
     my $language = $languages->{$lang};
@@ -160,7 +162,7 @@ sub _load_data {
 
 sub _open_dat {
     my $self = shift;
-    my $filename = lc(shift || '');
+    my $filename = shift || '';
     my $fh = gensym;	# required before Perl 5.6
     my @errors;
     my $lang;		# stores the actual name used for loading
@@ -197,33 +199,37 @@ __END__
 
 Locale::Country::Multilingual - mapping ISO codes to localized country names
 
+=head1 VERSION
+
+Version 0.20
+
 =head1 SYNOPSIS
 
     use Locale::Country::Multilingual;
 
     my $lcm = Locale::Country::Multilingual->new();
-    $country = $lcm->code2country('jp');        # $country gets 'Japan'
-    $country = $lcm->code2country('chn');       # $country gets 'China'
+    $country = $lcm->code2country('JP');        # $country gets 'Japan'
+    $country = $lcm->code2country('CHN');       # $country gets 'China'
     $country = $lcm->code2country('250');       # $country gets 'France'
-    $code    = $lcm->country2code('Norway');    # $code gets 'no'
+    $code    = $lcm->country2code('Norway');    # $code gets 'NO'
     
     $lcm->set_lang('zh'); # set default language to Chinese
-    $country = $lcm->code2country('cn');        # $country gets '中国'
-    $code    = $lcm->country2code('日本');      # $code gets 'jp'
+    $country = $lcm->code2country('CN');        # $country gets '中国'
+    $code    = $lcm->country2code('日本');      # $code gets 'JP'
     
     @codes   = $lcm->all_country_codes();
     @names   = $lcm->all_country_names();
     
     # more heavy call
     my $lang = 'en';
-    $country = $lcm->code2country('cn', $lang);        # $country gets 'China'
+    $country = $lcm->code2country('CN', $lang);        # $country gets 'China'
     $lang = 'zh';
-    $country = $lcm->code2country('cn', $lang);        # $country gets '中国'
+    $country = $lcm->code2country('CN', $lang);        # $country gets '中国'
     
     my $CODE = 'LOCALE_CODE_ALPHA_2'; # by default
-    $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'no'
+    $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'NO'
     $CODE = 'LOCALE_CODE_ALPHA_3';
-    $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'nor'
+    $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'NOR'
     $CODE = 'LOCALE_CODE_NUMERIC';
     $code    = $lcm->country2code('Norway', $CODE);    # $code gets '578'
     $code    = $lcm->country2code('挪威', $CODE, 'zh');    # with lang=zh
@@ -238,6 +244,18 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 C<Locale::Country::Multilingual> is an OO replacement for
 L<Locale::Country|Locale::Country>, and supports country names in several
 languages.
+
+=head2 Incompatibility Notice
+
+C<ISO-3166> defines country codes in upper case letters. C<ISO-639> defines
+language codes in lower case letters.
+
+Beginning with release version 0.20 method L</country2code> returns country
+codes in capital letters. On the input side all methods accept country and
+language codes in any case for maximum convenience.
+
+This document uses upper case letters for country codes and lower case
+letters for language codes.
 
 =head2 Language Codes
 
@@ -332,8 +350,8 @@ this way:
 
 =head2 code2country
 
-  $country = $lcm->code2country('gb');
-  $country = $lcm->code2country('gb', 'zh');
+  $country = $lcm->code2country('GB');
+  $country = $lcm->code2country('GB', 'zh');
 
 Turns an ISO 3166-1 code into a country name in the current language.
 The default language is C<"en">.

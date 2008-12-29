@@ -1,6 +1,10 @@
 Revision history for Locale-Country-Multilingual
 
-0.11	2008-11-02
+0.20	2008-12-29
+	- Incompatibility change: country2code() returns codes in capital
+	  letters as defined by ISO-3166.
+
+0.11	2008-12-28
 	- skip tests for pod and use_io_layer for Perls < 5.8.0  (Bernhard Graf)
 	- new dat files: Afrikaans, Amharic, Arabic, Azerbaijani, Belarusian,
 	  Bulgarian, Bengali, Catalan, Czech, Welsh, Danish, Dzongkha, Greek,

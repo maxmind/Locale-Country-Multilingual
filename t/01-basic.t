@@ -28,14 +28,14 @@ is($country, '中国', "code2country('cn', 'zh_CN') works");
 
 $lcm->set_lang('en');
 my $code    = $lcm->country2code('Norway');
-is($code, 'no', "alpha2: country2code('Norway') works");
+is($code, 'NO', "alpha2: country2code('Norway') works");
 
 my $CODE = 'LOCALE_CODE_ALPHA_2';
 $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'no'
-is($code, 'no', "alpha2: country2code('Norway', 'LOCALE_CODE_ALPHA_2') works");
+is($code, 'NO', "alpha2: country2code('Norway', 'LOCALE_CODE_ALPHA_2') works");
 $CODE = 'LOCALE_CODE_ALPHA_3';
 $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'nor'
-is($code, 'nor', "alpha3: country2code('Norway', 'LOCALE_CODE_ALPHA_3') works");
+is($code, 'NOR', "alpha3: country2code('Norway', 'LOCALE_CODE_ALPHA_3') works");
 $CODE = 'LOCALE_CODE_NUMERIC';
 $code    = $lcm->country2code('Norway', $CODE);    # $code gets '578'
 is($code, '578', "NUMERIC: country2code('Norway', 'LOCALE_CODE_NUMERIC') works");
