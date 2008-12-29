@@ -23,6 +23,7 @@
 
 # Avoid temp and backup files.
 ~$
+/\.[^/]+\.sw[a-z]?$
 \.tmp$
 \.old$
 \.bak$

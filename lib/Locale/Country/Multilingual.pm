@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.20';
+$VERSION = '0.21';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -201,7 +201,7 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 
 =head1 VERSION
 
-Version 0.20
+Version 0.21
 
 =head1 SYNOPSIS
 
@@ -245,18 +245,6 @@ C<Locale::Country::Multilingual> is an OO replacement for
 L<Locale::Country|Locale::Country>, and supports country names in several
 languages.
 
-=head2 Incompatibility Notice
-
-C<ISO-3166> defines country codes in upper case letters. C<ISO-639> defines
-language codes in lower case letters.
-
-Beginning with release version 0.20 method L</country2code> returns country
-codes in capital letters. On the input side all methods accept country and
-language codes in any case for maximum convenience.
-
-This document uses upper case letters for country codes and lower case
-letters for language codes.
-
 =head2 Language Codes
 
 A language is selected by a two-letter language code as described by
@@ -279,6 +267,39 @@ exists. Example: For C<"zh_CN"> selection will fall back to C<"zh"> since
 there is no file F<"zh-cn.dat"> - actually C<"zh.dat"> happens to contain
 the country names in Simplified (Han) Chinese.
 
+=head1 INCOMPATIBILITY NOTICE
+
+=head2 ISO Compliance
+
+C<ISO-3166> defines I<country> codes in upper case letters. C<ISO-639>
+defines I<language> codes in lower case letters. This facilitates
+differentiation between language and country codes.
+
+Beginning with release version 0.20 method L</country2code> returns country
+codes in capital letters. On the input side all methods accept country and
+language codes in any case for maximum convenience.
+
+This document uses upper case letters for country codes and lower case
+letters for language codes.
+
+=head2 Unicode Support
+
+Unicode implementation before release 0.07 was broken. In fact it still is
+for the benefit of downwards compatibility, but can be fixed by using the
+C<use_io_layer> option. If you use this module without C<use_io_layer>,
+then your code is broken.
+
+Beginning with release 0.30 C<use_io_layer> will be enabled by default.
+
+Beginning with release 0.40 C<use_io_layer> will be removed.
+
+=head2 Deprecated Languages
+
+Releases before 0.09 of this module offered languages C<"cn"> and C<"tw">.
+Those were replaced by C<"zh"> and C<"zh-tw"> to comply with the ISO 639
+standard and RFC 2616. C<"cn"> and C<"tw"> are still supported, but will be
+removed in a near future - probably in release 0.30.
+
 =head1 METHODS
 
 =head2 import
@@ -289,7 +310,8 @@ The C<import> class method is called when a module is C<use>'d.
 Language files can be pre-loaded at compile time, by specifying their
 language codes. This can be useful when several processes are forked
 from the main application, e.g. in an Apache C<mod_perl> environment -
-language data that is loaded before forking, is shared by all processes.
+language data that is loaded before forking is shared by all processes and
+thus saving memory.
 
 The last argument can be a reference to a hash of options.
 
@@ -561,13 +583,6 @@ Returns an unsorted list of country names in the current or given locale.
 
 Language files are more or less (in-)complete and fall back to English.
 Corrections, additions and more languages are highly appreciated.
-
-=head2 Deprecated languages
-
-Previous releases of this module offered languages C<"cn"> and C<"tw">.
-Those were replaced by C<"zh"> and C<"zh-tw"> to comply with the ISO 639
-standard and RFC 2616. C<"cn"> and C<"tw"> will be removed in a future
-release of this package.
 
 =head1 SUPPORTS
 
