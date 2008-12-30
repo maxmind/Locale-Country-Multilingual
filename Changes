@@ -1,9 +1,14 @@
 Revision history for Locale-Country-Multilingual
 
+0.22	2008-12-30
+	- demonstrate the use of use_io_layer in SYNOPSIS
+	- add CLDR license
+	- again no code changes in this release
+
 0.21	2008-12-29
-	- Documentation of development path (Bernhard Graf)
+	- documentation of development path (Bernhard Graf)
 	- change from Module::Build over to Module::Install (Bernhard Graf)
-	- No code changes in this release
+	- no code changes in this release
 
 0.20	2008-12-29
 	- Incompatibility change: country2code() returns codes in capital

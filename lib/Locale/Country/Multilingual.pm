@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.21';
+$VERSION = '0.22';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -201,11 +201,11 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 
 =head1 VERSION
 
-Version 0.21
+Version 0.22
 
 =head1 SYNOPSIS
 
-    use Locale::Country::Multilingual;
+    use Locale::Country::Multilingual {use_io_layer => 1};
 
     my $lcm = Locale::Country::Multilingual->new();
     $country = $lcm->code2country('JP');        # $country gets 'Japan'
@@ -624,3 +624,7 @@ Copyright 2007-2008 by the aforementioned authors.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
+
+Part of the data used for this module is generated from data provided by
+the CLDR project. See the LICENSE.cldr in this distribution for details
+on the CLDR data's license.
