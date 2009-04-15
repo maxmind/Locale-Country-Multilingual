@@ -1,5 +1,8 @@
 Revision history for Locale-Country-Multilingual
 
+0.23    2009-04-15
+    - fr.dat file correction by MIVKOVIC (RT 45031)
+
 0.22	2008-12-30
 	- demonstrate the use of use_io_layer in SYNOPSIS
 	- add CLDR license

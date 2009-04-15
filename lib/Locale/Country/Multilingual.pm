@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.22';
+$VERSION = '0.23';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
