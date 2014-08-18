@@ -588,9 +588,9 @@ Corrections, additions and more languages are highly appreciated.
 
 =over 4
 
-=item subversion trunk
+=item GitHub
 
-L<http://code.google.com/p/perl-locale-country-multilingual/>
+L<https://github.com/maxmind/Locale-Country-Multilingual>
 
 =back
 
@@ -618,9 +618,11 @@ Fayland Lam <fayland at gmail.com>
 
 Bernhard Graf <graf at cpan.org>
 
+Gregory Oschwald <oschwald at cpan.org>
+
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2007-2008 by the aforementioned authors.
+Copyright 2007-2014 by the aforementioned authors.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
