@@ -201,7 +201,7 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 
 =head1 VERSION
 
-Version 0.22
+Version 0.24
 
 =head1 SYNOPSIS
 
