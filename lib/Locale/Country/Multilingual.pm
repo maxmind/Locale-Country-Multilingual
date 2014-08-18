@@ -9,7 +9,7 @@ use Symbol;
 use File::Spec;
 use Carp;
 
-$VERSION = '0.23_2';
+$VERSION = '0.24';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -74,9 +74,9 @@ sub code2country {
     my $self = shift;
     my $code = shift
 	or return;
-    
+
     return if $code =~ /\W/;
-    
+
     my $lang = shift || $self->{lang} || 'en';
     my $language = $self->_load_data($lang);
 
@@ -92,10 +92,10 @@ sub code2country {
 
 sub country2code {
     my ($self, $country, $codeset, $lang) = @_;
- 
+
     return undef unless defined $country;
     $country = lc($country);
- 
+
     $lang ||= $self->{lang} || 'en';
     my $language = $self->_load_data($lang);
 
@@ -212,20 +212,20 @@ Version 0.22
     $country = $lcm->code2country('CHN');       # $country gets 'China'
     $country = $lcm->code2country('250');       # $country gets 'France'
     $code    = $lcm->country2code('Norway');    # $code gets 'NO'
-    
+
     $lcm->set_lang('zh'); # set default language to Chinese
     $country = $lcm->code2country('CN');        # $country gets '中国'
     $code    = $lcm->country2code('日本');      # $code gets 'JP'
-    
+
     @codes   = $lcm->all_country_codes();
     @names   = $lcm->all_country_names();
-    
+
     # more heavy call
     my $lang = 'en';
     $country = $lcm->code2country('CN', $lang);        # $country gets 'China'
     $lang = 'zh';
     $country = $lcm->code2country('CN', $lang);        # $country gets '中国'
-    
+
     my $CODE = 'LOCALE_CODE_ALPHA_2'; # by default
     $code    = $lcm->country2code('Norway', $CODE);    # $code gets 'NO'
     $CODE = 'LOCALE_CODE_ALPHA_3';
@@ -233,7 +233,7 @@ Version 0.22
     $CODE = 'LOCALE_CODE_NUMERIC';
     $code    = $lcm->country2code('Norway', $CODE);    # $code gets '578'
     $code    = $lcm->country2code('挪威', $CODE, 'zh');    # with lang=zh
-    
+
     $CODE = 'LOCALE_CODE_ALPHA_3';
     $lang = 'zh';
     @codes   = $lcm->all_country_codes($CODE);         # return codes with 3alpha
