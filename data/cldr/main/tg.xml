@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE ldml SYSTEM "http://www.unicode.org/cldr/dtd/1.6/ldml.dtd">
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2013 Unicode, Inc.
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+For terms of use, see http://www.unicode.org/copyright.html
+-->
 <ldml>
 	<identity>
-		<version number="$Revision: 1.22 $"/>
-		<generation date="$Date: 2008/05/28 15:49:36 $"/>
+		<version number="$Revision: 8245 $"/>
+		<generation date="$Date: 2013-02-24 22:19:26 -0600 (Sun, 24 Feb 2013) $"/>
 		<language type="tg"/>
 	</identity>
 	<localeDisplayNames>
@@ -17,9 +21,9 @@
 			<language type="ca" draft="unconfirmed">Каталанӣ</language>
 			<language type="cs" draft="unconfirmed">Чехӣ</language>
 			<language type="da" draft="unconfirmed">Даниягӣ</language>
-			<language type="de" references="R225">Немисӣ</language>
+			<language type="de">Немисӣ</language>
 			<language type="el" draft="unconfirmed">Юнонӣ</language>
-			<language type="en" references="R225">Англисӣ</language>
+			<language type="en">Англисӣ</language>
 			<language type="eo" draft="unconfirmed">Эсперанто</language>
 			<language type="es" draft="unconfirmed">Испанӣ</language>
 			<language type="et" draft="unconfirmed">Эстонӣ</language>
@@ -28,7 +32,7 @@
 			<language type="fi" draft="unconfirmed">Финнӣ</language>
 			<language type="fil" draft="unconfirmed">Филиппинӣ</language>
 			<language type="fo" draft="unconfirmed">Фарозӣ</language>
-			<language type="fr" references="R225">Фаронсавӣ</language>
+			<language type="fr">Фаронсавӣ</language>
 			<language type="fy" draft="unconfirmed">Фрисианӣ</language>
 			<language type="ga" draft="unconfirmed">Ирландӣ</language>
 			<language type="gd" draft="unconfirmed">Шотландӣ-Галикӣ</language>
@@ -58,12 +62,13 @@
 			<language type="ro" draft="unconfirmed">Руминӣ</language>
 			<language type="ru" draft="unconfirmed">Русӣ</language>
 			<language type="sv" draft="unconfirmed">Шведӣ</language>
+			<language type="tg" draft="unconfirmed">Тоҷикӣ</language>
 			<language type="ug" draft="unconfirmed">Ӯйғурӣ</language>
 			<language type="uk" draft="unconfirmed">Украинӣ</language>
 			<language type="ur" draft="unconfirmed">Урду</language>
 			<language type="uz" draft="unconfirmed">Ӯзбекӣ</language>
 			<language type="yi" draft="unconfirmed">Яҳудии Аврупои шарқӣ</language>
-			<language type="zh" references="R225">Чинӣ</language>
+			<language type="zh">Чинӣ</language>
 			<language type="zu" draft="unconfirmed">Зулу</language>
 		</languages>
 		<scripts>
@@ -71,12 +76,14 @@
 		</scripts>
 		<territories>
 			<territory type="AF">Афғонистан</territory>
+			<territory type="TJ">Тоҷикистон</territory>
 			<territory type="TO" draft="unconfirmed">Тонга</territory>
 		</territories>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters>[а-г ғ д е ё ж-и ӣ й к қ л-у ӯ ф х ҳ ч ҷ ш ъ э-я]</exemplarCharacters>
+		<exemplarCharacters>[а б в г ғ д е ё ж з и ӣ й к қ л м н о п р с т у ӯ ф х ҳ ч ҷ ш ъ э ю я]</exemplarCharacters>
 		<exemplarCharacters type="auxiliary">[ц щ ы ь]</exemplarCharacters>
+		<exemplarCharacters type="index" draft="unconfirmed">[А Б В Г Ғ Д Е Ж З И Й К Қ Л М Н О П Р С Т У Ф Х Ҳ Ч Ҷ Ш Ъ Э Ю Я]</exemplarCharacters>
 	</characters>
 	<delimiters>
 		<quotationStart draft="unconfirmed">«</quotationStart>
@@ -86,6 +93,30 @@
 	</delimiters>
 	<dates>
 		<calendars>
+			<calendar type="generic">
+				<dateFormats>
+					<dateFormatLength type="full">
+						<dateFormat>
+							<pattern draft="unconfirmed">EEEE, G y MMMM dd</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="long">
+						<dateFormat>
+							<pattern draft="unconfirmed">G y MMMM d</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="medium">
+						<dateFormat>
+							<pattern draft="unconfirmed">G y MMM d</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="short">
+						<dateFormat>
+							<pattern draft="unconfirmed">GGGGG yy/MM/dd</pattern>
+						</dateFormat>
+					</dateFormatLength>
+				</dateFormats>
+			</calendar>
 			<calendar type="gregorian">
 				<months>
 					<monthContext type="format">
@@ -118,22 +149,6 @@
 							<month type="12" draft="unconfirmed">Декабр</month>
 						</monthWidth>
 					</monthContext>
-					<monthContext type="stand-alone">
-						<monthWidth type="narrow">
-							<month type="1" draft="unconfirmed">1</month>
-							<month type="2" draft="unconfirmed">2</month>
-							<month type="3" draft="unconfirmed">3</month>
-							<month type="4" draft="unconfirmed">4</month>
-							<month type="5" draft="unconfirmed">5</month>
-							<month type="6" draft="unconfirmed">6</month>
-							<month type="7" draft="unconfirmed">7</month>
-							<month type="8" draft="unconfirmed">8</month>
-							<month type="9" draft="unconfirmed">9</month>
-							<month type="10" draft="unconfirmed">10</month>
-							<month type="11" draft="unconfirmed">11</month>
-							<month type="12" draft="unconfirmed">12</month>
-						</monthWidth>
-					</monthContext>
 				</months>
 				<days>
 					<dayContext type="format">
@@ -156,36 +171,15 @@
 							<day type="sat" draft="unconfirmed">Шанбе</day>
 						</dayWidth>
 					</dayContext>
-					<dayContext type="stand-alone">
-						<dayWidth type="narrow">
-							<day type="sun" draft="unconfirmed">1</day>
-							<day type="mon" draft="unconfirmed">2</day>
-							<day type="tue" draft="unconfirmed">3</day>
-							<day type="wed" draft="unconfirmed">4</day>
-							<day type="thu" draft="unconfirmed">5</day>
-							<day type="fri" draft="unconfirmed">6</day>
-							<day type="sat" draft="unconfirmed">7</day>
-						</dayWidth>
-					</dayContext>
 				</days>
-				<quarters>
-					<quarterContext type="format">
-						<quarterWidth type="abbreviated">
-							<quarter type="1" draft="unconfirmed">Q1</quarter>
-							<quarter type="2" draft="unconfirmed">Q2</quarter>
-							<quarter type="3" draft="unconfirmed">Q3</quarter>
-							<quarter type="4" draft="unconfirmed">Q4</quarter>
-						</quarterWidth>
-						<quarterWidth type="wide">
-							<quarter type="1" draft="unconfirmed">Q1</quarter>
-							<quarter type="2" draft="unconfirmed">Q2</quarter>
-							<quarter type="3" draft="unconfirmed">Q3</quarter>
-							<quarter type="4" draft="unconfirmed">Q4</quarter>
-						</quarterWidth>
-					</quarterContext>
-				</quarters>
-				<am draft="unconfirmed">пе. чо.</am>
-				<pm draft="unconfirmed">па. чо.</pm>
+				<dayPeriods>
+					<dayPeriodContext type="format">
+						<dayPeriodWidth type="wide">
+							<dayPeriod type="am" draft="unconfirmed">пе. чо.</dayPeriod>
+							<dayPeriod type="pm" draft="unconfirmed">па. чо.</dayPeriod>
+						</dayPeriodWidth>
+					</dayPeriodContext>
+				</dayPeriods>
 				<eras>
 					<eraNames>
 						<era type="0" draft="unconfirmed">Пеш аз милод</era>
@@ -199,17 +193,17 @@
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE, yyyy MMMM dd</pattern>
+							<pattern draft="unconfirmed">EEEE, y MMMM dd</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
 						<dateFormat>
-							<pattern draft="unconfirmed">yyyy MMMM d</pattern>
+							<pattern draft="unconfirmed">y MMMM d</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="medium">
 						<dateFormat>
-							<pattern draft="unconfirmed">yyyy MMM d</pattern>
+							<pattern draft="unconfirmed">y MMM d</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="short">
@@ -221,7 +215,7 @@
 				<timeFormats>
 					<timeFormatLength type="full">
 						<timeFormat>
-							<pattern draft="unconfirmed">HH:mm:ss v</pattern>
+							<pattern draft="unconfirmed">HH:mm:ss zzzz</pattern>
 						</timeFormat>
 					</timeFormatLength>
 					<timeFormatLength type="long">
@@ -240,23 +234,8 @@
 						</timeFormat>
 					</timeFormatLength>
 				</timeFormats>
-				<dateTimeFormats>
-					<dateTimeFormatLength>
-						<dateTimeFormat>
-							<pattern draft="unconfirmed">{1} {0}</pattern>
-						</dateTimeFormat>
-					</dateTimeFormatLength>
-					<availableFormats>
-						<dateFormatItem id="yyQ" draft="unconfirmed">Q yy</dateFormatItem>
-					</availableFormats>
-				</dateTimeFormats>
 			</calendar>
 		</calendars>
-		<timeZoneNames>
-			<hourFormat draft="unconfirmed">+HH:mm;-HH:mm</hourFormat>
-			<gmtFormat draft="unconfirmed">GMT{0}</gmtFormat>
-			<regionFormat draft="unconfirmed">{0}</regionFormat>
-		</timeZoneNames>
 	</dates>
 	<numbers>
 		<currencies>
@@ -266,7 +245,5 @@
 			</currency>
 		</currencies>
 	</numbers>
-	<references>
-		<reference type="R225">Фарҳанги Англисӣ-Тоҷикӣ (Ҷамшедов &amp; Розӣ)</reference>
-	</references>
 </ldml>
+

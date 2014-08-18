@@ -1,246 +1,249 @@
-AD:AND:020:Andorra
-AE:ARE:784:United Arab Emirates
-AF:AFG:004:Afghanistan
-AG:ATG:028:Antigua and Barbuda
-AI:AIA:660:Anguilla
-AL:ALB:008:Albania
-AM:ARM:051:Armenia
-AN:ANT:530:Netherlands Antilles
-AO:AGO:024:Angola
-AQ:ATA:010:Antarctica
-AR:ARG:032:Argentina
-AS:ASM:016:American Samoa
-AT:AUT:040:Austria
-AU:AUS:036:Australia
-AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands
-AZ:AZE:031:Azerbaijan
-BA:BIH:070:Bosnia and Herzegovina
-BB:BRB:052:Barbados
-BD:BGD:050:Bangladesh
-BE:BEL:056:Belgium
-BF:BFA:854:Burkina Faso
-BG:BGR:100:Bulgaria
-BH:BHR:048:Bahrain
-BI:BDI:108:Burundi
-BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
-BM:BMU:060:Bermuda
-BN:BRN:096:Brunei Darussalam
-BO:BOL:068:Bolivia
-BR:BRA:076:Бразили
-BS:BHS:044:Bahamas
-BT:BTN:064:Bhutan
-BV:BVT:074:Bouvet Island
-BW:BWA:072:Botswana
-BY:BLR:112:Belarus
-BZ:BLZ:084:Belize
-CA:CAN:124:Canada
-CC:CCK:166:Cocos Islands
-CD:COD:180:Democratic Republic of the Congo
-CF:CAF:140:Central African Republic
-CG:COG:178:Congo
-CH:CHE:756:Switzerland
-CI:CIV:384:Cote d'Ivoire
-CK:COK:184:Cook Islands
-CL:CHL:152:Chile
-CM:CMR:120:Cameroon
-CN:CHN:156:China
-CO:COL:170:Colombia
-CR:CRI:188:Costa Rica
-CU:CUB:192:Cuba
-CV:CPV:132:Cape Verde
-CX:CXR:162:Christmas Island
-CY:CYP:196:Cyprus
-CZ:CZE:203:Czech Republic
+AD:AND:020:Андорра
+AE:ARE:784:Арабын Нэгдсэн Эмират
+AF:AFG:004:Афганистан
+AG:ATG:028:Антигуа ба Барбуда
+AI:AIA:660:Ангила
+AL:ALB:008:Албани
+AM:ARM:051:Армен
+AO:AGO:024:Ангол
+AQ:ATA:010:Антарктик
+AR:ARG:032:Аргентин
+AS:ASM:016:Америкийн Самоа
+AT:AUT:040:Австри
+AU:AUS:036:Австрали
+AW:ABW:533:Аруба
+AX:ALA:248:Аландын Арлууд
+AZ:AZE:031:Азербайжан
+BA:BIH:070:Босни Херцеговин
+BB:BRB:052:Барбадос
+BD:BGD:050:Бангладеш
+BE:BEL:056:Белги
+BF:BFA:854:Буркина фасо
+BG:BGR:100:Болгар
+BH:BHR:048:Бахрейн
+BI:BDI:108:Бурунди
+BJ:BEN:204:Бенин
+BL:BLM:652:Сент Бартельми
+BM:BMU:060:Бермуд
+BN:BRN:096:Бруней
+BO:BOL:068:Боливи
+BQ:BES:535:Карибын Нидерланд
+BR:BRA:076:Бразил
+BS:BHS:044:Багам
+BT:BTN:064:Бутан
+BV:BVT:074:Буветын Арлууд
+BW:BWA:072:Ботсвана
+BY:BLR:112:Беларус
+BZ:BLZ:084:Белиз
+CA:CAN:124:Канад
+CC:CCK:166:Кокос [Кийлинг] Арлууд
+CD:COD:180:Конго-Киншаса:Конго [БНУ]
+CF:CAF:140:Төв Африкийн Бүгд Найрамдах Улс
+CG:COG:178:Конго Браззавиль:Конго [Бүгд Найрамдах улс]
+CH:CHE:756:Швейцари
+CI:CIV:384:Кот д'Ивуар:Зааны Ясан Эрэг
+CK:COK:184:Күүкийн Арлууд
+CL:CHL:152:Чили
+CM:CMR:120:Камерун
+CN:CHN:156:Хятад
+CO:COL:170:Колумб
+CR:CRI:188:Коста Рика
+CU:CUB:192:Куба
+CV:CPV:132:Капе Верде
+CW:CUW:531:Куракао
+CX:CXR:162:Зул Сарын Арал
+CY:CYP:196:Кипр
+CZ:CZE:203:Бүгд Найрамдах Чех Улс
 DE:DEU:276:Герман
-DJ:DJI:262:Djibouti
-DK:DNK:208:Denmark
-DM:DMA:212:Dominica
-DO:DOM:214:Dominican Republic
-DZ:DZA:012:Algeria
-EC:ECU:218:Ecuador
-EE:EST:233:Estonia
-EG:EGY:818:Egypt
-EH:ESH:732:Western Sahara
-ER:ERI:232:Eritrea
-ES:ESP:724:Spain
-ET:ETH:231:Ethiopia
-FI:FIN:246:Finland
-FJ:FJI:242:Fiji
-FK:FLK:238:Falkland Islands
-FM:FSM:583:Micronesia
-FO:FRO:234:Faroe Islands
+DJ:DJI:262:Джибути
+DK:DNK:208:Дани
+DM:DMA:212:Доминик
+DO:DOM:214:Бүгд Найрамдах Доминикан
+DZ:DZA:012:Алжир
+EC:ECU:218:Эквадор
+EE:EST:233:Эстон
+EG:EGY:818:Египет
+EH:ESH:732:Баруун Сахар
+ER:ERI:232:Эритри
+ES:ESP:724:Испани
+ET:ETH:231:Этиоп
+FI:FIN:246:Финланд
+FJ:FJI:242:Фижи
+FK:FLK:238:Фолькландын Арлууд:Фолькландын Арлууд [Ислас Мальвинас]
+FM:FSM:583:Микронези
+FO:FRO:234:Фароэ Арлууд
 FR:FRA:250:Франц
-GA:GAB:266:Gabon
-GB:GBR:826:United Kingdom
-GD:GRD:308:Grenada
-GE:GEO:268:Georgia
-GF:GUF:254:French Guyana
-GG:GGY:831:Guernsey
-GH:GHA:288:Ghana
-GI:GIB:292:Gibraltar
-GL:GRL:304:Greenland
-GM:GMB:270:Gambia
-GN:GIN:324:Guinea
-GP:GLP:312:Guadeloupe
-GQ:GNQ:226:Equatorial Guinea
-GR:GRC:300:Greece
-GS:SGS:239:South Georgia and the South Sandwich Islands
-GT:GTM:320:Guatemala
-GU:GUM:316:Guam
-GW:GNB:624:Guinea Bissau
-GY:GUY:328:Guyana
-HK:HKG:344:Hong Kong
-HM:HMD:334:Heard Island and McDonald Islands
-HN:HND:340:Honduras
-HR:HRV:191:Croatia
-HT:HTI:332:Haiti
-HU:HUN:348:Hungary
-ID:IDN:360:Indonesia
-IE:IRL:372:Ireland
-IL:ISR:376:Israel
-IM:IMN:833:Isle of Man
+GA:GAB:266:Габон
+GB:GBR:826:Их Британи
+GD:GRD:308:Гренада
+GE:GEO:268:Гүрж
+GF:GUF:254:Францын Гайана
+GG:GGY:831:Гернси
+GH:GHA:288:Гана
+GI:GIB:292:Гибралтар
+GL:GRL:304:Гренланд
+GM:GMB:270:Гамби
+GN:GIN:324:Гвиней
+GP:GLP:312:Гваделуп
+GQ:GNQ:226:Экваторын Гвиней
+GR:GRC:300:Грек
+GS:SGS:239:Өмнөд Жоржиа ба Өмнөд Сэндвичийн Арлууд
+GT:GTM:320:Гватемал
+GU:GUM:316:Гуам
+GW:GNB:624:Гвиней-Бисау
+GY:GUY:328:Гайана
+HK:HKG:344:БНХАУ-ын Тусгай захиргааны бүс Хонг Конг:Хонг Конг
+HM:HMD:334:Хэрд Арал ба Макдоналд Арлууд
+HN:HND:340:Гондурас
+HR:HRV:191:Хорват
+HT:HTI:332:Гаити
+HU:HUN:348:Унгар
+ID:IDN:360:Индонези
+IE:IRL:372:Ирланд
+IL:ISR:376:Израиль
+IM:IMN:833:Мэн Арал
 IN:IND:356:Энэтхэг
-IO:IOT:086:British Indian Ocean Territory
-IQ:IRQ:368:Iraq
-IR:IRN:364:Iran
-IS:ISL:352:Iceland
+IO:IOT:086:Британийн харьяа Энэтхэгийн далай дахь нутаг дэвсгэрүүд
+IQ:IRQ:368:Ирак
+IR:IRN:364:Иран
+IS:ISL:352:Исланд
 IT:ITA:380:Итали
-JE:JEY:832:Jersey
-JM:JAM:388:Jamaica
-JO:JOR:400:Jordan
+JE:JEY:832:Жерси
+JM:JAM:388:Ямайк
+JO:JOR:400:Йордан
 JP:JPN:392:Япон
-KE:KEN:404:Kenya
-KG:KGZ:417:Kyrgyzstan
-KH:KHM:116:Cambodia
-KI:KIR:296:Kiribati
-KM:COM:174:Comoros
-KN:KNA:659:Saint Kitts and Nevis
-KP:PRK:408:North Korea
-KR:KOR:410:South Korea
-KW:KWT:414:Kuwait
-KY:CYM:136:Cayman Islands
-KZ:KAZ:398:Kazakstan
-LA:LAO:418:Laos
-LB:LBN:422:Lebanon
-LC:LCA:662:Saint Lucia
-LI:LIE:438:Liechtenstein
-LK:LKA:144:Sri Lanka
-LR:LBR:430:Liberia
-LS:LSO:426:Lesotho
-LT:LTU:440:Lithuania
-LU:LUX:442:Luxembourg
-LV:LVA:428:Latvia
-LY:LBY:434:Libya
-MA:MAR:504:Morocco
-MC:MCO:492:Monaco
-MD:MDA:498:Moldova
-ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
-MG:MDG:450:Madagascar
-MH:MHL:584:Marshall Islands
-MK:MKD:807:Macedonia
-ML:MLI:466:Mali
-MM:MMR:104:Myanmar
-MN:MNG:496:Монгол улс
-MO:MAC:446:Macau
-MP:MNP:580:Northern Mariana Islands
-MQ:MTQ:474:Martinique
-MR:MRT:478:Mauritania
-MS:MSR:500:Montserrat
-MT:MLT:470:Malta
-MU:MUS:480:Mauritius
-MV:MDV:462:Maldives
-MW:MWI:454:Malawi
-MX:MEX:484:Mexico
-MY:MYS:458:Malaysia
-MZ:MOZ:508:Mozambique
-NA:NAM:516:Namibia
-NC:NCL:540:New Caledonia
-NE:NER:562:Niger
-NF:NFK:574:Norfolk Island
-NG:NGA:566:Nigeria
-NI:NIC:558:Nicaragua
-NL:NLD:528:Netherlands
-NO:NOR:578:Norway
-NP:NPL:524:Nepal
-NR:NRU:520:Nauru
-NU:NIU:570:Niue
-NZ:NZL:554:New Zealand
-OM:OMN:512:Oman
-PA:PAN:591:Panama
-PE:PER:604:Peru
-PF:PYF:258:French Polynesia
-PG:PNG:598:Papua New Guinea
-PH:PHL:608:Philippines
-PK:PAK:586:Pakistan
-PL:POL:616:Poland
-PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn Islands
-PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestine
-PT:PRT:620:Portugal
-PW:PLW:585:Palau
-PY:PRY:600:Paraguay
-QA:QAT:634:Qatar
-RE:REU:638:Reunion
-RO:ROM:642:Romania
-RS:SRB:688:Serbia
+KE:KEN:404:Кени
+KG:KGZ:417:Кыргызстан
+KH:KHM:116:Камбож
+KI:KIR:296:Кирибати
+KM:COM:174:Коморос
+KN:KNA:659:Сент-Киттс ба Невис
+KP:PRK:408:Хойд Солонгос
+KR:KOR:410:Өмнөд Солонгос
+KW:KWT:414:Кувейт
+KY:CYM:136:Кайманы Арлууд
+KZ:KAZ:398:Казахстан
+LA:LAO:418:Лаос
+LB:LBN:422:Ливан
+LC:LCA:662:Сент Люсиа
+LI:LIE:438:Лихтенштейн
+LK:LKA:144:Шри Ланка
+LR:LBR:430:Либери
+LS:LSO:426:Лесото
+LT:LTU:440:Литва
+LU:LUX:442:Люксембург
+LV:LVA:428:Латви
+LY:LBY:434:Ливи
+MA:MAR:504:Марокко
+MC:MCO:492:Монако
+MD:MDA:498:Молдав
+ME:MNE:499:Монтенегро
+MF:MAF:663:Сент-Мартин
+MG:MDG:450:Мадагаскар
+MH:MHL:584:Маршаллын Арлууд
+MK:MKD:807:Македон:Македон [Хуучин Югославын бүрэлдэхүүний Македон]
+ML:MLI:466:Мали
+MM:MMR:104:Мьянмар [Бурма]
+MN:MNG:496:Монгол
+MO:MAC:446:БНХАУ-ын Тусгай захиргааны бүс Макао:Макао
+MP:MNP:580:Хойд Марианы Арлууд
+MQ:MTQ:474:Мартиник
+MR:MRT:478:Мавритани
+MS:MSR:500:Монтсеррат
+MT:MLT:470:Мальта
+MU:MUS:480:Мавритус
+MV:MDV:462:Мальдив
+MW:MWI:454:Малави
+MX:MEX:484:Мексик
+MY:MYS:458:Малайз
+MZ:MOZ:508:Мозамбик
+NA:NAM:516:Намиби
+NC:NCL:540:Шинэ Каледони
+NE:NER:562:Нигер
+NF:NFK:574:Норфолк Арлууд
+NG:NGA:566:Нигери
+NI:NIC:558:Никарагуа
+NL:NLD:528:Голланд
+NO:NOR:578:Норвеги
+NP:NPL:524:Балба
+NR:NRU:520:Науру
+NU:NIU:570:Ниуэ
+NZ:NZL:554:Шинэ Зеланд
+OM:OMN:512:Оман
+PA:PAN:591:Панам
+PE:PER:604:Перу
+PF:PYF:258:Францын Полинез
+PG:PNG:598:Папуа Шинэ Гвиней
+PH:PHL:608:Филиппин
+PK:PAK:586:Пакистан
+PL:POL:616:Польш
+PM:SPM:666:Сэнт Пьер ба Микелон
+PN:PCN:612:Питкэрн Арлууд
+PR:PRI:630:Пуэрто Рико
+PS:PSE:275:Палестины нутаг дэвсгэрүүд:Палестин
+PT:PRT:620:Португал
+PW:PLW:585:Палау
+PY:PRY:600:Парагвай
+QA:QAT:634:Катар
+RE:REU:638:Реюньон
+RO:ROU:642:Румын
+RS:SRB:688:Серби
 RU:RUS:643:Орос
-RW:RWA:646:Rwanda
-SA:SAU:682:Saudi Arabia
-SB:SLB:090:Solomon Islands
-SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
-SE:SWE:752:Sweden
-SG:SGP:702:Singapore
-SH:SHN:654:Saint Helena
-SI:SVN:705:Slovenia
-SJ:SJM:744:Svalbard and Jan Mayen
-SK:SVK:703:Slovakia
-SL:SLE:694:Sierra Leone
-SM:SMR:674:San Marino
-SN:SEN:686:Senegal
-SO:SOM:706:Somalia
-SR:SUR:740:Suriname
-ST:STP:678:Sao Tome and Principe
-SV:SLV:222:El Salvador
-SY:SYR:760:Syria
-SZ:SWZ:748:Swaziland
-TC:TCA:796:Turks and Caicos Islands
-TD:TCD:148:Chad
-TF:ATF:260:French Southern Territories
-TG:TGO:768:Togo
-TH:THA:764:Thailand
-TJ:TJK:762:Tajikistan
-TK:TKL:772:Tokelau Islands
-TL:TLS:626:East Timor
-TM:TKM:795:Turkmenistan
-TN:TUN:788:Tunisia
+RW:RWA:646:Руанда
+SA:SAU:682:Саудын Араб
+SB:SLB:090:Соломоны Арлууд
+SC:SYC:690:Сейшел
+SD:SDN:729:Судан
+SE:SWE:752:Швед
+SG:SGP:702:Сингапур
+SH:SHN:654:Сент Хелена
+SI:SVN:705:Словени
+SJ:SJM:744:Свалбард ба Ян Майен
+SK:SVK:703:Словак
+SL:SLE:694:Сьерра-Леоне
+SM:SMR:674:Сан-Марино
+SN:SEN:686:Сенегал
+SO:SOM:706:Сомали
+SR:SUR:740:Суринам
+SS:SSD:728:Өмнөд Судан
+ST:STP:678:Сан-Томе ба Принсипи
+SV:SLV:222:Эль Сальвадор
+SX:SXM:534:Синт Мартен
+SY:SYR:760:Сири
+SZ:SWZ:748:Свазиланд
+TC:TCA:796:Турк ба Кайкосын Арлууд
+TD:TCD:148:Чад
+TF:ATF:260:Францын өмнөд газар нутаг
+TG:TGO:768:Того
+TH:THA:764:Тайланд
+TJ:TJK:762:Тажикистан
+TK:TKL:772:Токелау
+TL:TLS:626:Тимор-Лесте:Зүүн Тимор
+TM:TKM:795:Туркменистан
+TN:TUN:788:Тунис
 TO:TON:776:Тонга
-TR:TUR:792:Turkey
-TT:TTO:780:Trinidad and Tobago
-TV:TUV:798:Tuvalu
-TW:TWN:158:Taiwan
-TZ:TZA:834:Tanzania
-UA:UKR:804:Ukraine
-UG:UGA:800:Uganda
-UM:UMI:581:United States Minor Outlying Islands
+TR:TUR:792:Турк
+TT:TTO:780:Тринидад ба Тобаго
+TV:TUV:798:Тувалу
+TW:TWN:158:Тайван
+TZ:TZA:834:Танзани
+UA:UKR:804:Украйн
+UG:UGA:800:Уганда
+UM:UMI:581:АНУ-ын тойрсон арлууд
 US:USA:840:Америкийн Нэгдсэн Улс
-UY:URY:858:Uruguay
-UZ:UZB:860:Uzbekistan
-VA:VAT:336:Vatican
-VC:VCT:670:Saint Vincent and the Grenadines
-VE:VEN:862:Venezuela
-VG:VGB:092:British Virgin Islands
-VI:VIR:850:American Virgin Islands
-VN:VNM:704:Vietnam
-VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis and Futuna
-WS:WSM:882:Samoa
-YE:YEM:887:Yemen
-YT:MYT:175:Mayotte
-ZA:ZAF:710:South Africa
-ZM:ZMB:894:Zambia
-ZW:ZWE:716:Zimbabwe
+UY:URY:858:Уругвай
+UZ:UZB:860:Узбекистан
+VA:VAT:336:Ватикан хот улс
+VC:VCT:670:Сэнт Винсэнт ба Гренадин
+VE:VEN:862:Венесуэл
+VG:VGB:092:Британийн Виржиний Арлууд
+VI:VIR:850:АНУ-ын Виржиний Арлууд
+VN:VNM:704:Вьетнам
+VU:VUT:548:Вануату
+WF:WLF:876:Уоллис ба Футуна
+WS:WSM:882:Самоа
+YE:YEM:887:Йемен
+YT:MYT:175:Майотте
+ZA:ZAF:710:Өмнөд Африк тив
+ZM:ZMB:894:Замби
+ZW:ZWE:716:Зимбабве

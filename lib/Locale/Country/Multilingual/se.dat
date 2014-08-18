@@ -5,7 +5,6 @@ AG:ATG:028:Antigua ja Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albánia
 AM:ARM:051:Armenia
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:Angola
 AQ:ATA:010:Antárktis
 AR:ARG:032:Argentina
@@ -24,40 +23,42 @@ BG:BGR:100:Bulgária
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Brasil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
-BV:BVT:074:Bouvet Island
+BV:BVT:074:Bouvet-sullot
 BW:BWA:072:Botswana
 BY:BLR:112:Vilges-Ruošša
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanáda
-CC:CCK:166:Cocos Islands
-CD:COD:180:Kongo-Kinshasa
-CF:CAF:140:Central African Republic
-CG:COG:178:Kongo-Brazzaville
+CC:CCK:166:Cocos-sullot
+CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
+CF:CAF:140:Gaska-Afrihká dásseváldi
+CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
 CH:CHE:756:Šveica
-CI:CIV:384:Cote d'Ivoire
-CK:COK:184:Cook Islands
-CL:CHL:152:Chile
+CI:CIV:384:Elfenbenariddu:Elfenbenariddu
+CK:COK:184:Cook-sullot
+CL:CHL:152:Čiile
 CM:CMR:120:Kamerun
 CN:CHN:156:Kiinná
 CO:COL:170:Kolombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Kuba
 CV:CPV:132:Kap Verde
-CX:CXR:162:Christmas Island
+CW:CUW:531:Curaçao
+CX:CXR:162:Juovllat-sullot
 CY:CYP:196:Kypros
 CZ:CZE:203:Čeahkka
 DE:DEU:276:Duiska
 DJ:DJI:262:Djibouti
 DK:DNK:208:Dánmárku
 DM:DMA:212:Dominica
-DO:DOM:214:Dominican Republic
+DO:DOM:214:Dominikána dásseváldi
 DZ:DZA:012:Algeria
 EC:ECU:218:Ecuador
 EE:EST:233:Estlánda
@@ -68,7 +69,7 @@ ES:ESP:724:Spánia
 ET:ETH:231:Etiopia
 FI:FIN:246:Suopma
 FJ:FJI:242:Fijisullot
-FK:FLK:238:Falklandsullot
+FK:FLK:238:Falklandsullot:Falklandsullot
 FM:FSM:583:Mikronesia
 FO:FRO:234:Fearsullot
 FR:FRA:250:Frankriika
@@ -91,8 +92,8 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Hong Kong:Hongkong
-HM:HMD:334:Heard Island and McDonald Islands
+HK:HKG:344:Hongkong:Hongkong
+HM:HMD:334:Heard- ja McDonald-sullot
 HN:HND:340:Honduras
 HR:HRV:191:Kroátia
 HT:HTI:332:Haiti
@@ -100,7 +101,7 @@ HU:HUN:348:Ungár
 ID:IDN:360:Indonesia
 IE:IRL:372:Irlánda
 IL:ISR:376:Israel
-IM:IMN:833:Isle of Man
+IM:IMN:833:Mann-sullot
 IN:IND:356:India
 IO:IOT:086:British Indian Ocean Territory
 IQ:IRQ:368:Irak
@@ -113,14 +114,14 @@ JO:JOR:400:Jordánia
 JP:JPN:392:Japána
 KE:KEN:404:Kenia
 KG:KGZ:417:Kirgisistan
-KH:KHM:116:Kampučea
+KH:KHM:116:Kambodža
 KI:KIR:296:Kiribati
 KM:COM:174:Komorosullot
 KN:KNA:659:Saint Kitts ja Nevis
 KP:PRK:408:Davvi-Korea
 KR:KOR:410:Mátta-Korea
 KW:KWT:414:Kuwait
-KY:CYM:136:Cayman Islands
+KY:CYM:136:Cayman-sullot
 KZ:KAZ:398:Kasakstan
 LA:LAO:418:Laos
 LB:LBN:422:Libanon
@@ -137,10 +138,10 @@ MA:MAR:504:Marokko
 MC:MCO:492:Monaco
 MD:MDA:498:Moldávia
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Frankriikka Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallsullot
-MK:MKD:807:Makedonia
+MK:MKD:807:Makedonia:Makedonia
 ML:MLI:466:Mali
 MM:MMR:104:Burma
 MN:MNG:496:Mongolia
@@ -159,7 +160,7 @@ MZ:MOZ:508:Mosambik
 NA:NAM:516:Namibia
 NC:NCL:540:Ođđa-Kaledonia
 NE:NER:562:Niger
-NF:NFK:574:Norfolk Island
+NF:NFK:574:Norfolksullot
 NG:NGA:566:Nigeria
 NI:NIC:558:Nicaragua
 NL:NLD:528:Vuolleeatnamat
@@ -171,7 +172,7 @@ NZ:NZL:554:Ođđa-Selánda
 OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Peru
-PF:PYF:258:French Polynesia
+PF:PYF:258:Frankriikka Polynesia
 PG:PNG:598:Papua-Ođđa-Guinea
 PH:PHL:608:Filippiinnat
 PK:PAK:586:Pakistan
@@ -184,15 +185,15 @@ PT:PRT:620:Portugála
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Reunion
-RO:ROM:642:Románia
+RE:REU:638:Réunion
+RO:ROU:642:Románia
 RS:SRB:688:Serbia
 RU:RUS:643:Ruošša
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudi-Arábia
-SB:SLB:090:Solomon Islands
+SB:SLB:090:Salomon-sullot
 SC:SYC:690:Seychellsullot
-SD:SDN:736:Sudan
+SD:SDN:729:Davvisudan
 SE:SWE:752:Ruoŧŧa
 SG:SGP:702:Singapore
 SH:SHN:654:Saint Helena
@@ -204,18 +205,20 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somália
 SR:SUR:740:Surinam
+SS:SSD:728:Máttasudan
 ST:STP:678:São Tomé ja Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Vuolleeatnamat Saint Martin
 SY:SYR:760:Syria
 SZ:SWZ:748:Svazieana
 TC:TCA:796:Turks ja Caicos-sullot
-TD:TCD:148:Chad
-TF:ATF:260:French Southern Territories
+TD:TCD:148:Tčad
+TF:ATF:260:French Southern Lands
 TG:TGO:768:Togo
 TH:THA:764:Thaieana
 TJ:TJK:762:Tažikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Nuorta-Timor
+TL:TLS:626:Nuorta-Timor:Nuorta-Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -233,8 +236,8 @@ UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikána
 VC:VCT:670:Saint Vincent ja Grenadine
 VE:VEN:862:Venezuela
-VG:VGB:092:British Virgin Islands
-VI:VIR:850:American Virgin Islands
+VG:VGB:092:Brittania Virgin-sullot
+VI:VIR:850:AOS Virgin-sullot
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis ja Futuna

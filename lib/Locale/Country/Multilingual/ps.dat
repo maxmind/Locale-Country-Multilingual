@@ -5,7 +5,6 @@ AG:ATG:028:Antigua and Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:البانیه
 AM:ARM:051:Armenia
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:انګولا
 AQ:ATA:010:انتارکتیکا
 AR:ARG:032:Argentina
@@ -13,7 +12,7 @@ AS:ASM:016:American Samoa
 AT:AUT:040:اتریش
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands
+AX:ALA:248:Åland
 AZ:AZE:031:Azerbaijan
 BA:BIH:070:Bosnia and Herzegovina
 BB:BRB:052:Barbados
@@ -24,10 +23,11 @@ BG:BGR:100:بلغاریه
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei Darussalam
 BO:BOL:068:Bolivia
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Brazil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -36,12 +36,12 @@ BW:BWA:072:Botswana
 BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:کاناډا
-CC:CCK:166:Cocos Islands
-CD:COD:180:Democratic Republic of the Congo
+CC:CCK:166:Cocos (Keeling) Islands
+CD:COD:180:Congo (Kinshasa)
 CF:CAF:140:Central African Republic
-CG:COG:178:Congo
+CG:COG:178:Congo (Brazzaville)
 CH:CHE:756:سویس
-CI:CIV:384:Cote d'Ivoire
+CI:CIV:384:Côte d'Ivoire
 CK:COK:184:Cook Islands
 CL:CHL:152:Chile
 CM:CMR:120:Cameroon
@@ -50,6 +50,7 @@ CO:COL:170:کولمبیا
 CR:CRI:188:Costa Rica
 CU:CUB:192:کیوبا
 CV:CPV:132:Cape Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Cyprus
 CZ:CZE:203:Czech Republic
@@ -76,7 +77,7 @@ GA:GAB:266:Gabon
 GB:GBR:826:برتانیه
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
-GF:GUF:254:French Guyana
+GF:GUF:254:French Guiana
 GG:GGY:831:Guernsey
 GH:GHA:288:ګانا
 GI:GIB:292:Gibraltar
@@ -86,13 +87,13 @@ GN:GIN:324:ګیانا
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Equatorial Guinea
 GR:GRC:300:یونان
-GS:SGS:239:South Georgia and the South Sandwich Islands
+GS:SGS:239:South Georgia and South Sandwich Islands
 GT:GTM:320:ګواتیمالا
 GU:GUM:316:Guam
-GW:GNB:624:Guinea Bissau
+GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hong Kong
-HM:HMD:334:Heard Island and McDonald Islands
+HM:HMD:334:Heard and McDonald Islands
 HN:HND:340:هانډوراس
 HR:HRV:191:Croatia
 HT:HTI:332:Haiti
@@ -117,11 +118,11 @@ KH:KHM:116:کمبودیا
 KI:KIR:296:Kiribati
 KM:COM:174:Comoros
 KN:KNA:659:Saint Kitts and Nevis
-KP:PRK:408:North Korea
-KR:KOR:410:South Korea
+KP:PRK:408:Korea, North
+KR:KOR:410:Korea, South
 KW:KWT:414:کویټ
 KY:CYM:136:Cayman Islands
-KZ:KAZ:398:Kazakstan
+KZ:KAZ:398:Kazakhstan
 LA:LAO:418:لاوس
 LB:LBN:422:لبنان
 LC:LCA:662:Saint Lucia
@@ -137,7 +138,7 @@ MA:MAR:504:مراکش
 MC:MCO:492:Monaco
 MD:MDA:498:Moldova
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint Martin (French part)
 MG:MDG:450:Madagascar
 MH:MHL:584:Marshall Islands
 MK:MKD:807:Macedonia
@@ -177,7 +178,7 @@ PH:PHL:608:Philippines
 PK:PAK:586:پاکستان
 PL:POL:616:پولنډ
 PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn Islands
+PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
 PS:PSE:275:فلسطین
 PT:PRT:620:پورتګال
@@ -185,37 +186,39 @@ PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
 RE:REU:638:Reunion
-RO:ROM:642:Romania
+RO:ROU:642:Romania
 RS:SRB:688:Serbia
 RU:RUS:643:روسیه
 RW:RWA:646:روندا
 SA:SAU:682:سعودی عربستان
 SB:SLB:090:Solomon Islands
 SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:سویډن
 SG:SGP:702:Singapore
 SH:SHN:654:Saint Helena
 SI:SVN:705:Slovenia
-SJ:SJM:744:Svalbard and Jan Mayen
+SJ:SJM:744:Svalbard and Jan Mayen Islands
 SK:SVK:703:Slovakia
 SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Suriname
+SS:SSD:728:South Sudan
 ST:STP:678:Sao Tome and Principe
 SV:SLV:222:سالوېډور
+SX:SXM:534:Sint Maarten
 SY:SYR:760:سوریه
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks and Caicos Islands
 TD:TCD:148:Chad
-TF:ATF:260:French Southern Territories
+TF:ATF:260:French Southern Lands
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:تاجکستان
-TK:TKL:772:Tokelau Islands
-TL:TLS:626:East Timor
+TK:TKL:772:Tokelau
+TL:TLS:626:Timor-Leste
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -227,17 +230,17 @@ TZ:TZA:834:تنزانیا
 UA:UKR:804:Ukraine
 UG:UGA:800:Uganda
 UM:UMI:581:United States Minor Outlying Islands
-US:USA:840:United States
+US:USA:840:United States of America
 UY:URY:858:یوروګوای
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:Vatican
+VA:VAT:336:Vatican City
 VC:VCT:670:Saint Vincent and the Grenadines
 VE:VEN:862:Venezuela
-VG:VGB:092:British Virgin Islands
-VI:VIR:850:American Virgin Islands
+VG:VGB:092:Virgin Islands, British
+VI:VIR:850:Virgin Islands, U.S.
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis and Futuna
+WF:WLF:876:Wallis and Futuna Islands
 WS:WSM:882:Samoa
 YE:YEM:887:یمن
 YT:MYT:175:Mayotte

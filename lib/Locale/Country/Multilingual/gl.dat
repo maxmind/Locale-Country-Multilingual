@@ -5,7 +5,6 @@ AG:ATG:028:Antiga e Barbuda
 AI:AIA:660:Anguila
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:Antillas Holandesas
 AO:AGO:024:Angola
 AQ:ATA:010:Antártida
 AR:ARG:032:Arxentina
@@ -28,6 +27,7 @@ BL:BLM:652:San Bartolomé
 BM:BMU:060:Bermudas
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Caribe neerlandés
 BR:BRA:076:Brasil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bután
@@ -36,12 +36,12 @@ BW:BWA:072:Botsuana
 BY:BLR:112:Bielorrusia
 BZ:BLZ:084:Belice
 CA:CAN:124:Canadá
-CC:CCK:166:Illas Cocos
-CD:COD:180:República Democrática do Congo
+CC:CCK:166:Illas Cocos [Keeling]
+CD:COD:180:República Democrática do Congo:Congo [República Democrática do]
 CF:CAF:140:República Africana Central
-CG:COG:178:Congo
+CG:COG:178:Congo:Congo [República]
 CH:CHE:756:Suíza
-CI:CIV:384:Costa de Marfil
+CI:CIV:384:Costa de Marfil:Costa do Marfil
 CK:COK:184:Illas Cook
 CL:CHL:152:Chile
 CM:CMR:120:Camerún
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Cabo Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Illa Christmas
 CY:CYP:196:Chipre
 CZ:CZE:203:República Checa
@@ -68,7 +69,7 @@ ES:ESP:724:España
 ET:ETH:231:Etiopía
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fixi
-FK:FLK:238:Illas Malvinas
+FK:FLK:238:Illas Malvinas:Illas Malvinas
 FM:FSM:583:Micronesia
 FO:FRO:234:Illas Feroe
 FR:FRA:250:Francia
@@ -140,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:San Martiño
 MG:MDG:450:Madagascar
 MH:MHL:584:Illas Marshall
-MK:MKD:807:Macedonia
+MK:MKD:807:Macedonia:Macedonia [Antiga República Iugoslava de Macedonia]
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar [Birmania]
 MN:MNG:496:Mongolia
 MO:MAC:446:Macau RAE de China:Macau
 MP:MNP:580:Illas Marianas do norte
@@ -177,22 +178,22 @@ PH:PHL:608:Filipinas
 PK:PAK:586:Paquistán
 PL:POL:616:Polonia
 PM:SPM:666:San Pedro e Miguelón
-PN:PCN:612:Pitcairn
+PN:PCN:612:Illas Pitcairn
 PR:PRI:630:Porto Rico
-PS:PSE:275:Palestina
+PS:PSE:275:Territorios palestinos:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguai
 QA:QAT:634:Qatar
 RE:REU:638:Reunión
-RO:ROM:642:Romanía
+RO:ROU:642:Romanía
 RS:SRB:688:Serbia
 RU:RUS:643:Rusia
 RW:RWA:646:Ruanda
 SA:SAU:682:Arabia Saudita
 SB:SLB:090:Illas Salomón
 SC:SYC:690:Seixeles
-SD:SDN:736:Sudán
+SD:SDN:729:Sudán
 SE:SWE:752:Suecia
 SG:SGP:702:Singapur
 SH:SHN:654:Santa Helena
@@ -204,18 +205,20 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
+SS:SSD:728:Sudán do sur
 ST:STP:678:Santo Tomé e Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Siria
 SZ:SWZ:748:Suacilandia
 TC:TCA:796:Illas Turks e Caicos
-TD:TCD:148:Xad
+TD:TCD:148:Chad
 TF:ATF:260:Territorios Franceses do Sul
 TG:TGO:768:Togo
 TH:THA:764:Tailandia
 TJ:TJK:762:Taxiquistán
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Leste
+TL:TLS:626:Timor Leste:Timor-Leste
 TM:TKM:795:Turkmenistán
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga

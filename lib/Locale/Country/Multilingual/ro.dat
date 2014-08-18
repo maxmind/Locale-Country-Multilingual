@@ -5,7 +5,6 @@ AG:ATG:028:Antigua și Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:Antilele Olandeze
 AO:AGO:024:Angola
 AQ:ATA:010:Antarctica
 AR:ARG:032:Argentina
@@ -13,7 +12,7 @@ AS:ASM:016:Samoa Americană
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Insulele Aland:Insulele Åland
+AX:ALA:248:Insulele Aland
 AZ:AZE:031:Azerbaidjan
 BA:BIH:070:Bosnia și Herțegovina
 BB:BRB:052:Barbados
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgaria
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Sfântul Bartolomeu
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Insulele Caraibe Olandeze
 BR:BRA:076:Brazilia
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -37,11 +37,11 @@ BY:BLR:112:Bielorusia
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
 CC:CCK:166:Insulele Cocos
-CD:COD:180:Republica Democrată Congo
+CD:COD:180:Republica Democrată Congo:Congo [RDC]
 CF:CAF:140:Republica Centrafricană
-CG:COG:178:Congo
-CH:CHE:756:Eleveția
-CI:CIV:384:Coasta de Fildeș
+CG:COG:178:Congo:Congo [Republică]
+CH:CHE:756:Elveția
+CI:CIV:384:Coasta de Fildeș:Coasta de Fildeş
 CK:COK:184:Insulele Cook
 CL:CHL:152:Chile
 CM:CMR:120:Camerun
@@ -50,6 +50,7 @@ CO:COL:170:Columbia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Capul Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Insula Christmas
 CY:CYP:196:Cipru
 CZ:CZE:203:Republica Cehă
@@ -62,18 +63,18 @@ DZ:DZA:012:Algeria
 EC:ECU:218:Ecuador
 EE:EST:233:Estonia
 EG:EGY:818:Egipt
-EH:ESH:732:Sahara de Vest
+EH:ESH:732:Sahara Occidentală
 ER:ERI:232:Eritreea
 ES:ESP:724:Spania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlanda
 FJ:FJI:242:Fiji
-FK:FLK:238:Insulele Falkland
+FK:FLK:238:Insulele Falkland:Insulele Falkland [Insulele Malvine]
 FM:FSM:583:Micronezia
 FO:FRO:234:Insulele Feroe
 FR:FRA:250:Franța
 GA:GAB:266:Gabon
-GB:GBR:826:Regatul Unit:Marea Britanie
+GB:GBR:826:Marea Britanie
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Guyana Franceză
@@ -86,7 +87,7 @@ GN:GIN:324:Guineea
 GP:GLP:312:Guadelupa
 GQ:GNQ:226:Guineea Ecuatorială
 GR:GRC:300:Grecia
-GS:SGS:239:Insulele Georgia de Sud și Sandwich de Sud
+GS:SGS:239:Georgia de Sud şi Insulele Sandwich de Sud
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guineea-Bissau
@@ -112,11 +113,11 @@ JM:JAM:388:Jamaica
 JO:JOR:400:Iordania
 JP:JPN:392:Japonia
 KE:KEN:404:Kenya
-KG:KGZ:417:Kirghizstan
+KG:KGZ:417:Kârgâzstan
 KH:KHM:116:Cambodgia
 KI:KIR:296:Kiribati
 KM:COM:174:Comore
-KN:KNA:659:Saint Kitts și Nevis
+KN:KNA:659:Sfântul Kitts și Nevis
 KP:PRK:408:Coreea de Nord
 KR:KOR:410:Coreea de Sud
 KW:KWT:414:Kuweit
@@ -135,12 +136,12 @@ LV:LVA:428:Letonia
 LY:LBY:434:Libia
 MA:MAR:504:Maroc
 MC:MCO:492:Monaco
-MD:MDA:498:Moldova, Republica:Republica Moldova:Basarabia
+MD:MDA:498:Republica Moldova
 ME:MNE:499:Muntenegru
-MF:MAF:663:Saint Martin
+MF:MAF:663:Sfântul Martin
 MG:MDG:450:Madagascar
 MH:MHL:584:Insulele Marshall
-MK:MKD:807:Macedonia
+MK:MKD:807:Macedonia:Macedonia [FYROM]
 ML:MLI:466:Mali
 MM:MMR:104:Myanmar
 MN:MNG:496:Mongolia
@@ -176,23 +177,23 @@ PG:PNG:598:Papua Noua Guinee
 PH:PHL:608:Filipine
 PK:PAK:586:Pakistan
 PL:POL:616:Polonia
-PM:SPM:666:Saint Pierre și Miquelon
+PM:SPM:666:Sfântul Pierre și Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Porto Rico
-PS:PSE:275:Teritoriul Palestinian
+PS:PSE:275:Teritoriul Palestinian:Palestina
 PT:PRT:620:Portugalia
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
 RE:REU:638:Reunion
-RO:ROM:642:România
+RO:ROU:642:România
 RS:SRB:688:Serbia
 RU:RUS:643:Rusia
 RW:RWA:646:Rwanda
 SA:SAU:682:Arabia Saudită
 SB:SLB:090:Insulele Solomon
 SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Suedia
 SG:SGP:702:Singapore
 SH:SHN:654:Sfânta Elena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
+SS:SSD:728:Sudanul de Sud
 ST:STP:678:Sao Tome și Principe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Siria
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Insulele Turks și Caicos
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thailanda
 TJ:TJK:762:Tadjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timorul de Est
+TL:TLS:626:Timorul de Est:Timorul de Est
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -226,12 +229,12 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ucraina
 UG:UGA:800:Uganda
-UM:UMI:581:Teritoriile Îndepărtate ale Statelor Unite
-US:USA:840:Statele Unite
+UM:UMI:581:Insulele Minore Îndepărtate ale Statelor Unite ale Americii
+US:USA:840:Statele Unite ale Americii
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatican
-VC:VCT:670:Saint Vincent și Grenadines
+VC:VCT:670:Sfântul Vincent și Grenadine
 VE:VEN:862:Venezuela
 VG:VGB:092:Insulele Virgine Britanice
 VI:VIR:850:Insulele Virgine S.U.A.

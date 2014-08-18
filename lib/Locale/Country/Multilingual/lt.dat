@@ -5,15 +5,14 @@ AG:ATG:028:Antigva ir Barbuda
 AI:AIA:660:Angilija
 AL:ALB:008:Albanija
 AM:ARM:051:Armėnija
-AN:ANT:530:Olandijos Antilai
 AO:AGO:024:Angola
-AQ:ATA:010:Antarktis:Antarktida
+AQ:ATA:010:Antarktis
 AR:ARG:032:Argentina
 AS:ASM:016:Amerikos Samoa
 AT:AUT:040:Austrija
 AU:AUS:036:Australija
 AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands:Åland
+AX:ALA:248:Alandų Salos
 AZ:AZE:031:Azerbaidžanas
 BA:BIH:070:Bosnija ir Hercegovina
 BB:BRB:052:Barbadosas
@@ -24,12 +23,13 @@ BG:BGR:100:Bulgarija
 BH:BHR:048:Bahreinas
 BI:BDI:108:Burundis
 BJ:BEN:204:Beninas
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Švento Baltramiejaus Sala
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunėjus
 BO:BOL:068:Bolivija
+BQ:BES:535:Karibų Nyderlandai
 BR:BRA:076:Brazilija
-BS:BHS:044:Bahamos:Bahamų
+BS:BHS:044:Bahamos
 BT:BTN:064:Butanas
 BV:BVT:074:Bouvet sala
 BW:BWA:072:Botsvana
@@ -37,11 +37,11 @@ BY:BLR:112:Baltarusija
 BZ:BLZ:084:Belizas
 CA:CAN:124:Kanada
 CC:CCK:166:Kokosų salos
-CD:COD:180:Kongo Demokratinė Respublika
+CD:COD:180:Kongas-Kinšasa:Kongas (Demokratinė Respublika)
 CF:CAF:140:Centrinės Afrikos Respublika
-CG:COG:178:Kongas
+CG:COG:178:Kongas-Brazavilis:Kongas (Respublika)
 CH:CHE:756:Šveicarija
-CI:CIV:384:Dramblio Kaulo Krantas
+CI:CIV:384:Dramblio Kaulo Krantas:Dramblio Kaulo Krantas
 CK:COK:184:Kuko salos
 CL:CHL:152:Čilė
 CM:CMR:120:Kamerūnas
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbija
 CR:CRI:188:Kosta Rika
 CU:CUB:192:Kuba
 CV:CPV:132:Žaliasis Kyšulys
+CW:CUW:531:Kiurasao
 CX:CXR:162:Kalėdų sala
 CY:CYP:196:Kipras
 CZ:CZE:203:Čekija
@@ -68,16 +69,16 @@ ES:ESP:724:Ispanija
 ET:ETH:231:Etiopija
 FI:FIN:246:Suomija
 FJ:FJI:242:Fidžis
-FK:FLK:238:Falklando salos
+FK:FLK:238:Folklando Salos:Folklando Salos (Malvinai)
 FM:FSM:583:Mikronezija
-FO:FRO:234:Farerų salos
+FO:FRO:234:Farerų Salos
 FR:FRA:250:Prancūzija
 GA:GAB:266:Gabonas
 GB:GBR:826:Didžioji Britanija
 GD:GRD:308:Grenada
 GE:GEO:268:Gruzija
 GF:GUF:254:Prancūzijos Gviana
-GG:GGY:831:Guernsey
+GG:GGY:831:Gernsis
 GH:GHA:288:Gana
 GI:GIB:292:Gibraltaras
 GL:GRL:304:Grenlandija
@@ -86,12 +87,12 @@ GN:GIN:324:Gvinėja
 GP:GLP:312:Gvadelupė
 GQ:GNQ:226:Pusiaujo Gvinėja
 GR:GRC:300:Graikija
-GS:SGS:239:Rytų Džordžija ir Rytų Sandwich salos:Pietų Džordžija ir Pietų Sandvičo salos
+GS:SGS:239:Pietų Džordžija ir Pietų Sandvičo salos
 GT:GTM:320:Gvatemala
 GU:GUM:316:Guamas
 GW:GNB:624:Bisau Gvinėja
 GY:GUY:328:Gajana
-HK:HKG:344:Kinijos S.A.R.Honkongas:Honkongas:Honkongas
+HK:HKG:344:Kinijos S. A. R. Honkongas:Honkongas
 HM:HMD:334:Heardo ir McDonaldo Salų Sritis
 HN:HND:340:Hondūras
 HR:HRV:191:Kroatija
@@ -100,7 +101,7 @@ HU:HUN:348:Vengrija
 ID:IDN:360:Indonezija
 IE:IRL:372:Airija
 IL:ISR:376:Izraelis
-IM:IMN:833:Meno sala
+IM:IMN:833:Meno Sala
 IN:IND:356:Indija
 IO:IOT:086:Indijos vandenyno britų sritis
 IQ:IRQ:368:Irakas
@@ -120,7 +121,7 @@ KN:KNA:659:Sent Kitsas ir Nevis
 KP:PRK:408:Šiaurės Korėja
 KR:KOR:410:Pietų Korėja
 KW:KWT:414:Kuveitas
-KY:CYM:136:Kaimanų salos
+KY:CYM:136:Kaimanų Salos
 KZ:KAZ:398:Kazachstanas
 LA:LAO:418:Laosas
 LB:LBN:422:Libanas
@@ -137,10 +138,10 @@ MA:MAR:504:Marokas
 MC:MCO:492:Monakas
 MD:MDA:498:Moldova
 ME:MNE:499:Juodkalnija
-MF:MAF:663:Saint Martin
+MF:MAF:663:Sen Martenas
 MG:MDG:450:Madagaskaras
 MH:MHL:584:Maršalo Salos
-MK:MKD:807:Makedonija
+MK:MKD:807:Makedonija:Makedonija
 ML:MLI:466:Malis
 MM:MMR:104:Mianmaras
 MN:MNG:496:Mongolija
@@ -148,7 +149,7 @@ MO:MAC:446:Macao:Macao
 MP:MNP:580:Marianos šiaurinės salos
 MQ:MTQ:474:Martinika
 MR:MRT:478:Mauritanija
-MS:MSR:500:Montserratas
+MS:MSR:500:Montseratas
 MT:MLT:470:Malta
 MU:MUS:480:Mauricijus
 MV:MDV:462:Maldivai
@@ -177,22 +178,22 @@ PH:PHL:608:Filipinai
 PK:PAK:586:Pakistanas
 PL:POL:616:Lenkija
 PM:SPM:666:Sen Pjeras ir Mikelonas
-PN:PCN:612:Pitkernas
+PN:PCN:612:Pitkerno Salos
 PR:PRI:630:Puerto Rikas
-PS:PSE:275:Palestinos teritorija
+PS:PSE:275:Palestinos teritorija:Palestina
 PT:PRT:620:Portugalija
 PW:PLW:585:Palau
 PY:PRY:600:Paragvajus
 QA:QAT:634:Kataras
-RE:REU:638:Reunionas
-RO:ROM:642:Rumunija
+RE:REU:638:Reunjonas
+RO:ROU:642:Rumunija
 RS:SRB:688:Serbija
-RU:RUS:643:Rusijos Federacija
+RU:RUS:643:Rusija
 RW:RWA:646:Ruanda
 SA:SAU:682:Saudo Arabija
 SB:SLB:090:Saliamono salos
 SC:SYC:690:Seišeliai
-SD:SDN:736:Sudanas
+SD:SDN:729:Sudanas
 SE:SWE:752:Švedija
 SG:SGP:702:Singapūras
 SH:SHN:654:Šventoji Elena
@@ -204,18 +205,20 @@ SM:SMR:674:San Marinas
 SN:SEN:686:Senegalas
 SO:SOM:706:Somalis
 SR:SUR:740:Surinamas
-ST:STP:678:San Tomė ir Principė
+SS:SSD:728:Pietų Sudanas
+ST:STP:678:San Tomė ir Prinsipė
 SV:SLV:222:Salvadoras
+SX:SXM:534:Sint Martenas
 SY:SYR:760:Sirija
-SZ:SWZ:748:Svazilendas
-TC:TCA:796:Turkso ir Caicoso salos
+SZ:SWZ:748:Svazilandas
+TC:TCA:796:Terkso ir Kaikoso Salos
 TD:TCD:148:Čadas
 TF:ATF:260:Prancūzijos Pietų sritys
 TG:TGO:768:Togas
 TH:THA:764:Tailandas
 TJ:TJK:762:Tadžikistanas
 TK:TKL:772:Tokelau
-TL:TLS:626:Rytų Timoras
+TL:TLS:626:Rytų Timoras:Rytų Timoras
 TM:TKM:795:Turkmėnistanas
 TN:TUN:788:Tunisas
 TO:TON:776:Tonga
@@ -233,14 +236,14 @@ UZ:UZB:860:Uzbekistanas
 VA:VAT:336:Vatikanas
 VC:VCT:670:Šventasis Vincentas ir Grenadinai
 VE:VEN:862:Venesuela
-VG:VGB:092:Didžiosios Britanijos Mergelių salos
-VI:VIR:850:Mergelių salos (JAV)
+VG:VGB:092:Didžiosios Britanijos Mergelių Salos
+VI:VIR:850:Mergelių Salos (JAV)
 VN:VNM:704:Vietnamas
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallisas ir Futuna
 WS:WSM:882:Samoa
 YE:YEM:887:Jemenas
-YT:MYT:175:Mayotte’as
+YT:MYT:175:Majotas
 ZA:ZAF:710:Pietų Afrika
 ZM:ZMB:894:Zambija
 ZW:ZWE:716:Zimbabvė

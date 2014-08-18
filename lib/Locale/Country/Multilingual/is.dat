@@ -5,7 +5,6 @@ AG:ATG:028:Antígva og Barbúda
 AI:AIA:660:Angvilla
 AL:ALB:008:Albanía
 AM:ARM:051:Armenía
-AN:ANT:530:Hollensku Antillur
 AO:AGO:024:Angóla
 AQ:ATA:010:Suðurskautslandið
 AR:ARG:032:Argentína
@@ -13,13 +12,13 @@ AS:ASM:016:Bandaríska Samóa
 AT:AUT:040:Austurríki
 AU:AUS:036:Ástralía
 AW:ABW:533:Arúba
-AX:ALA:248:Álandseyjar:Áland
+AX:ALA:248:Álandseyjar
 AZ:AZE:031:Aserbaídsjan
 BA:BIH:070:Bosnía og Hersegóvína
 BB:BRB:052:Barbados
 BD:BGD:050:Bangladess
 BE:BEL:056:Belgía
-BF:BFA:854:Búrkína Fasó:Burkína Fasó
+BF:BFA:854:Búrkína Fasó
 BG:BGR:100:Búlgaría
 BH:BHR:048:Barein
 BI:BDI:108:Búrúndí
@@ -28,6 +27,7 @@ BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermúdaeyjar
 BN:BRN:096:Brúnei
 BO:BOL:068:Bólivía
+BQ:BES:535:Karíbahafshluti Hollands
 BR:BRA:076:Brasilía
 BS:BHS:044:Bahamaeyjar
 BT:BTN:064:Bútan
@@ -37,11 +37,11 @@ BY:BLR:112:Hvíta-Rússland
 BZ:BLZ:084:Belís
 CA:CAN:124:Kanada
 CC:CCK:166:Kókoseyjar
-CD:COD:180:Austur-Kongó:Kongó-Kinshasa
+CD:COD:180:Kongó-Kinshasa:Kongó [lýðræðislega lýðveldið]
 CF:CAF:140:Mið-Afríkulýðveldið
-CG:COG:178:Vestur-Kongó:Kongó-Brazzaville
+CG:COG:178:Kongó-Brazzaville:Kóngó [lýðveldið]
 CH:CHE:756:Sviss
-CI:CIV:384:Fílabeinsströndin
+CI:CIV:384:Fílabeinsströndin:Fílabeinsströndin
 CK:COK:184:Cookseyjar
 CL:CHL:152:Chíle
 CM:CMR:120:Kamerún
@@ -50,6 +50,7 @@ CO:COL:170:Kólumbía
 CR:CRI:188:Kostaríka
 CU:CUB:192:Kúba
 CV:CPV:132:Grænhöfðaeyjar
+CW:CUW:531:Curacao
 CX:CXR:162:Jólaey
 CY:CYP:196:Kýpur
 CZ:CZE:203:Tékkland
@@ -68,7 +69,7 @@ ES:ESP:724:Spánn
 ET:ETH:231:Eþíópía
 FI:FIN:246:Finnland
 FJ:FJI:242:Fídjieyjar
-FK:FLK:238:Falklandseyjar
+FK:FLK:238:Falklandseyjar:Falklandseyjar [Islas Malvinas]
 FM:FSM:583:Mikrónesía
 FO:FRO:234:Færeyjar
 FR:FRA:250:Frakkland
@@ -91,7 +92,7 @@ GT:GTM:320:Gvatemala
 GU:GUM:316:Gvam
 GW:GNB:624:Gínea-Bissá
 GY:GUY:328:Gvæjana
-HK:HKG:344:Hong Kong:Hong Kong
+HK:HKG:344:Sjálfstjórnarsvæðið Hong Kong:Hong Kong
 HM:HMD:334:Heard og McDonaldseyjar
 HN:HND:340:Hondúras
 HR:HRV:191:Króatía
@@ -140,11 +141,11 @@ ME:MNE:499:Svartfjallaland
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalleyjar
-MK:MKD:807:Makedónía
+MK:MKD:807:Makedónía:Makedónía [Fyrrum júgóslavneska lýðveldið Makedónía]
 ML:MLI:466:Malí
-MM:MMR:104:Mjanmar
+MM:MMR:104:Mjanmar [Búrma]
 MN:MNG:496:Mongólía
-MO:MAC:446:Makaó:Makáo:Makáo
+MO:MAC:446:Sjálfstjórnarsvæðið Makaó:Makaó
 MP:MNP:580:Norður-Maríanaeyjar
 MQ:MTQ:474:Martiník
 MR:MRT:478:Máritanía
@@ -162,7 +163,7 @@ NE:NER:562:Níger
 NF:NFK:574:Norfolkeyja
 NG:NGA:566:Nígería
 NI:NIC:558:Níkaragva
-NL:NLD:528:Niðurlönd:Holland
+NL:NLD:528:Niðurlönd
 NO:NOR:578:Noregur
 NP:NPL:524:Nepal
 NR:NRU:520:Nárú
@@ -177,22 +178,22 @@ PH:PHL:608:Filippseyjar
 PK:PAK:586:Pakistan
 PL:POL:616:Pólland
 PM:SPM:666:Sankti Pierre og Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Pitcairneyjar
 PR:PRI:630:Púertó Ríkó
-PS:PSE:275:Palestína
+PS:PSE:275:Heimastjórnarsvæði Palestínumanna:Palestína
 PT:PRT:620:Portúgal
 PW:PLW:585:Palá
 PY:PRY:600:Paragvæ
 QA:QAT:634:Katar
 RE:REU:638:Réunion
-RO:ROM:642:Rúmenía
+RO:ROU:642:Rúmenía
 RS:SRB:688:Serbía
 RU:RUS:643:Rússland
 RW:RWA:646:Rúanda
 SA:SAU:682:Sádi-Arabía
 SB:SLB:090:Salómonseyjar
 SC:SYC:690:Seychelleseyjar
-SD:SDN:736:Súdan
+SD:SDN:729:Súdan
 SE:SWE:752:Svíþjóð
 SG:SGP:702:Singapúr
 SH:SHN:654:Sankti Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marínó
 SN:SEN:686:Senegal
 SO:SOM:706:Sómalía
 SR:SUR:740:Súrínam
+SS:SSD:728:Suður-Súdan
 ST:STP:678:Saó Tóme og Prinsípe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Sýrland
 SZ:SWZ:748:Svasíland
 TC:TCA:796:Turks- og Caicoseyjar
@@ -215,7 +218,7 @@ TG:TGO:768:Tógó
 TH:THA:764:Taíland
 TJ:TJK:762:Tadsjikistan
 TK:TKL:772:Tókelá
-TL:TLS:626:Austur-Tímor
+TL:TLS:626:Tímor-Leste:Austur-Tímor
 TM:TKM:795:Túrkmenistan
 TN:TUN:788:Túnis
 TO:TON:776:Tonga
@@ -233,8 +236,8 @@ UZ:UZB:860:Úsbekistan
 VA:VAT:336:Páfagarður
 VC:VCT:670:Sankti Vinsent og Grenadíneyjar
 VE:VEN:862:Venesúela
-VG:VGB:092:Jómfrúaeyjar (bresku):Bresku Jómfrúareyjar
-VI:VIR:850:Jómfrúaeyjar (bandarísku):Bandarísku Jómfrúareyjar
+VG:VGB:092:Bresku Jómfrúaeyjar
+VI:VIR:850:Bandarísku Jómfrúaeyjar
 VN:VNM:704:Víetnam
 VU:VUT:548:Vanúatú
 WF:WLF:876:Wallis- og Fútúnaeyjar

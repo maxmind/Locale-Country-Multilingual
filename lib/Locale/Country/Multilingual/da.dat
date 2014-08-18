@@ -5,7 +5,6 @@ AG:ATG:028:Antigua og Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albanien
 AM:ARM:051:Armenien
-AN:ANT:530:Hollandske Antiller
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktis
 AR:ARG:032:Argentina
@@ -13,7 +12,7 @@ AS:ASM:016:Amerikansk Samoa
 AT:AUT:040:Østrig
 AU:AUS:036:Australien
 AW:ABW:533:Aruba
-AX:ALA:248:Åland
+AX:ALA:248:Ålandsøerne
 AZ:AZE:031:Aserbajdsjan
 BA:BIH:070:Bosnien-Hercegovina
 BB:BRB:052:Barbados
@@ -26,8 +25,9 @@ BI:BDI:108:Burundi
 BJ:BEN:204:Benin
 BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
-BN:BRN:096:Brunei Darussalam:Brunei
+BN:BRN:096:Brunei Darussalam
 BO:BOL:068:Bolivia
+BQ:BES:535:Nederlandske antiller
 BR:BRA:076:Brasilien
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -37,12 +37,12 @@ BY:BLR:112:Hviderusland
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
 CC:CCK:166:Cocosøerne
-CD:COD:180:Congo-Kinshasa
+CD:COD:180:Congo-Kinshasa:Den Demokratiske Republik Congo
 CF:CAF:140:Centralafrikanske Republik
-CG:COG:178:Congo:Congo-Brazzaville
+CG:COG:178:Congo – Brazzaville:Republikken Congo
 CH:CHE:756:Schweiz
-CI:CIV:384:Elfenbenskysten
-CK:COK:184:Cook-øerne
+CI:CIV:384:Côte d’Ivoire:Elfenbenskysten
+CK:COK:184:Cookøerne
 CL:CHL:152:Chile
 CM:CMR:120:Cameroun
 CN:CHN:156:Kina
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Kap Verde
+CW:CUW:531:Curacao
 CX:CXR:162:Juleøen
 CY:CYP:196:Cypern
 CZ:CZE:203:Tjekkiet
@@ -67,8 +68,8 @@ ER:ERI:232:Eritrea
 ES:ESP:724:Spanien
 ET:ETH:231:Etiopien
 FI:FIN:246:Finland
-FJ:FJI:242:Fiji-øerne
-FK:FLK:238:Falklandsøerne
+FJ:FJI:242:Fiji
+FK:FLK:238:Falklandsøerne:Falklandsøerne [Islas Malvinas]
 FM:FSM:583:Mikronesiens Forenede Stater
 FO:FRO:234:Færøerne
 FR:FRA:250:Frankrig
@@ -91,7 +92,7 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:SAR Hongkong:Hongkong SAR:Hongkong:Hongkong
+HK:HKG:344:Hongkong SAR:Hongkong
 HM:HMD:334:Heard- og McDonald-øerne
 HN:HND:340:Honduras
 HR:HRV:191:Kroatien
@@ -135,16 +136,16 @@ LV:LVA:428:Letland
 LY:LBY:434:Libyen
 MA:MAR:504:Marokko
 MC:MCO:492:Monaco
-MD:MDA:498:Republikken Moldova
+MD:MDA:498:Moldova
 ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalløerne
-MK:MKD:807:Republikken Makedonien
+MK:MKD:807:Makedonien:Makedonien [Den Tidligere Jugoslaviske Republik Makedonien]
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar [Burma]
 MN:MNG:496:Mongoliet
-MO:MAC:446:SAR Macao:Macao
+MO:MAC:446:Macao SAR:Macao
 MP:MNP:580:Nordmarianerne
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauretanien
@@ -159,7 +160,7 @@ MZ:MOZ:508:Mozambique
 NA:NAM:516:Namibia
 NC:NCL:540:Ny Caledonien
 NE:NER:562:Niger
-NF:NFK:574:Norfolk Island
+NF:NFK:574:Norfolkøen
 NG:NGA:566:Nigeria
 NI:NIC:558:Nicaragua
 NL:NLD:528:Holland
@@ -185,17 +186,17 @@ PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
 RE:REU:638:Reunion
-RO:ROM:642:Rumænien
+RO:ROU:642:Rumænien
 RS:SRB:688:Serbien
 RU:RUS:643:Rusland
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudi-Arabien
 SB:SLB:090:Salomonøerne
 SC:SYC:690:Seychellerne
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Sverige
 SG:SGP:702:Singapore
-SH:SHN:654:St. Helena:Saint Helena
+SH:SHN:654:St. Helena
 SI:SVN:705:Slovenien
 SJ:SJM:744:Svalbard og Jan Mayen
 SK:SVK:703:Slovakiet
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
-ST:STP:678:São Tomé og Príncipe
+SS:SSD:728:Sydsudan
+ST:STP:678:Sao Tome og Principe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Syrien
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks- og Caicosøerne
@@ -213,7 +216,7 @@ TD:TCD:148:Tchad
 TF:ATF:260:Franske Besiddelser i Det Sydlige Indiske Ocean
 TG:TGO:768:Togo
 TH:THA:764:Thailand
-TJ:TJK:762:Tadsjikistan:Tajikistan
+TJ:TJK:762:Tadsjikistan
 TK:TKL:772:Tokelau
 TL:TLS:626:Timor-Leste:Østtimor
 TM:TKM:795:Turkmenistan
@@ -226,18 +229,18 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraine
 UG:UGA:800:Uganda
-UM:UMI:581:De Mindre Amerikanske Oversøiske Øer:De mindre amerikanske oversøiske øer
+UM:UMI:581:Amerikanske oversøiske øer
 US:USA:840:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikanstaten
-VC:VCT:670:St. Vincent og Grenadinerne:Saint Vincent og Grenadinerne
+VC:VCT:670:St. Vincent og Grenadinerne
 VE:VEN:862:Venezuela
 VG:VGB:092:De britiske jomfruøer
 VI:VIR:850:De amerikanske jomfruøer
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis og Futunaøerne
+WF:WLF:876:Wallis og Futuna
 WS:WSM:882:Samoa
 YE:YEM:887:Yemen
 YT:MYT:175:Mayotte

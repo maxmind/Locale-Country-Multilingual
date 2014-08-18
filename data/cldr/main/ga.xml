@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE ldml SYSTEM "http://www.unicode.org/cldr/dtd/1.6/ldml.dtd">
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2013 Unicode, Inc.
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+For terms of use, see http://www.unicode.org/copyright.html
+-->
 <ldml>
 	<identity>
-		<version number="$Revision: 1.65 $"/>
-		<generation date="$Date: 2008/06/26 03:47:57 $"/>
+		<version number="$Revision: 8245 $"/>
+		<generation date="$Date: 2013-02-24 22:19:26 -0600 (Sun, 24 Feb 2013) $"/>
 		<language type="ga"/>
 	</identity>
-	<fallback draft="unconfirmed">en_IE</fallback>
 	<localeDisplayNames>
 		<languages>
 			<language type="aa">aa</language>
@@ -35,34 +38,48 @@
 			<language type="cy">Breatnais</language>
 			<language type="da">Danmhairgis</language>
 			<language type="de">Gearmáinis</language>
+			<language type="de_AT" draft="unconfirmed">Gearmáinis Ostarach</language>
+			<language type="de_CH" draft="unconfirmed">Ardghearmáinis Elvéiseach</language>
 			<language type="el">Gréigis</language>
 			<language type="en">Béarla</language>
+			<language type="en_AU" draft="unconfirmed">Béarla Astrálach</language>
+			<language type="en_CA" draft="unconfirmed">Béarla Ceanadach</language>
+			<language type="en_GB" draft="unconfirmed">Béarla Briotanach</language>
+			<language type="en_US" draft="unconfirmed">Béarla Meiriceánach</language>
 			<language type="eo">Esperanto</language>
 			<language type="es">Spáinnis</language>
+			<language type="es_419" draft="unconfirmed">Spáinnis Mheiriceá Laidinigh</language>
+			<language type="es_ES" draft="unconfirmed">Spáinnis Eorpach</language>
 			<language type="et">Eastóinis</language>
 			<language type="eu">Bascais</language>
 			<language type="fa">Peirsis</language>
 			<language type="fi">Fionlainnis</language>
-			<language type="fil">fil</language>
+			<language type="fil" draft="unconfirmed">Filipínis</language>
 			<language type="fj">Fidsis</language>
 			<language type="fo">Faróis</language>
 			<language type="fr">Fraincis</language>
+			<language type="fr_CA" draft="unconfirmed">Fraincis Ceanadach</language>
+			<language type="fr_CH" draft="unconfirmed">Fraincis Elvéiseach</language>
 			<language type="fy">Freaslainnis Iartharach</language>
 			<language type="ga">Gaeilge</language>
 			<language type="gd">Gaeilge na hAlban</language>
 			<language type="gl">Gailísis</language>
 			<language type="gn">Guaráinis</language>
+			<language type="gsw" draft="unconfirmed">Gearmáinis Elvéiseach</language>
 			<language type="gu">Gúisearáitis</language>
 			<language type="gv">Mannainis</language>
+			<language type="ha" draft="unconfirmed">Hásais</language>
 			<language type="haw">Haváíais</language>
 			<language type="he">Eabhrais</language>
 			<language type="hi">Hiondúis</language>
 			<language type="hr">Cróitis</language>
+			<language type="ht" draft="unconfirmed">Háítis</language>
 			<language type="hu">Ungáiris</language>
 			<language type="hy">Airméinis</language>
 			<language type="ia">Interlingua</language>
 			<language type="id">Indinéisis</language>
 			<language type="ie">Interlingue</language>
+			<language type="ig" draft="unconfirmed">Íogbóis</language>
 			<language type="ik">Inupiaq</language>
 			<language type="io">Ido</language>
 			<language type="is">Íoslainnis</language>
@@ -99,6 +116,7 @@
 			<language type="nb">Ioruais Bokmål</language>
 			<language type="ne">Neipealais</language>
 			<language type="nl">Ollainnis</language>
+			<language type="nl_BE" draft="unconfirmed">Pléimeannais</language>
 			<language type="nn">Ioruais Nynorsk</language>
 			<language type="no">Ioruais</language>
 			<language type="nv">Navachóis</language>
@@ -112,6 +130,7 @@
 			<language type="pt_BR">Portaingéilis Bhrasaíleach</language>
 			<language type="pt_PT">Portaingéilis Ibéireach</language>
 			<language type="qu">Ceatsuais</language>
+			<language type="rm" draft="unconfirmed">Rómainis</language>
 			<language type="ro">Rómáinis</language>
 			<language type="ru">Rúisis</language>
 			<language type="sa">Sanscrait</language>
@@ -132,11 +151,13 @@
 			<language type="sw">Svahaílis</language>
 			<language type="ta">Tamailis</language>
 			<language type="te">Teileagúis</language>
+			<language type="tg" draft="unconfirmed">Táidsícis</language>
 			<language type="th">Téalainnis</language>
 			<language type="ti">Tigrinis</language>
 			<language type="tk">Tuircméinis</language>
 			<language type="tl">Tagálaigis</language>
 			<language type="tlh">Klingon</language>
+			<language type="to" draft="unconfirmed">Tongais</language>
 			<language type="tr">Tuircis</language>
 			<language type="tt">Tatarais</language>
 			<language type="tw">Tvís</language>
@@ -148,19 +169,22 @@
 			<language type="uz">Úisbéicis</language>
 			<language type="vi">Vítneamais</language>
 			<language type="wa">Vallúnais</language>
+			<language type="wo" draft="unconfirmed">Volaifis</language>
 			<language type="xh">Cósais</language>
 			<language type="yi">Giúdais</language>
+			<language type="yo" draft="unconfirmed">Iarúibis</language>
 			<language type="zh">Sínis</language>
 			<language type="zh_Hans">Sínis Shimplithe</language>
 			<language type="zh_Hant">Sínis Thraidisiúnta</language>
 			<language type="zu">Súlúis</language>
+			<language type="zxx" draft="unconfirmed">Gan ábhar teangeolaíoch</language>
 		</languages>
 		<scripts>
 			<script type="Arab" draft="unconfirmed">Arabach</script>
 			<script type="Armn" draft="unconfirmed">Airméanach</script>
 			<script type="Beng" draft="unconfirmed">Beangálach</script>
 			<script type="Brai" draft="unconfirmed">Braille</script>
-			<script type="Cyrl" draft="unconfirmed">Coireallach</script>
+			<script type="Cyrl" draft="unconfirmed">Cirilleach</script>
 			<script type="Deva" draft="unconfirmed">Déiveanágrach</script>
 			<script type="Ethi" draft="unconfirmed">Aetópach</script>
 			<script type="Goth" draft="unconfirmed">Gotach</script>
@@ -195,19 +219,32 @@
 		<territories>
 			<territory type="001">An Domhan</territory>
 			<territory type="002">An Afraic</territory>
+			<territory type="003" draft="unconfirmed">Meiriceá Thuaidh</territory>
+			<territory type="005" draft="unconfirmed">Meiriceá Theas</territory>
 			<territory type="009">An Aigéine</territory>
+			<territory type="011" draft="unconfirmed">an Afraic Iartharach</territory>
 			<territory type="013">Meiriceá Láir</territory>
+			<territory type="014" draft="unconfirmed">An Afraic Oirthearach</territory>
+			<territory type="015" draft="unconfirmed">An Afraic Thuaisceartach</territory>
 			<territory type="017">An Afraic Láir</territory>
+			<territory type="018" draft="unconfirmed">An Afraic Dheisceartach</territory>
 			<territory type="019">Na Meiriceánna</territory>
+			<territory type="021" draft="unconfirmed">Meiriceá Tuaisceartach</territory>
+			<territory type="029" draft="unconfirmed">Cairibeach</territory>
+			<territory type="030" draft="unconfirmed">Oirthear na hÁise</territory>
+			<territory type="035" draft="unconfirmed">Oirdheisceart na hÁise</territory>
 			<territory type="053">An Astráil agus an Nua-Shéalainn</territory>
 			<territory type="054">An Mheilinéis</territory>
 			<territory type="057">An Réigiún Micrinéiseach</territory>
 			<territory type="061">An Pholainéis</territory>
 			<territory type="142">An Áise</territory>
 			<territory type="143">An Áise Láir</territory>
+			<territory type="145" draft="unconfirmed">Iarthar na hÁise</territory>
 			<territory type="150">An Eoraip</territory>
-			<territory type="172">Comhlathas na Stát Neamhspleácha</territory>
+			<territory type="151" draft="unconfirmed">Oirthear na hEorpa</territory>
+			<territory type="155" draft="unconfirmed">Iarthar na hEorpa</territory>
 			<territory type="419">Meiriceá Laidineach agus an Mhuir Chairib</territory>
+			<territory type="AC" draft="unconfirmed">Oileán na Deascabhála</territory>
 			<territory type="AD">Andóra</territory>
 			<territory type="AE">Aontas na nÉimíríochtaí Arabacha</territory>
 			<territory type="AF">An Afganastáin</territory>
@@ -234,6 +271,7 @@
 			<territory type="BH">Bairéin</territory>
 			<territory type="BI">An Bhurúin</territory>
 			<territory type="BJ">Beinin</territory>
+			<territory type="BL" draft="unconfirmed">Saint Barthélemy</territory>
 			<territory type="BM">Beirmiúda</territory>
 			<territory type="BN">Brúiné</territory>
 			<territory type="BO">An Bholaiv</territory>
@@ -257,7 +295,6 @@
 			<territory type="CN">An tSín</territory>
 			<territory type="CO">An Cholóim</territory>
 			<territory type="CR">Cósta Ríce</territory>
-			<territory type="CS">An tSeirbia agus Montainéagró</territory>
 			<territory type="CU">Cúba</territory>
 			<territory type="CV">An Rinn Ghlas</territory>
 			<territory type="CX">Oileán na Nollag</territory>
@@ -276,6 +313,7 @@
 			<territory type="ER">An Eiritré</territory>
 			<territory type="ES">An Spáinn</territory>
 			<territory type="ET">An Aetóip</territory>
+			<territory type="EU">An tAontas Eorpach</territory>
 			<territory type="FI">An Fhionlainn</territory>
 			<territory type="FJ">Fidsí</territory>
 			<territory type="FK">Oileáin Fháclainne</territory>
@@ -303,7 +341,6 @@
 			<territory type="GY">An Ghuáin</territory>
 			<territory type="HK">R.R.S. na Síne Hong Cong</territory>
 			<territory type="HK" alt="short">Hong Cong</territory>
-			<!-- Hong Cong, Reigiún Riaracháin Speisialta na Síne -->
 			<territory type="HM">Oileán Heard agus Oileáin McDonald</territory>
 			<territory type="HN">Hondúras</territory>
 			<territory type="HR">An Chróit</territory>
@@ -357,7 +394,6 @@
 			<territory type="MN">An Mhongóil</territory>
 			<territory type="MO">R.R.S. na Síne Macáó</territory>
 			<territory type="MO" alt="short">Macáó</territory>
-			<!-- Macáó, Reigiún Riaracháin Speisialta na Síne -->
 			<territory type="MP">Oileáin Mariana Thuaidh</territory>
 			<territory type="MQ">Martainíc</territory>
 			<territory type="MR">An Mharatáin</territory>
@@ -398,7 +434,6 @@
 			<territory type="PY">Paragua</territory>
 			<territory type="QA">Catar</territory>
 			<territory type="QO">An Aigéine Imeallach</territory>
-			<territory type="QU">An tAontas Eorpach</territory>
 			<territory type="RE">Réunion</territory>
 			<territory type="RO">An Rómáin</territory>
 			<territory type="RS">An tSeirbia</territory>
@@ -419,6 +454,7 @@
 			<territory type="SN">An tSeineagáil</territory>
 			<territory type="SO">An tSomáil</territory>
 			<territory type="SR">Suranam</territory>
+			<territory type="SS" draft="provisional">An tSúdáin Theas</territory>
 			<territory type="ST">Sao Tome agus Principe</territory>
 			<territory type="SV">An tSalvadóir</territory>
 			<territory type="SY">An tSiria</territory>
@@ -463,14 +499,14 @@
 		</territories>
 		<keys>
 			<key type="calendar" draft="unconfirmed">Féilire</key>
-			<key type="collation" draft="unconfirmed">Comhordú</key>
+			<key type="collation" draft="unconfirmed">Ord Sórtála</key>
 			<key type="currency" draft="unconfirmed">Airgeadra</key>
+			<key type="numbers" draft="unconfirmed">Uimhreacha</key>
 		</keys>
 		<types>
 			<type type="big5han" key="collation" draft="unconfirmed">Ord sórtála Síneach traidisiúnta - Big5</type>
 			<type type="buddhist" key="calendar" draft="unconfirmed">Féilire Búdaíoch</type>
 			<type type="chinese" key="calendar" draft="unconfirmed">Féilire Síneach</type>
-			<type type="direct" key="collation" draft="unconfirmed">Ord sórtála díreach</type>
 			<type type="gb2312han" key="collation" draft="unconfirmed">Ord sórtála Síneach simplithe - GB 2312</type>
 			<type type="gregorian" key="calendar" draft="unconfirmed">Féilire Greagórach</type>
 			<type type="hebrew" key="calendar" draft="unconfirmed">Féilire Eabhrach</type>
@@ -483,22 +519,37 @@
 			<type type="traditional" key="collation" draft="unconfirmed">Ord sórtála traidisiúnta</type>
 		</types>
 		<measurementSystemNames>
-			<measurementSystemName type="US" draft="unconfirmed">Meiriceánach</measurementSystemName>
 			<measurementSystemName type="metric" draft="unconfirmed">Méadrach</measurementSystemName>
+			<measurementSystemName type="US" draft="unconfirmed">Meiriceánach</measurementSystemName>
 		</measurementSystemNames>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters>[a á b-e é f-i í j-o ó p-u ú v-z]</exemplarCharacters>
-		<exemplarCharacters type="auxiliary">[ḃ ċ ḋ ḟ ġ ṁ ṗ ṡ ṫ]</exemplarCharacters>
+		<exemplarCharacters>[a á b c d e é f g h i í l m n o ó p r s t u ú]</exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[å ḃ ċ ḋ ḟ ġ j k ṁ ṗ q ṡ ṫ v w x y z]</exemplarCharacters>
+		<exemplarCharacters type="index" draft="unconfirmed">[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]</exemplarCharacters>
 	</characters>
 	<dates>
-		<localizedPatternChars>RbMLkUnsSElFtTauKcBeyrACvdz</localizedPatternChars>
 		<calendars>
-			<calendar type="buddhist">
+			<calendar type="generic">
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE d MMMM yyyy G</pattern>
+							<pattern>EEEE d MMMM y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="long">
+						<dateFormat>
+							<pattern>d MMMM y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="medium">
+						<dateFormat>
+							<pattern>d MMM y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="short">
+						<dateFormat>
+							<pattern>dd/MM/y GGGGG</pattern>
 						</dateFormat>
 					</dateFormatLength>
 				</dateFormats>
@@ -601,8 +652,14 @@
 						</quarterWidth>
 					</quarterContext>
 				</quarters>
-				<am>a.m.</am>
-				<pm>p.m.</pm>
+				<dayPeriods>
+					<dayPeriodContext type="format">
+						<dayPeriodWidth type="wide">
+							<dayPeriod type="am">a.m.</dayPeriod>
+							<dayPeriod type="pm">p.m.</dayPeriod>
+						</dayPeriodWidth>
+					</dayPeriodContext>
+				</dayPeriods>
 				<eras>
 					<eraNames>
 						<era type="0" draft="unconfirmed">Roimh Chríost</era>
@@ -616,29 +673,29 @@
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE d MMMM yyyy</pattern>
+							<pattern>EEEE d MMMM y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
 						<dateFormat>
-							<pattern draft="unconfirmed">d MMMM yyyy</pattern>
+							<pattern>d MMMM y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="medium">
 						<dateFormat>
-							<pattern draft="unconfirmed">d MMM yyyy</pattern>
+							<pattern>d MMM y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="short">
 						<dateFormat>
-							<pattern draft="unconfirmed">dd/MM/yyyy</pattern>
+							<pattern>dd/MM/y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 				</dateFormats>
 				<timeFormats>
 					<timeFormatLength type="full">
 						<timeFormat>
-							<pattern draft="unconfirmed">HH:mm:ss v</pattern>
+							<pattern draft="unconfirmed">HH:mm:ss zzzz</pattern>
 						</timeFormat>
 					</timeFormatLength>
 					<timeFormatLength type="long">
@@ -657,68 +714,48 @@
 						</timeFormat>
 					</timeFormatLength>
 				</timeFormats>
-				<dateTimeFormats>
-					<dateTimeFormatLength>
-						<dateTimeFormat>
-							<pattern draft="unconfirmed">{1} {0}</pattern>
-						</dateTimeFormat>
-					</dateTimeFormatLength>
-					<availableFormats>
-						<dateFormatItem id="HHmm" draft="unconfirmed">HH:mm</dateFormatItem>
-						<dateFormatItem id="HHmmss" draft="unconfirmed">HH:mm:ss</dateFormatItem>
-						<dateFormatItem id="MMMMd" draft="unconfirmed">d MMMM</dateFormatItem>
-						<dateFormatItem id="MMdd" draft="unconfirmed">dd/MM</dateFormatItem>
-						<dateFormatItem id="Md" draft="unconfirmed">d/M</dateFormatItem>
-						<dateFormatItem id="mmss" draft="unconfirmed">mm:ss</dateFormatItem>
-						<dateFormatItem id="yyMM" draft="unconfirmed">MM/yy</dateFormatItem>
-						<dateFormatItem id="yyMMM" draft="unconfirmed">MMM yy</dateFormatItem>
-						<dateFormatItem id="yyQ" draft="unconfirmed">Q yy</dateFormatItem>
-						<dateFormatItem id="yyyyMM" draft="unconfirmed">MM/yyyy</dateFormatItem>
-						<dateFormatItem id="yyyyMMMM" draft="unconfirmed">MMMM yyyy</dateFormatItem>
-					</availableFormats>
-				</dateTimeFormats>
-				<fields>
-					<field type="era">
-						<displayName draft="unconfirmed">Ré</displayName>
-					</field>
-					<field type="year">
-						<displayName draft="unconfirmed">Bliain</displayName>
-					</field>
-					<field type="month">
-						<displayName draft="unconfirmed">Mí</displayName>
-					</field>
-					<field type="week">
-						<displayName draft="unconfirmed">Seachtain</displayName>
-					</field>
-					<field type="day">
-						<displayName draft="unconfirmed">Lá</displayName>
-						<relative type="0" draft="unconfirmed">Inniu</relative>
-						<relative type="1" draft="unconfirmed">Amárach</relative>
-						<relative type="2" draft="unconfirmed">Arú amárach</relative>
-						<relative type="-1" draft="unconfirmed">Inné</relative>
-						<relative type="-2" draft="unconfirmed">Arú inné</relative>
-					</field>
-					<field type="weekday">
-						<displayName draft="unconfirmed">Lá na seachtaine</displayName>
-					</field>
-					<field type="dayperiod">
-						<displayName draft="unconfirmed">a.m./p.m.</displayName>
-					</field>
-					<field type="hour">
-						<displayName draft="unconfirmed">Uair</displayName>
-					</field>
-					<field type="minute">
-						<displayName draft="unconfirmed">Nóiméad</displayName>
-					</field>
-					<field type="second">
-						<displayName draft="unconfirmed">Soicind</displayName>
-					</field>
-					<field type="zone">
-						<displayName draft="unconfirmed">Crios</displayName>
-					</field>
-				</fields>
 			</calendar>
 		</calendars>
+		<fields>
+			<field type="era">
+				<displayName draft="unconfirmed">Ré</displayName>
+			</field>
+			<field type="year">
+				<displayName draft="unconfirmed">Bliain</displayName>
+			</field>
+			<field type="month">
+				<displayName draft="unconfirmed">Mí</displayName>
+			</field>
+			<field type="week">
+				<displayName draft="unconfirmed">Seachtain</displayName>
+			</field>
+			<field type="day">
+				<displayName draft="unconfirmed">Lá</displayName>
+				<relative type="-2" draft="unconfirmed">Arú inné</relative>
+				<relative type="-1" draft="unconfirmed">Inné</relative>
+				<relative type="0" draft="unconfirmed">Inniu</relative>
+				<relative type="1" draft="unconfirmed">Amárach</relative>
+				<relative type="2" draft="unconfirmed">Arú amárach</relative>
+			</field>
+			<field type="weekday">
+				<displayName draft="unconfirmed">Lá na seachtaine</displayName>
+			</field>
+			<field type="dayperiod">
+				<displayName draft="unconfirmed">a.m./p.m.</displayName>
+			</field>
+			<field type="hour">
+				<displayName draft="unconfirmed">Uair</displayName>
+			</field>
+			<field type="minute">
+				<displayName draft="unconfirmed">Nóiméad</displayName>
+			</field>
+			<field type="second">
+				<displayName draft="unconfirmed">Soicind</displayName>
+			</field>
+			<field type="zone">
+				<displayName draft="unconfirmed">Crios</displayName>
+			</field>
+		</fields>
 		<timeZoneNames>
 			<hourFormat draft="unconfirmed">+HH:mm;-HH:mm</hourFormat>
 			<gmtFormat draft="unconfirmed">MAG{0}</gmtFormat>
@@ -755,11 +792,11 @@
 		</timeZoneNames>
 	</dates>
 	<numbers>
-		<symbols>
+		<symbols numberSystem="latn">
 			<decimal draft="unconfirmed">.</decimal>
 			<group draft="unconfirmed">,</group>
 		</symbols>
-		<currencyFormats>
+		<currencyFormats numberSystem="latn">
 			<currencyFormatLength>
 				<currencyFormat>
 					<pattern>¤#,##0.00</pattern>
@@ -778,15 +815,12 @@
 			</currency>
 			<currency type="AFN">
 				<displayName>Afgainí</displayName>
-				<symbol>Af</symbol>
 			</currency>
 			<currency type="ALL">
 				<displayName>Lek Albánach</displayName>
-				<symbol>lek</symbol>
 			</currency>
 			<currency type="AMD">
 				<displayName>Dram Airméanach</displayName>
-				<symbol>dram</symbol>
 			</currency>
 			<currency type="ANG">
 				<displayName>Guilder na nAntillí Ísiltíreach</displayName>
@@ -812,14 +846,12 @@
 			</currency>
 			<currency type="ARS">
 				<displayName>Peso na Airgintíne</displayName>
-				<symbol>Arg$</symbol>
 			</currency>
 			<currency type="ATS">
 				<displayName>Scilling Ostarach</displayName>
 			</currency>
 			<currency type="AUD">
 				<displayName>Dollar Astrálach</displayName>
-				<symbol>A$</symbol>
 			</currency>
 			<currency type="AWG">
 				<displayName>Guilder Aruba</displayName>
@@ -832,51 +864,42 @@
 			</currency>
 			<currency type="BAM">
 				<displayName>Marc Inathraithe Bhoisnia-Heirseagaivéin</displayName>
-				<symbol>KM</symbol>
 			</currency>
 			<currency type="BBD">
 				<displayName>Dollar Bharbadóis</displayName>
-				<symbol>BDS$</symbol>
 			</currency>
 			<currency type="BDT">
 				<displayName>Taka Bhanglaidéiseach</displayName>
-				<symbol>Tk</symbol>
 			</currency>
 			<currency type="BEC">
 				<displayName>Franc Beilgeach (inathraithe)</displayName>
 			</currency>
 			<currency type="BEF">
 				<displayName>Franc Beilgeach</displayName>
-				<symbol>BF</symbol>
 			</currency>
 			<currency type="BEL">
 				<displayName>Franc Beilgeach (airgeadúil)</displayName>
 			</currency>
 			<currency type="BGL">
 				<displayName>Lev Bulgárach Crua</displayName>
-				<symbol>lev</symbol>
 			</currency>
 			<currency type="BGN">
 				<displayName>Lev Nua Bulgárach</displayName>
 			</currency>
 			<currency type="BHD">
 				<displayName>Dínear na Bairéine</displayName>
-				<symbol>BD</symbol>
 			</currency>
 			<currency type="BIF">
 				<displayName>Franc na Burúine</displayName>
-				<symbol>Fbu</symbol>
 			</currency>
 			<currency type="BMD">
 				<displayName>Dollar Bheirmiúda</displayName>
-				<symbol>Ber$</symbol>
 			</currency>
 			<currency type="BND">
 				<displayName>Dollar Bhrúiné</displayName>
 			</currency>
 			<currency type="BOB">
 				<displayName>Boliviano</displayName>
-				<symbol>Bs</symbol>
 			</currency>
 			<currency type="BOP">
 				<displayName>Peso na Bolaive</displayName>
@@ -907,7 +930,6 @@
 			</currency>
 			<currency type="BTN">
 				<displayName>Ngultrum Bútánach</displayName>
-				<symbol>Nu</symbol>
 			</currency>
 			<currency type="BUK">
 				<displayName>Kyat Burmach</displayName>
@@ -920,15 +942,12 @@
 			</currency>
 			<currency type="BYR">
 				<displayName>Rúbal Béalarúiseach</displayName>
-				<symbol>Rbl</symbol>
 			</currency>
 			<currency type="BZD">
 				<displayName>Dollar na Beilíse</displayName>
-				<symbol>BZ$</symbol>
 			</currency>
 			<currency type="CAD">
 				<displayName>Dollar Ceanada</displayName>
-				<symbol>Can$</symbol>
 			</currency>
 			<currency type="CDF">
 				<displayName>Franc Congolais an Chongó</displayName>
@@ -941,19 +960,15 @@
 			</currency>
 			<currency type="CLP">
 				<displayName>Peso na Sile</displayName>
-				<symbol>Ch$</symbol>
 			</currency>
 			<currency type="CNY">
 				<displayName>Yuan Renminbi Síneach</displayName>
-				<symbol>Y</symbol>
 			</currency>
 			<currency type="COP">
 				<displayName>Peso na Colóime</displayName>
-				<symbol>Col$</symbol>
 			</currency>
 			<currency type="CRC">
 				<displayName>Colon Chósta Ríce</displayName>
-				<symbol>C</symbol>
 			</currency>
 			<currency type="CSK">
 				<displayName>Koruna Crua na Seicslóvaice</displayName>
@@ -963,11 +978,9 @@
 			</currency>
 			<currency type="CVE">
 				<displayName>Escudo na Rinne Verde</displayName>
-				<symbol>CVEsc</symbol>
 			</currency>
 			<currency type="CYP">
 				<displayName>Punt na Cipire</displayName>
-				<symbol>£C</symbol>
 			</currency>
 			<currency type="CZK">
 				<displayName>Koruna Phoblacht na Seice</displayName>
@@ -980,19 +993,15 @@
 			</currency>
 			<currency type="DJF">
 				<displayName>Franc Djibouti</displayName>
-				<symbol>DF</symbol>
 			</currency>
 			<currency type="DKK">
 				<displayName>Krone Danmhargach</displayName>
-				<symbol>DKr</symbol>
 			</currency>
 			<currency type="DOP">
 				<displayName>Peso Doimineacach</displayName>
-				<symbol>RD$</symbol>
 			</currency>
 			<currency type="DZD">
 				<displayName>Dínear na hAilgéire</displayName>
-				<symbol>DA</symbol>
 			</currency>
 			<currency type="ECS">
 				<displayName>Sucre Eacuadóir</displayName>
@@ -1011,7 +1020,6 @@
 			</currency>
 			<currency type="ETB">
 				<displayName>Birr na hAetóipe</displayName>
-				<symbol>Br</symbol>
 			</currency>
 			<currency type="EUR">
 				<displayName>Euro</displayName>
@@ -1021,7 +1029,6 @@
 			</currency>
 			<currency type="FJD">
 				<displayName>Dollar Fhidsí</displayName>
-				<symbol>F$</symbol>
 			</currency>
 			<currency type="FKP">
 				<displayName>Punt Oileáin Fháclainne</displayName>
@@ -1037,7 +1044,6 @@
 			</currency>
 			<currency type="GEL">
 				<displayName>Lari na Grúise</displayName>
-				<symbol>lari</symbol>
 			</currency>
 			<currency type="GHC">
 				<displayName>Cedi Ghána</displayName>
@@ -1050,7 +1056,6 @@
 			</currency>
 			<currency type="GNF">
 				<displayName>Franc Guine</displayName>
-				<symbol>GF</symbol>
 			</currency>
 			<currency type="GNS">
 				<displayName>Syli Guine</displayName>
@@ -1063,7 +1068,6 @@
 			</currency>
 			<currency type="GTQ">
 				<displayName>Quetzal Guatamala</displayName>
-				<symbol>Q</symbol>
 			</currency>
 			<currency type="GWE">
 				<displayName>Escudo na Guine Portaingéalaí</displayName>
@@ -1073,15 +1077,12 @@
 			</currency>
 			<currency type="GYD">
 				<displayName>Dollar na Guáine</displayName>
-				<symbol>G$</symbol>
 			</currency>
 			<currency type="HKD">
 				<displayName>Dollar Hong Cong</displayName>
-				<symbol>HK$</symbol>
 			</currency>
 			<currency type="HNL">
 				<displayName>Lempira Hondúrais</displayName>
-				<symbol>L</symbol>
 			</currency>
 			<currency type="HRD">
 				<displayName>Dínear na Cróite</displayName>
@@ -1094,15 +1095,12 @@
 			</currency>
 			<currency type="HUF">
 				<displayName>Forint Ungárach</displayName>
-				<symbol>Ft</symbol>
 			</currency>
 			<currency type="IDR">
 				<displayName>Rupiah Indinéiseach</displayName>
-				<symbol>Rp</symbol>
 			</currency>
 			<currency type="IEP">
 				<displayName>Punt Éireannach</displayName>
-				<symbol>£</symbol>
 			</currency>
 			<currency type="ILP">
 				<displayName>Punt Iosraelach</displayName>
@@ -1115,11 +1113,9 @@
 			</currency>
 			<currency type="IQD">
 				<displayName>Dínear Irácach</displayName>
-				<symbol>ID</symbol>
 			</currency>
 			<currency type="IRR">
 				<displayName>Rial Iaránach</displayName>
-				<symbol>RI</symbol>
 			</currency>
 			<currency type="ISK">
 				<displayName>Krona Íoslannach</displayName>
@@ -1129,30 +1125,24 @@
 			</currency>
 			<currency type="JMD">
 				<displayName>Dollar Iamácach</displayName>
-				<symbol>J$</symbol>
 			</currency>
 			<currency type="JOD">
 				<displayName>Dínear Iordánach</displayName>
-				<symbol>JD</symbol>
 			</currency>
 			<currency type="JPY">
 				<displayName>Yen Seapánach</displayName>
 			</currency>
 			<currency type="KES">
 				<displayName>Scilling Céiniach</displayName>
-				<symbol>K Sh</symbol>
 			</currency>
 			<currency type="KGS">
 				<displayName>Som na Cirgeastáine</displayName>
-				<symbol>som</symbol>
 			</currency>
 			<currency type="KHR">
 				<displayName>Riel na Cambóide</displayName>
-				<symbol>CR</symbol>
 			</currency>
 			<currency type="KMF">
 				<displayName>Franc Chomóra</displayName>
-				<symbol>CF</symbol>
 			</currency>
 			<currency type="KPW">
 				<displayName>Won na Cóiré Thuaidh</displayName>
@@ -1162,32 +1152,27 @@
 			</currency>
 			<currency type="KWD">
 				<displayName>Dínear Cuátach</displayName>
-				<symbol>KD</symbol>
 			</currency>
 			<currency type="KYD">
 				<displayName>Dollar Oileáin Cayman</displayName>
 			</currency>
 			<currency type="KZT">
 				<displayName>Tenge Casacstánach</displayName>
-				<symbol>T</symbol>
 			</currency>
 			<currency type="LAK">
 				<displayName>Kip Laosach</displayName>
 			</currency>
 			<currency type="LBP">
 				<displayName>Punt na Liobáine</displayName>
-				<symbol>LL</symbol>
 			</currency>
 			<currency type="LKR">
 				<displayName>Rúipí Srí Lanca</displayName>
-				<symbol>SL Re</symbol>
 			</currency>
 			<currency type="LRD">
 				<displayName>Dollar na Libéire</displayName>
 			</currency>
 			<currency type="LSL">
 				<displayName>Loti Leosóta</displayName>
-				<symbol>M</symbol>
 			</currency>
 			<currency type="LTL">
 				<displayName>Lita Liotuánach</displayName>
@@ -1206,7 +1191,6 @@
 			</currency>
 			<currency type="LYD">
 				<displayName>Dínear Libia</displayName>
-				<symbol>LD</symbol>
 			</currency>
 			<currency type="MAD">
 				<displayName>Dirham Mharacó</displayName>
@@ -1225,7 +1209,6 @@
 			</currency>
 			<currency type="MKD">
 				<displayName>Denar na Macadóine</displayName>
-				<symbol>MDen</symbol>
 			</currency>
 			<currency type="MLF">
 				<displayName>Franc Mhailí</displayName>
@@ -1235,18 +1218,15 @@
 			</currency>
 			<currency type="MNT">
 				<displayName>Tugrik Mongólach</displayName>
-				<symbol>Tug</symbol>
 			</currency>
 			<currency type="MOP">
 				<displayName>Pataca Macao</displayName>
 			</currency>
 			<currency type="MRO">
 				<displayName>Ouguiya na Maratáine</displayName>
-				<symbol>UM</symbol>
 			</currency>
 			<currency type="MTL">
 				<displayName>Lira Maltach</displayName>
-				<symbol>Lm</symbol>
 			</currency>
 			<currency type="MTP">
 				<displayName>Punt Maltach</displayName>
@@ -1259,11 +1239,9 @@
 			</currency>
 			<currency type="MWK">
 				<displayName>Kwacha na Maláive</displayName>
-				<symbol>MK</symbol>
 			</currency>
 			<currency type="MXN">
 				<displayName>Peso Meicsiceo</displayName>
-				<symbol>MEX$</symbol>
 			</currency>
 			<currency type="MXP">
 				<displayName>Peso Airgid Meicsiceo (1861-1992)</displayName>
@@ -1273,18 +1251,15 @@
 			</currency>
 			<currency type="MYR">
 				<displayName>Ringgit Malaeisia</displayName>
-				<symbol>RM</symbol>
 			</currency>
 			<currency type="MZE">
 				<displayName>Escudo Mósaimbíce</displayName>
 			</currency>
 			<currency type="MZM">
 				<displayName>Metical Mósaimbíce</displayName>
-				<symbol>Mt</symbol>
 			</currency>
 			<currency type="NAD">
 				<displayName>Dollar na Namaibe</displayName>
-				<symbol>N$</symbol>
 			</currency>
 			<currency type="NGN">
 				<displayName>Naira Nígéarach</displayName>
@@ -1300,19 +1275,15 @@
 			</currency>
 			<currency type="NOK">
 				<displayName>Krone Ioruach</displayName>
-				<symbol>NKr</symbol>
 			</currency>
 			<currency type="NPR">
 				<displayName>Rúipí Neipeáil</displayName>
-				<symbol>Nrs</symbol>
 			</currency>
 			<currency type="NZD">
 				<displayName>Dollar na Nua-Shéalainne</displayName>
-				<symbol>$NZ</symbol>
 			</currency>
 			<currency type="OMR">
 				<displayName>Rial Omain</displayName>
-				<symbol>RO</symbol>
 			</currency>
 			<currency type="PAB">
 				<displayName>Balboa Panamach</displayName>
@@ -1334,11 +1305,9 @@
 			</currency>
 			<currency type="PKR">
 				<displayName>Rúipí na Pacastáine</displayName>
-				<symbol>Pra</symbol>
 			</currency>
 			<currency type="PLN">
 				<displayName>Zloty Polannach</displayName>
-				<symbol>Zl</symbol>
 			</currency>
 			<currency type="PLZ">
 				<displayName>Zloty Polannach (1950-1995)</displayName>
@@ -1351,11 +1320,9 @@
 			</currency>
 			<currency type="QAR">
 				<displayName>Rial Catarach</displayName>
-				<symbol>QR</symbol>
 			</currency>
 			<currency type="ROL">
 				<displayName>Leu Rómánach</displayName>
-				<symbol>leu</symbol>
 			</currency>
 			<currency type="RUB">
 				<displayName>Rúbal Rúiseach</displayName>
@@ -1368,15 +1335,12 @@
 			</currency>
 			<currency type="SAR">
 				<displayName>Riyal Sádach</displayName>
-				<symbol>SRl</symbol>
 			</currency>
 			<currency type="SBD">
 				<displayName>Dollar Oileáin Solomon</displayName>
-				<symbol>SI$</symbol>
 			</currency>
 			<currency type="SCR">
 				<displayName>Rúipí na Séiséil</displayName>
-				<symbol>SR</symbol>
 			</currency>
 			<currency type="SDD">
 				<displayName>Dínear na Súdáine</displayName>
@@ -1386,11 +1350,9 @@
 			</currency>
 			<currency type="SEK">
 				<displayName>Krona Sualannach</displayName>
-				<symbol>SKr</symbol>
 			</currency>
 			<currency type="SGD">
 				<displayName>Dollar Singeapóir</displayName>
-				<symbol>S$</symbol>
 			</currency>
 			<currency type="SHP">
 				<displayName>Punt San Héilin</displayName>
@@ -1400,22 +1362,18 @@
 			</currency>
 			<currency type="SKK">
 				<displayName>Koruna na Slóvaice</displayName>
-				<symbol>Sk</symbol>
 			</currency>
 			<currency type="SLL">
 				<displayName>Leone Shiarra Leon</displayName>
 			</currency>
 			<currency type="SOS">
 				<displayName>Scilling na Sómáile</displayName>
-				<symbol>Sh.</symbol>
 			</currency>
 			<currency type="SRG">
 				<displayName>Guilder Shuranaim</displayName>
-				<symbol>Sf</symbol>
 			</currency>
 			<currency type="STD">
 				<displayName>Dobra Sao Tome agus Principe</displayName>
-				<symbol>Db</symbol>
 			</currency>
 			<currency type="SUR">
 				<displayName>Rúbal Sóvéadach</displayName>
@@ -1425,11 +1383,9 @@
 			</currency>
 			<currency type="SYP">
 				<displayName>Punt Siria</displayName>
-				<symbol>LS</symbol>
 			</currency>
 			<currency type="SZL">
 				<displayName>Lilangeni na Suasalainne</displayName>
-				<symbol>E</symbol>
 			</currency>
 			<currency type="THB">
 				<displayName>Baht na Téalainne</displayName>
@@ -1448,26 +1404,21 @@
 			</currency>
 			<currency type="TOP">
 				<displayName>Paʻanga Tonga</displayName>
-				<symbol>T$</symbol>
 			</currency>
 			<currency type="TPE">
 				<displayName>Escudo Tíomóir</displayName>
 			</currency>
 			<currency type="TRL">
 				<displayName>Lira Turcach</displayName>
-				<symbol>TL</symbol>
 			</currency>
 			<currency type="TTD">
 				<displayName>Dollar Oileáin na Tríonóide agus Tobága</displayName>
-				<symbol>TT$</symbol>
 			</currency>
 			<currency type="TWD">
 				<displayName>Dollar Nua na Téaváine</displayName>
-				<symbol>NT$</symbol>
 			</currency>
 			<currency type="TZS">
 				<displayName>Scilling na Tansáine</displayName>
-				<symbol>T Sh</symbol>
 			</currency>
 			<currency type="UAH">
 				<displayName>Hryvnia Úcránach</displayName>
@@ -1480,7 +1431,6 @@
 			</currency>
 			<currency type="UGX">
 				<displayName>Scilling Uganda</displayName>
-				<symbol>U Sh</symbol>
 			</currency>
 			<currency type="USD">
 				<displayName>Dollar S.A.M.</displayName>
@@ -1496,21 +1446,21 @@
 			</currency>
 			<currency type="UYU">
 				<displayName>Peso Uruguayo Uragua</displayName>
-				<symbol>Ur$</symbol>
 			</currency>
 			<currency type="UZS">
 				<displayName>Sum na hÚisbéiceastáine</displayName>
 			</currency>
 			<currency type="VEB">
+				<displayName>Bolivar Veiniséala (1871-2008)</displayName>
+			</currency>
+			<currency type="VEF">
 				<displayName>Bolivar Veiniséala</displayName>
-				<symbol>Be</symbol>
 			</currency>
 			<currency type="VND">
 				<displayName>Dong Vítneamach</displayName>
 			</currency>
 			<currency type="VUV">
 				<displayName>Vatu Vanuatú</displayName>
-				<symbol>VT</symbol>
 			</currency>
 			<currency type="WST">
 				<displayName>Tala Samó Thiar</displayName>
@@ -1535,7 +1485,6 @@
 			</currency>
 			<currency type="XCD">
 				<displayName>Dollar Oirthear na Cairibe</displayName>
-				<symbol>EC$</symbol>
 			</currency>
 			<currency type="XDR">
 				<displayName>Cearta Speisialta Tarraingthe</displayName>
@@ -1554,7 +1503,6 @@
 			</currency>
 			<currency type="XPF">
 				<displayName>CFP Franc</displayName>
-				<symbol>CFPF</symbol>
 			</currency>
 			<currency type="XXX">
 				<displayName draft="unconfirmed">Airgeadra Anaithnid nó Neamhbhailí</displayName>
@@ -1564,7 +1512,6 @@
 			</currency>
 			<currency type="YER">
 				<displayName>Rial Éimin</displayName>
-				<symbol>YRl</symbol>
 			</currency>
 			<currency type="YUD">
 				<displayName>Dínear Crua Iúgslavach</displayName>
@@ -1580,9 +1527,11 @@
 			</currency>
 			<currency type="ZAR">
 				<displayName>Rand na hAfraice Theas</displayName>
-				<symbol>R</symbol>
 			</currency>
 			<currency type="ZMK">
+				<displayName>Kwacha Saimbiach (1968-2012)</displayName>
+			</currency>
+			<currency type="ZMW">
 				<displayName>Kwacha Saimbiach</displayName>
 			</currency>
 			<currency type="ZRN">
@@ -1593,7 +1542,6 @@
 			</currency>
 			<currency type="ZWD">
 				<displayName>Dollar Siombábach</displayName>
-				<symbol>Z$</symbol>
 			</currency>
 		</currencies>
 	</numbers>
@@ -1604,86 +1552,4 @@
 		</messages>
 	</posix>
 </ldml>
-<!-- Old Comments. See root.xml for more info.
-URL: http://oss.software.ibm.com/cvs/icu/icu/source/data/locales/ga.txt?only_with_tag=final-update-LDML
 
-A lot of data contributed from Séamus Ó Ciardhuáin, seoc [at] cnds.ucd.ie
-        AQ { "An Antartaice" } // An tAntartach
-CS { "Seirbia agus Montainéagró" } // new July 2003 in ISO 3166-1
-        GE { "An tSeoirsia" } // Everson: An Ghrúis
-        SP { "An tSeirbia" } // No longer used according to ISO3166
-        YU { "An Iúgslaiv" } // No longer used according to ISO3166
-Currency display names
-ones needing work are marked //??
-from the May 2003 list in en.txt (v 2.0)
-shilling = scilling
-pound = punt
-dinar, diner = dínear
-ruble = rúbal
-rupee = rúipí; nó rúpaí?
-afghani = afgainí
-NumberElements { 
-"‰",
-"∞",
-"�",
-}
-        "Latn",  // ISO 15924 Name 
-ones needing work are marked //??
-root{"fréamh"}
-        ab  { "Abcáisis" } // acmhainn Abcáis
-        ae  { "Aivéistis" } // acmhainn
-        as  { "Asaimis" } // acmhainn
-        ba  { "Baiscíris" } // acmhainn An Bhaiscír
-        bn  { "Beangálais" } //??
-        bo  { "Tibéadais" } //??
-        ce  { "Sisinis" } //??
-        co  { "Corsaicis" } // acmhainn
-        cr  { "Craíais" } //?? acmhainn
-        cu  { "Slavais na hEaglaise" } //??
-        cv  { "Suvaisis" } // acmhainn An tSuvais
-        el  { "Gréigis" } //  Nua (1453-)
-        fj  { "Fidsis" } // acmhainn
-        fo  { "Faróis" } // acmhainn
-        gu  { "Gúisearáitis" } //acmhainn
-        haw { "Haváíais" } //??
-        ia  { "Interlingua" } //??
-        ie  { "Interlingue" } //??
-        iu  { "Ionúitis" } // acmhainn
-iw  { "Eabhrais" }  // Use he instead
-        jv  { "Iávais" } //??
-        ka  { "Seoirsis" } //?? Grúisis
-        kk  { "Casachais" } //?? f Casachstáin
-        kn  { "Cannadais" } // acmhainn
-        ks  { "Caismíris" } //??
-        ky  { "Cirgeasais" } // acmhainn Cirgeasach
-        lb  { "Leitseabuirgis" } // acmhainn
-        lo  { "Laosais" } //?? FTP Laosach
-        lv  { "Laitvis" } // acmhainn
-        mg  { "Malagásais" } //??
-        ml  { "Mailéalaimis" } // acmhainn
-        mr  { "Maraitis" } // acmhainn
-        my  { "Burmais" } //??
-        na  { "Nárúis" } //??
-        ne  { "Neipealais" } //??
-        nv  { "Navachóis"} // acmhainn na Navachóigh
-        os  { "Óiséitis" } // acmhainn An Óiséit
-        pa  { "Puinseaibis" } //??
-        qu  { "Ceatsuais" } // acmhainn
-The range qaa-qtz is reserved for local use.
-        ro  { "Romáinis" } // de B. => Rúmáinis?
-        sc  { "Sairdínis" } // acmhainn
-        sd  { "Sindis" } //acmhainn
-        se  { "Sáimis Thuaidh" } //acmhainn
-        sh  { "Seirbea-Chróitis" } // acmhainn
-        sm  { "Samóis" } //??
-        so  { "Somálais" } //??
-        sw  { "Svahaílis" } // acmhainn
-        ta  { "Tamailis" } //acmhainn
-        tl  { "Tagálaigis" } // acmhainn
-        tt  { "Tatarais" } // acmhainn
-        ty  { "Taihítis" } //??
-        ur  { "Urdais" } // acmhainn
-        uz  { "Úisbéicis" } //??
-        zu  { "Súlúis" } //??
-many others could go in here if desired
--->

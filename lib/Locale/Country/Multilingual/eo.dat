@@ -5,7 +5,6 @@ AG:ATG:028:Antigvo-Barbudo
 AI:AIA:660:Angvilo
 AL:ALB:008:Albanujo
 AM:ARM:051:Armenujo
-AN:ANT:530:Nederlandaj Antiloj
 AO:AGO:024:Angolo
 AQ:ATA:010:Antarkto
 AR:ARG:032:Argentino
@@ -13,7 +12,7 @@ AS:ASM:016:American Samoa
 AT:AUT:040:Aŭstrujo
 AU:AUS:036:Aŭstralio
 AW:ABW:533:Arubo
-AX:ALA:248:Aland Islands
+AX:ALA:248:Åland
 AZ:AZE:031:Azerbajĝano
 BA:BIH:070:Bosnio-Hercegovino
 BB:BRB:052:Barbado
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgarujo
 BH:BHR:048:Barejno
 BI:BDI:108:Burundo
 BJ:BEN:204:Benino
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermudoj
 BN:BRN:096:Brunejo
 BO:BOL:068:Bolivio
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Brazilo
 BS:BHS:044:Bahamoj
 BT:BTN:064:Butano
@@ -36,8 +36,8 @@ BW:BWA:072:Bocvano
 BY:BLR:112:Belorusujo
 BZ:BLZ:084:Belizo
 CA:CAN:124:Kanado
-CC:CCK:166:Cocos Islands
-CD:COD:180:Democratic Republic of the Congo
+CC:CCK:166:Cocos (Keeling) Islands
+CD:COD:180:Congo (Kinshasa)
 CF:CAF:140:Centr-Afrika Respubliko
 CG:COG:178:Kongolo
 CH:CHE:756:Svisujo
@@ -50,6 +50,7 @@ CO:COL:170:Kolombio
 CR:CRI:188:Kostariko
 CU:CUB:192:Kubo
 CV:CPV:132:Kabo-Verdo
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Kipro
 CZ:CZE:203:Ĉeĥujo
@@ -137,7 +138,7 @@ MA:MAR:504:Maroko
 MC:MCO:492:Monako
 MD:MDA:498:Moldavujo
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint Martin (French part)
 MG:MDG:450:Madagaskaro
 MH:MHL:584:Marŝaloj
 MK:MKD:807:Makedonujo
@@ -185,14 +186,14 @@ PW:PLW:585:Belaŭo
 PY:PRY:600:Paragvajo
 QA:QAT:634:Kataro
 RE:REU:638:Reunio
-RO:ROM:642:Rumanujo
+RO:ROU:642:Rumanujo
 RS:SRB:688:Serbia
 RU:RUS:643:Rusujo
 RW:RWA:646:Ruando
 SA:SAU:682:Saŭda Arabujo
 SB:SLB:090:Salomonoj
 SC:SYC:690:Sejŝeloj
-SD:SDN:736:Sudano
+SD:SDN:729:Sudano
 SE:SWE:752:Svedujo
 SG:SGP:702:Singapuro
 SH:SHN:654:Sent-Heleno
@@ -204,18 +205,20 @@ SM:SMR:674:San-Marino
 SN:SEN:686:Senegalo
 SO:SOM:706:Somalujo
 SR:SUR:740:Surinamo
+SS:SSD:728:Sud-Sudano
 ST:STP:678:Sao-Tomeo kaj Principeo
 SV:SLV:222:Salvadoro
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Sirio
 SZ:SWZ:748:Svazilando
 TC:TCA:796:Turks and Caicos Islands
 TD:TCD:148:Ĉado
-TF:ATF:260:French Southern Territories
+TF:ATF:260:French Southern Lands
 TG:TGO:768:Togolo
 TH:THA:764:Tajlando
 TJ:TJK:762:Taĝikujo
-TK:TKL:772:Tokelau Islands
-TL:TLS:626:East Timor
+TK:TKL:772:Tokelau
+TL:TLS:626:Timor-Leste
 TM:TKM:795:Turkmenujo
 TN:TUN:788:Tunizio
 TO:TON:776:Tongo

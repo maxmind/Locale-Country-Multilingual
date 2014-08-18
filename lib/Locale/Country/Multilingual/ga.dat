@@ -5,7 +5,6 @@ AG:ATG:028:Aintíge agus Barbúda
 AI:AIA:660:Anguilla
 AL:ALB:008:An Albáin
 AM:ARM:051:An Airméin
-AN:ANT:530:Antillí na hÍsiltíre
 AO:AGO:024:Angóla
 AQ:ATA:010:An Antartaice
 AR:ARG:032:An Airgintín
@@ -24,10 +23,11 @@ BG:BGR:100:An Bhulgáir
 BH:BHR:048:Bairéin
 BI:BDI:108:An Bhurúin
 BJ:BEN:204:Beinin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Beirmiúda
 BN:BRN:096:Brúiné
 BO:BOL:068:An Bholaiv
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:An Bhrasaíl
 BS:BHS:044:Na Bahámaí
 BT:BTN:064:An Bhútáin
@@ -50,6 +50,7 @@ CO:COL:170:An Cholóim
 CR:CRI:188:Cósta Ríce
 CU:CUB:192:Cúba
 CV:CPV:132:An Rinn Ghlas
+CW:CUW:531:Curaçao
 CX:CXR:162:Oileán na Nollag
 CY:CYP:196:An Chipir
 CZ:CZE:203:Poblacht na Seice
@@ -137,7 +138,7 @@ MA:MAR:504:Maracó
 MC:MCO:492:Monacó
 MD:MDA:498:An Mholdóiv
 ME:MNE:499:Montainéagró
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint Martin (French part)
 MG:MDG:450:Madagascar
 MH:MHL:584:Oileáin Marshall
 MK:MKD:807:An Mhacadóin
@@ -185,14 +186,14 @@ PW:PLW:585:Palau
 PY:PRY:600:Paragua
 QA:QAT:634:Catar
 RE:REU:638:Réunion
-RO:ROM:642:An Rómáin
+RO:ROU:642:An Rómáin
 RS:SRB:688:An tSeirbia
 RU:RUS:643:Cónaidhm na Rúise
 RW:RWA:646:Ruanda
 SA:SAU:682:An Araib Shádach
 SB:SLB:090:Oileáin Sholaimh
 SC:SYC:690:Na Séiséil
-SD:SDN:736:An tSúdáin
+SD:SDN:729:An tSúdáin
 SE:SWE:752:An tSualainn
 SG:SGP:702:Singeapór
 SH:SHN:654:San Héilin
@@ -204,8 +205,10 @@ SM:SMR:674:San Mairíne
 SN:SEN:686:An tSeineagáil
 SO:SOM:706:An tSomáil
 SR:SUR:740:Suranam
+SS:SSD:728:An tSúdáin Theas
 ST:STP:678:Sao Tome agus Principe
 SV:SLV:222:An tSalvadóir
+SX:SXM:534:Sint Maarten
 SY:SYR:760:An tSiria
 SZ:SWZ:748:An tSuasalainn
 TC:TCA:796:Oileáin Turks agus Caicos

@@ -5,7 +5,6 @@ AG:ATG:028:Antiqua və Barbuda
 AI:AIA:660:Anquila
 AL:ALB:008:Albaniya
 AM:ARM:051:Ermənistan
-AN:ANT:530:Hollandiya antilleri
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktika
 AR:ARG:032:Arqentina
@@ -28,6 +27,7 @@ BL:BLM:652:Seynt Bartelemey
 BM:BMU:060:Bermuda
 BN:BRN:096:Bruney
 BO:BOL:068:Boliviya
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Braziliya
 BS:BHS:044:Bahamalar
 BT:BTN:064:Butan
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbiya
 CR:CRI:188:Kosta Rika
 CU:CUB:192:Kuba
 CV:CPV:132:Kape Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Çristmas Adası
 CY:CYP:196:Kipr
 CZ:CZE:203:Çex respublikası
@@ -106,7 +107,7 @@ IO:IOT:086:Britaniya-Hindistan Okeanik territoriyası
 IQ:IRQ:368:İrak
 IR:IRN:364:İran
 IS:ISL:352:İslandiya
-IT:ITA:380:İtaliya:italiya
+IT:ITA:380:İtaliya
 JE:JEY:832:Cörsi
 JM:JAM:388:Yamayka
 JO:JOR:400:Ürdün
@@ -185,14 +186,14 @@ PW:PLW:585:Palav
 PY:PRY:600:Paraqvay
 QA:QAT:634:Qatar
 RE:REU:638:Reyunion
-RO:ROM:642:Romaniya
+RO:ROU:642:Romaniya
 RS:SRB:688:Serbiya
 RU:RUS:643:Rusiya
 RW:RWA:646:Rvanda
 SA:SAU:682:Saudi Ərəbistan
 SB:SLB:090:Solomon Adaları
 SC:SYC:690:Seyçels
-SD:SDN:736:sudan
+SD:SDN:729:sudan
 SE:SWE:752:isveç
 SG:SGP:702:Sinqapur
 SH:SHN:654:Seynt Elena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Seneqal
 SO:SOM:706:Somaliya
 SR:SUR:740:surinamə
+SS:SSD:728:Cənubi Sudan
 ST:STP:678:Sao Tom və Prinsip
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:siriya
 SZ:SWZ:748:svazilənd
 TC:TCA:796:Türk və Kaykos Adaları
@@ -227,7 +230,7 @@ TZ:TZA:834:tanzaniya
 UA:UKR:804:Ukraina
 UG:UGA:800:Uqanda
 UM:UMI:581:Birləşmiş Ştatların uzaq adaları
-US:USA:840:Amerika Birləşmiş Ştatları:Birləşmiş Ştatları
+US:USA:840:Amerika Birləşmiş Ştatları
 UY:URY:858:Uruqvay
 UZ:UZB:860:Özbəkistan
 VA:VAT:336:Vatikan

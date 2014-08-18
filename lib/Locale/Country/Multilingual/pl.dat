@@ -5,7 +5,6 @@ AG:ATG:028:Antigua i Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:Antyle Holenderskie
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktyka
 AR:ARG:032:Argentyna
@@ -13,7 +12,7 @@ AS:ASM:016:Samoa Amerykańskie
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Wyspy Alandzkie:Wyspy alandzkie
+AX:ALA:248:Wyspy Alandzkie
 AZ:AZE:031:Azerbejdżan
 BA:BIH:070:Bośnia i Hercegowina
 BB:BRB:052:Barbados
@@ -24,12 +23,13 @@ BG:BGR:100:Bułgaria
 BH:BHR:048:Bahrajn
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthélemy
+BL:BLM:652:Saint-Barthélemy
 BM:BMU:060:Bermudy
 BN:BRN:096:Brunei Darussalam
 BO:BOL:068:Boliwia
+BQ:BES:535:Niderlandy Karaibskie
 BR:BRA:076:Brazylia
-BS:BHS:044:Bahamy:Wyspy Bahama
+BS:BHS:044:Bahamy
 BT:BTN:064:Bhutan
 BV:BVT:074:Wyspa Bouveta
 BW:BWA:072:Botswana
@@ -37,11 +37,11 @@ BY:BLR:112:Białoruś
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Wyspy Kokosowe
-CD:COD:180:Demokratyczna Republika Konga:Kongo, Republika Demokratyczna
-CF:CAF:140:Republika Środkowej Afryki
-CG:COG:178:Kongo:Republika Konga
+CD:COD:180:Demokratyczna Republika Konga:Demokratyczna Republika Konga
+CF:CAF:140:Republika Środkowoafrykańska
+CG:COG:178:Kongo:Kongo
 CH:CHE:756:Szwajcaria
-CI:CIV:384:Wybrzeże Kości Słoniowej
+CI:CIV:384:Wybrzeże Kości Słoniowej:Wybrzeże Kości Słoniowej
 CK:COK:184:Wyspy Cooka
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -49,7 +49,8 @@ CN:CHN:156:Chiny
 CO:COL:170:Kolumbia
 CR:CRI:188:Kostaryka
 CU:CUB:192:Kuba
-CV:CPV:132:Wyspy Zielonego Przylądka
+CV:CPV:132:Republika Zielonego Przylądka
+CW:CUW:531:Curaçao
 CX:CXR:162:Wyspa Bożego Narodzenia
 CY:CYP:196:Cypr
 CZ:CZE:203:Czechy
@@ -57,7 +58,7 @@ DE:DEU:276:Niemcy
 DJ:DJI:262:Dżibuti
 DK:DNK:208:Dania
 DM:DMA:212:Dominika
-DO:DOM:214:Republika Dominikańska:Republika Dominikany
+DO:DOM:214:Republika Dominikańska
 DZ:DZA:012:Algieria
 EC:ECU:218:Ekwador
 EE:EST:233:Estonia
@@ -68,8 +69,8 @@ ES:ESP:724:Hiszpania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fidżi
-FK:FLK:238:Falklandy
-FM:FSM:583:Mikronezja
+FK:FLK:238:Falklandy:Falklandy [Malwiny]
+FM:FSM:583:Federalne Stany Mikronezji
 FO:FRO:234:Wyspy Owcze
 FR:FRA:250:Francja
 GA:GAB:266:Gabon
@@ -91,8 +92,8 @@ GT:GTM:320:Gwatemala
 GU:GUM:316:Guam
 GW:GNB:624:Gwinea Bissau
 GY:GUY:328:Gujana
-HK:HKG:344:Hongkong, Specjalny Region Administracyjny Chin:Specjalny Region Administracyjny Chin Hongkong:Specjalny Region Administracyjny Hongkong:Hongkong
-HM:HMD:334:Wyspy Heard i McDonalda:Wyspy Heard i McDonald
+HK:HKG:344:Hongkong SAR:Hongkong
+HM:HMD:334:Wyspy Heard i McDonalda
 HN:HND:340:Honduras
 HR:HRV:191:Chorwacja
 HT:HTI:332:Haiti
@@ -102,7 +103,7 @@ IE:IRL:372:Irlandia
 IL:ISR:376:Izrael
 IM:IMN:833:Wyspa Man
 IN:IND:356:Indie
-IO:IOT:086:Terytorium Brytyjskie Oceanu Indyjskiego:Brytyjskie Terytorium Oceanu Indyjskiego:Terytorium brytyjskie na Oceanie Indyjskim
+IO:IOT:086:Terytorium Brytyjskie Oceanu Indyjskiego
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Islandia
@@ -137,14 +138,14 @@ MA:MAR:504:Maroko
 MC:MCO:492:Monako
 MD:MDA:498:Mołdawia
 ME:MNE:499:Czarnogóra
-MF:MAF:663:Sint Maarten
+MF:MAF:663:Saint-Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Wyspy Marshalla
-MK:MKD:807:Macedonia
+MK:MKD:807:Macedonia:Macedonia
 ML:MLI:466:Mali
-MM:MMR:104:Birma:Myanmar
+MM:MMR:104:Birma
 MN:MNG:496:Mongolia
-MO:MAC:446:Makau, Specjalny Region Administracyjny Chin:Specjalny Region Administracyjny Makau:Specjalny Region Administracyjny Chin Makau:Makau
+MO:MAC:446:Makau SAR:Makau
 MP:MNP:580:Mariany Północne
 MQ:MTQ:474:Martynika
 MR:MRT:478:Mauretania
@@ -159,7 +160,7 @@ MZ:MOZ:508:Mozambik
 NA:NAM:516:Namibia
 NC:NCL:540:Nowa Kaledonia
 NE:NER:562:Niger
-NF:NFK:574:Wyspa Norfolk
+NF:NFK:574:Norfolk
 NG:NGA:566:Nigeria
 NI:NIC:558:Nikaragua
 NL:NLD:528:Holandia
@@ -172,27 +173,27 @@ OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Peru
 PF:PYF:258:Polinezja Francuska
-PG:PNG:598:Papua Nowa Gwinea:Papua-Nowa Gwinea
+PG:PNG:598:Papua Nowa Gwinea
 PH:PHL:608:Filipiny
 PK:PAK:586:Pakistan
 PL:POL:616:Polska
 PM:SPM:666:Saint-Pierre i Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Portoryko
-PS:PSE:275:Terytoria Palestyńskie
+PS:PSE:275:Terytoria Palestyńskie:Palestyna
 PT:PRT:620:Portugalia
 PW:PLW:585:Palau
 PY:PRY:600:Paragwaj
 QA:QAT:634:Katar
 RE:REU:638:Reunion
-RO:ROM:642:Rumunia
+RO:ROU:642:Rumunia
 RS:SRB:688:Serbia
 RU:RUS:643:Rosja
 RW:RWA:646:Rwanda
 SA:SAU:682:Arabia Saudyjska
 SB:SLB:090:Wyspy Salomona
 SC:SYC:690:Seszele
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Szwecja
 SG:SGP:702:Singapur
 SH:SHN:654:Wyspa Świętej Heleny
@@ -204,18 +205,20 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
+SS:SSD:728:Sudan Południowy
 ST:STP:678:Wyspy Świętego Tomasza i Książęca
 SV:SLV:222:Salwador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Syria
 SZ:SWZ:748:Suazi
-TC:TCA:796:Turks i Caicos:Wyspy Turks i Caicos
+TC:TCA:796:Turks i Caicos
 TD:TCD:148:Czad
 TF:ATF:260:Francuskie Terytoria Południowe
 TG:TGO:768:Togo
 TH:THA:764:Tajlandia
 TJ:TJK:762:Tadżykistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Wschodni
+TL:TLS:626:Timor Wschodni:Timor Wschodni
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunezja
 TO:TON:776:Tonga
@@ -234,7 +237,7 @@ VA:VAT:336:Watykan
 VC:VCT:670:Saint Vincent i Grenadyny
 VE:VEN:862:Wenezuela
 VG:VGB:092:Brytyjskie Wyspy Dziewicze
-VI:VIR:850:Wyspy Dziewicze Stanów Zjednoczonych:Wyspy Dziewicze USA
+VI:VIR:850:Wyspy Dziewicze Stanów Zjednoczonych
 VN:VNM:704:Wietnam
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis i Futuna

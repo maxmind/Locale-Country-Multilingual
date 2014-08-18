@@ -5,7 +5,6 @@ AG:ATG:028:Antigua és Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albánia
 AM:ARM:051:Örményország
-AN:ANT:530:Holland Antillák
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktisz
 AR:ARG:032:Argentína
@@ -13,7 +12,7 @@ AS:ASM:016:Amerikai Szamoa
 AT:AUT:040:Ausztria
 AU:AUS:036:Ausztrália
 AW:ABW:533:Aruba
-AX:ALA:248:Aland-szigetek
+AX:ALA:248:Åland-szigetek
 AZ:AZE:031:Azerbajdzsán
 BA:BIH:070:Bosznia-Hercegovina
 BB:BRB:052:Barbados
@@ -28,20 +27,21 @@ BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolívia
+BQ:BES:535:Holland Karib-térség
 BR:BRA:076:Brazília
-BS:BHS:044:Bahamák
+BS:BHS:044:Bahama-szigetek
 BT:BTN:064:Bhután
 BV:BVT:074:Bouvet-sziget
 BW:BWA:072:Botswana
 BY:BLR:112:Fehéroroszország
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Kókusz (Keeling)-szigetek:Kókusz szigetek
-CD:COD:180:Kongó, Demokratikus köztársaság:Kongó - Kinshasa
+CC:CCK:166:Kókusz-szigetek
+CD:COD:180:Kongó - Kinshasa:Kongó [KDK]
 CF:CAF:140:Közép-afrikai Köztársaság
-CG:COG:178:Kongó
+CG:COG:178:Kongó - Brazzaville:Kongó [Köztársaság]
 CH:CHE:756:Svájc
-CI:CIV:384:Elefántcsontpart
+CI:CIV:384:Elefántcsontpart:Elefántcsontpart
 CK:COK:184:Cook-szigetek
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Kuba
 CV:CPV:132:Zöld-foki Köztársaság
+CW:CUW:531:Curaçao
 CX:CXR:162:Karácsony-szigetek
 CY:CYP:196:Ciprus
 CZ:CZE:203:Csehország
@@ -68,7 +69,7 @@ ES:ESP:724:Spanyolország
 ET:ETH:231:Etiópia
 FI:FIN:246:Finnország
 FJ:FJI:242:Fidzsi
-FK:FLK:238:Falkland-szigetek
+FK:FLK:238:Falkland-szigetek:Falkland-szigetek [Malvin-szigetek]
 FM:FSM:583:Mikronézia
 FO:FRO:234:Feröer-szigetek
 FR:FRA:250:Franciaország
@@ -91,7 +92,7 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Hongkong S.A.R, Kína:Hongkong
+HK:HKG:344:Hongkong SAR Kína:Hongkong
 HM:HMD:334:Heard és McDonald Szigetek
 HN:HND:340:Honduras
 HR:HRV:191:Horvátország
@@ -102,7 +103,7 @@ IE:IRL:372:Írország
 IL:ISR:376:Izrael
 IM:IMN:833:Man-sziget
 IN:IND:356:India
-IO:IOT:086:Brit Indiai Oceán
+IO:IOT:086:Brit Indiai-óceáni Terület
 IQ:IRQ:368:Irak
 IR:IRN:364:Irán
 IS:ISL:352:Izland
@@ -140,11 +141,11 @@ ME:MNE:499:Montenegró
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaszkár
 MH:MHL:584:Marshall-szigetek
-MK:MKD:807:Macedónia
+MK:MKD:807:Macedónia:Macedónia [MVJK]
 ML:MLI:466:Mali
-MM:MMR:104:Mianmar
+MM:MMR:104:Mianmar [Burma]
 MN:MNG:496:Mongólia
-MO:MAC:446:Macao S.A.R., China:Makaó S.A.R, Kína:Makaó
+MO:MAC:446:Makaó SAR Kína:Makaó
 MP:MNP:580:Északi Mariana-szigetek
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauritánia
@@ -177,35 +178,37 @@ PH:PHL:608:Fülöp-szigetek
 PK:PAK:586:Pakisztán
 PL:POL:616:Lengyelország
 PM:SPM:666:Saint Pierre és Miquelon
-PN:PCN:612:Pitcairn-sziget
+PN:PCN:612:Pitcairn-szigetek
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palesztin Terület
+PS:PSE:275:Palesztin Terület:Palesztina
 PT:PRT:620:Portugália
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Katar
-RE:REU:638:Reunion (francia):Reunion
-RO:ROM:642:Románia
+RE:REU:638:Reunion
+RO:ROU:642:Románia
 RS:SRB:688:Szerbia
-RU:RUS:643:Oroszország
+RU:RUS:643:Oroszországi Föderáció
 RW:RWA:646:Ruanda
 SA:SAU:682:Szaúd-Arábia
 SB:SLB:090:Salamon-szigetek
 SC:SYC:690:Seychelle-szigetek
-SD:SDN:736:Szudán
+SD:SDN:729:Szudán
 SE:SWE:752:Svédország
 SG:SGP:702:Szingapúr
 SH:SHN:654:Szent Helena
 SI:SVN:705:Szlovénia
-SJ:SJM:744:Svalbard és Jan Mayen
+SJ:SJM:744:Spitzbergák és Jan Mayen-szigetek
 SK:SVK:703:Szlovákia
 SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Szenegál
 SO:SOM:706:Szomália
 SR:SUR:740:Suriname
-ST:STP:678:São Tomé és Príncipe:Sao Tome és Principe
+SS:SSD:728:Dél-Szudán
+ST:STP:678:Sao Tomé és Príncipe
 SV:SLV:222:Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Szíria
 SZ:SWZ:748:Szváziföld
 TC:TCA:796:Turks- és Caicos-szigetek
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thaiföld
 TJ:TJK:762:Tadzsikisztán
 TK:TKL:772:Tokelau
-TL:TLS:626:Kelet-Timor
+TL:TLS:626:Kelet-Timor:Kelet-Timor
 TM:TKM:795:Türkmenisztán
 TN:TUN:788:Tunézia
 TO:TON:776:Tonga
@@ -231,16 +234,16 @@ US:USA:840:Egyesült Államok
 UY:URY:858:Uruguay
 UZ:UZB:860:Üzbegisztán
 VA:VAT:336:Vatikán
-VC:VCT:670:Saint Vincent és Grenadines
+VC:VCT:670:Saint Vincent és a Grenadine-szigetek
 VE:VEN:862:Venezuela
 VG:VGB:092:Brit Virgin-szigetek
 VI:VIR:850:Amerikai Virgin-szigetek
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis és Futuna
+WF:WLF:876:Wallis- és Futuna-szigetek
 WS:WSM:882:Szamoa
 YE:YEM:887:Jemen
 YT:MYT:175:Mayotte
-ZA:ZAF:710:Dél-Afrika
+ZA:ZAF:710:Dél-afrikai Köztársaság
 ZM:ZMB:894:Zambia
 ZW:ZWE:716:Zimbabwe

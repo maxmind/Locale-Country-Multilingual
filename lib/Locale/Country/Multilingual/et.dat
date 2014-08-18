@@ -5,7 +5,6 @@ AG:ATG:028:Antigua ja Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albaania
 AM:ARM:051:Armeenia
-AN:ANT:530:Hollandi Antillid
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktis
 AR:ARG:032:Argentina
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgaaria
 BH:BHR:048:Bahrein
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Boliivia
+BQ:BES:535:Hollandi Kariibi mere saared
 BR:BRA:076:Brasiilia
 BS:BHS:044:Bahama
 BT:BTN:064:Bhutan
@@ -37,11 +37,11 @@ BY:BLR:112:Valgevene
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kookossaared
-CD:COD:180:Kongo DV
+CD:COD:180:Kongo DV:Kongo-Kinshasa
 CF:CAF:140:Kesk-Aafrika Vabariik
-CG:COG:178:Kongo Vabariik
+CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
 CH:CHE:756:Šveits
-CI:CIV:384:Côte d'Ivoire
+CI:CIV:384:Côte d'Ivoire:Elevandiluurannik
 CK:COK:184:Cooki saared
 CL:CHL:152:Tšiili
 CM:CMR:120:Kamerun
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Kuuba
 CV:CPV:132:Roheneemesaared
+CW:CUW:531:Curaçao
 CX:CXR:162:Jõulusaar
 CY:CYP:196:Küpros
 CZ:CZE:203:Tšehhi
@@ -68,7 +69,7 @@ ES:ESP:724:Hispaania
 ET:ETH:231:Etioopia
 FI:FIN:246:Soome
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandi saared
+FK:FLK:238:Falklandi saared:Falklandi saared
 FM:FSM:583:Mikroneesia Liiduriigid
 FO:FRO:234:Fääri saared
 FR:FRA:250:Prantsusmaa
@@ -92,7 +93,7 @@ GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hongkong - Hiina erihalduspiirkond:Hongkong
-HM:HMD:334:Heard ja McDonald
+HM:HMD:334:Heard ja McDonald saared
 HN:HND:340:Honduras
 HR:HRV:191:Horvaatia
 HT:HTI:332:Haiti
@@ -139,12 +140,12 @@ MD:MDA:498:Moldova
 ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
-MH:MHL:584:Marshalli Saared
-MK:MKD:807:Makedoonia
+MH:MHL:584:Marshalli saared
+MK:MKD:807:Makedoonia:Makedoonia
 ML:MLI:466:Mali
 MM:MMR:104:Myanmar
 MN:MNG:496:Mongoolia
-MO:MAC:446:Aomen - Hiina erihalduspiirkond:Aomen
+MO:MAC:446:Macau - Hiina erihalduspiirkond:Macau
 MP:MNP:580:Põhja-Mariaanid
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauritaania
@@ -176,23 +177,23 @@ PG:PNG:598:Paapua Uus-Guinea
 PH:PHL:608:Filipiinid
 PK:PAK:586:Pakistan
 PL:POL:616:Poola
-PM:SPM:666:Saint-Pierre ja Miquelon
+PM:SPM:666:Saint Pierre ja Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestiina ala
+PS:PSE:275:Palestiina ala:Palestiina
 PT:PRT:620:Portugal
 PW:PLW:585:Belau
 PY:PRY:600:Paraguay
 QA:QAT:634:Katar
 RE:REU:638:Réunion
-RO:ROM:642:Rumeenia
+RO:ROU:642:Rumeenia
 RS:SRB:688:Serbia
 RU:RUS:643:Venemaa
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudi Araabia
 SB:SLB:090:Saalomoni Saared
 SC:SYC:690:Seišellid
-SD:SDN:736:Sudaan
+SD:SDN:729:Sudaan
 SE:SWE:752:Rootsi
 SG:SGP:702:Singapur
 SH:SHN:654:Saint Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somaalia
 SR:SUR:740:Suriname
+SS:SSD:728:Lõuna-Sudaan
 ST:STP:678:São Tomé ja Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Süüria
 SZ:SWZ:748:Svaasimaa
 TC:TCA:796:Turks ja Caicos
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tai
 TJ:TJK:762:Tadžikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Ida-Timor
+TL:TLS:626:Ida-Timor:Ida-Timor
 TM:TKM:795:Türkmenistan
 TN:TUN:788:Tuneesia
 TO:TON:776:Tonga

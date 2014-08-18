@@ -5,7 +5,6 @@ AG:ATG:028:Antigua and Barbuda
 AI:AIA:660:အန်ကွီလာ
 AL:ALB:008:Albania
 AM:ARM:051:အာမေနီးယား
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:အင်ဂိုလာ
 AQ:ATA:010:အန္တာတိက
 AR:ARG:032:အာဂျင်တီးနား
@@ -13,7 +12,7 @@ AS:ASM:016:အမေရိကန် စမိုအ
 AT:AUT:040:ဩစတြီးယား
 AU:AUS:036:ဩစတြေးလျှား
 AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands
+AX:ALA:248:Åland
 AZ:AZE:031:အဇာဘိုင်ဂျန်
 BA:BIH:070:ဘော့စနီးယား နှင့် ဟာဇီဂိုဘီးနား
 BB:BRB:052:Barbados
@@ -24,10 +23,11 @@ BG:BGR:100:ဘူဂေးရီးယား
 BH:BHR:048:ဘာရိန်း
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:ဘာမူဒါ
 BN:BRN:096:ဘရူနိုင်း
 BO:BOL:068:ဘိုလီးဘီးယား
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:ဘရာဇီး
 BS:BHS:044:ဘဟားမား
 BT:BTN:064:ဘူတန်
@@ -37,9 +37,9 @@ BY:BLR:112:ဘီလာရုစ်
 BZ:BLZ:084:ဘေလီဇ်
 CA:CAN:124:ကနေဒါ
 CC:CCK:166:ကိုကိုး ကျွန်းစု
-CD:COD:180:Democratic Republic of the Congo
+CD:COD:180:Congo (Kinshasa)
 CF:CAF:140:အလယ်ပိုင်း အာဖရိက ပြည်ထောင်စု
-CG:COG:178:Congo
+CG:COG:178:Congo (Brazzaville)
 CH:CHE:756:ဆွစ်ဇလန်
 CI:CIV:384:အိုင်ဗရီကိုစ့်
 CK:COK:184:ကွတ် ကျွန်းစု
@@ -50,6 +50,7 @@ CO:COL:170:ကိုလံဘီယာ
 CR:CRI:188:ကော့စ်တာရီကာ
 CU:CUB:192:ကျူးဘား
 CV:CPV:132:Cape Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:ခရစ်စမတ် ကျွန်း
 CY:CYP:196:ဆိုက်ပရက်စ်
 CZ:CZE:203:ချက် ပြည်ထောင်စု
@@ -89,10 +90,10 @@ GR:GRC:300:ဂရိ
 GS:SGS:239:တောင် ဂျော်ဂျီယာ နှင့် တောင် ဆင်းဒဝစ်ဂျ် ကျွန်းစုများ
 GT:GTM:320:ဂွာတီမာလာ
 GU:GUM:316:ဂူအမ်
-GW:GNB:624:Guinea Bissau
+GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:တရုတ်၏ အထူးအုပ်ချုပ်ခွင့်ရ ဟောင်ကောင်:ဟောင်ကောင်
-HM:HMD:334:Heard Island and McDonald Islands
+HM:HMD:334:Heard and McDonald Islands
 HN:HND:340:ဟွန်ဒူးရပ်စ်
 HR:HRV:191:ခရိုအေးရှား
 HT:HTI:332:ဟေတီ
@@ -101,7 +102,7 @@ ID:IDN:360:အင်ဒိုနီးရှား
 IE:IRL:372:အိုင်ယာလန်
 IL:ISR:376:အစ္စရေး
 IM:IMN:833:Isle of Man
-IN:IND:356:အိန္ဒိယ:အိန္ဒြိယ
+IN:IND:356:အိန္ဒိယ
 IO:IOT:086:ဗြိတိသျှ အိန္ဒြိယ သမုဒ္ဒရာ ပိုင်နက်
 IQ:IRQ:368:အီရတ်
 IR:IRN:364:အီရန်
@@ -112,7 +113,7 @@ JM:JAM:388:ဂျမေနီကာ
 JO:JOR:400:ဂျော်ဒန်
 JP:JPN:392:ဂျပန်
 KE:KEN:404:ကင်ညာ
-KG:KGZ:417:ခယ်ကစ်စတန်:ခယ်ကစ္စတန်
+KG:KGZ:417:ခယ်ကစ်စတန်
 KH:KHM:116:ကမ္ဘောဒီးယား
 KI:KIR:296:Kiribati
 KM:COM:174:Comoros
@@ -177,7 +178,7 @@ PH:PHL:608:ဖိလစ်ပိုင်
 PK:PAK:586:ပါကစ္စတန်
 PL:POL:616:ပိုလန်
 PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn Islands
+PN:PCN:612:Pitcairn
 PR:PRI:630:ပေါ်တူရီကို
 PS:PSE:275:ပါလက်စတိုင်း ပိုင်နက်
 PT:PRT:620:ပေါ်တူဂီ
@@ -185,27 +186,29 @@ PW:PLW:585:Palau
 PY:PRY:600:ပါရာဂွေး
 QA:QAT:634:ကာတာ
 RE:REU:638:Reunion
-RO:ROM:642:ရိုမေးနီးယား
+RO:ROU:642:ရိုမေးနီးယား
 RS:SRB:688:ဆားဘီးယား
 RU:RUS:643:ရုရှ
 RW:RWA:646:ရဝန်ဒါ
 SA:SAU:682:ဆော်ဒီအာရေးဗီးယား
 SB:SLB:090:ဆော်လမွန်ကျွန်းစု
 SC:SYC:690:Seychelles
-SD:SDN:736:ဆူဒန်
+SD:SDN:729:ဆူဒန်
 SE:SWE:752:ဆွီဒင်
 SG:SGP:702:စင်္ကာပူ
 SH:SHN:654:Saint Helena
 SI:SVN:705:စလိုဗေးနီးယား
-SJ:SJM:744:Svalbard and Jan Mayen
+SJ:SJM:744:Svalbard and Jan Mayen Islands
 SK:SVK:703:စလိုဗေးကီးယား
 SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:ဆီနီဂေါ
 SO:SOM:706:ဆိုမာလီယာ
 SR:SUR:740:Suriname
+SS:SSD:728:South Sudan
 ST:STP:678:Sao Tome and Principe
 SV:SLV:222:အယ်လ်ဆာဗေးဒိုး
+SX:SXM:534:Sint Maarten
 SY:SYR:760:ဆီးရီးယား
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks and Caicos Islands
@@ -214,7 +217,7 @@ TF:ATF:260:ပြင်သစ် တောင်ပိုင်း ပိုင�
 TG:TGO:768:Togo
 TH:THA:764:ထိုင်း
 TJ:TJK:762:တာဂျီကစ္စတန်
-TK:TKL:772:Tokelau Islands
+TK:TKL:772:Tokelau
 TL:TLS:626:အရှေ့တီမော
 TM:TKM:795:Turkmenistan
 TN:TUN:788:တူနီးရှား
@@ -237,7 +240,7 @@ VG:VGB:092:ဗြိတိသျှ ဗာဂျင်း ကျွန်းစ�
 VI:VIR:850:ယူအက်စ် ဗာဂျင်း ကျွန်းစု
 VN:VNM:704:ဗီယက်နမ်
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis and Futuna
+WF:WLF:876:Wallis and Futuna Islands
 WS:WSM:882:Samoa
 YE:YEM:887:ယီမင်
 YT:MYT:175:Mayotte

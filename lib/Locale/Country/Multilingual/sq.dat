@@ -5,7 +5,6 @@ AG:ATG:028:Antigua e Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Shqipëria
 AM:ARM:051:Armeni
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:Angolë
 AQ:ATA:010:Antarctica
 AR:ARG:032:Argjentinë
@@ -24,10 +23,11 @@ BG:BGR:100:Bullgari
 BH:BHR:048:Bahrein
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunej
 BO:BOL:068:Bolivi
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Brazili
 BS:BHS:044:Bahamas
 BT:BTN:064:Butan
@@ -36,8 +36,8 @@ BW:BWA:072:Botsvana
 BY:BLR:112:Bjellorusi
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Cocos Islands
-CD:COD:180:Democratic Republic of the Congo
+CC:CCK:166:Cocos (Keeling) Islands
+CD:COD:180:Congo (Kinshasa)
 CF:CAF:140:Republika Qendrore e Afrikës
 CG:COG:178:Kongo
 CH:CHE:756:Zvicër
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbi
 CR:CRI:188:Kosta Rika
 CU:CUB:192:Kubë
 CV:CPV:132:Kap Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Qipro
 CZ:CZE:203:Republika e Çekisë
@@ -76,7 +77,7 @@ GA:GAB:266:Gjabon
 GB:GBR:826:Mbretëria e Bashkuar
 GD:GRD:308:Grenada
 GE:GEO:268:Gjeorgji
-GF:GUF:254:French Guyana
+GF:GUF:254:French Guiana
 GG:GGY:831:Guernsey
 GH:GHA:288:Ganë
 GI:GIB:292:Gibraltar
@@ -86,13 +87,13 @@ GN:GIN:324:Guine
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Guineja Ekuatoriale
 GR:GRC:300:Greqi
-GS:SGS:239:South Georgia and the South Sandwich Islands
+GS:SGS:239:South Georgia and South Sandwich Islands
 GT:GTM:320:Guatemalë
 GU:GUM:316:Guam
 GW:GNB:624:Guine Bisau
 GY:GUY:328:Guajana
 HK:HKG:344:Hong Kong
-HM:HMD:334:Heard Island and McDonald Islands
+HM:HMD:334:Heard and McDonald Islands
 HN:HND:340:Honduras
 HR:HRV:191:Kroaci
 HT:HTI:332:Haiti
@@ -137,7 +138,7 @@ MA:MAR:504:Maroko
 MC:MCO:492:Monako
 MD:MDA:498:Moldavi
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint Martin (French part)
 MG:MDG:450:Madagaskar
 MH:MHL:584:Ishujt Marshall
 MK:MKD:807:Maqedoni
@@ -177,7 +178,7 @@ PH:PHL:608:Filipine
 PK:PAK:586:Pakistan
 PL:POL:616:Poloni
 PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn Islands
+PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
 PS:PSE:275:Palestine
 PT:PRT:620:Portugali
@@ -185,37 +186,39 @@ PW:PLW:585:Palau
 PY:PRY:600:Paraguaj
 QA:QAT:634:Katar
 RE:REU:638:Reunion
-RO:ROM:642:Rumani
+RO:ROU:642:Rumani
 RS:SRB:688:Serbia
 RU:RUS:643:Rusi
 RW:RWA:646:Ruanda
 SA:SAU:682:Arabia Saudite
 SB:SLB:090:Ishujt Solomon
 SC:SYC:690:Sishel
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Suedi
 SG:SGP:702:Singapor
 SH:SHN:654:Saint Helena
 SI:SVN:705:Slloveni
-SJ:SJM:744:Svalbard and Jan Mayen
+SJ:SJM:744:Svalbard and Jan Mayen Islands
 SK:SVK:703:Sllovaki
 SL:SLE:694:Siera Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somali
 SR:SUR:740:Suriname
+SS:SSD:728:South Sudan
 ST:STP:678:Sao Tome e Prinsipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Siri
 SZ:SWZ:748:Svazilandë
 TC:TCA:796:Turks and Caicos Islands
 TD:TCD:148:Çad
-TF:ATF:260:French Southern Territories
+TF:ATF:260:French Southern Lands
 TG:TGO:768:Togo
 TH:THA:764:Tajlandë
 TJ:TJK:762:Taxhikistan
-TK:TKL:772:Tokelau Islands
-TL:TLS:626:East Timor
+TK:TKL:772:Tokelau
+TL:TLS:626:Timor-Leste
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisi
 TO:TON:776:Tonga
@@ -233,11 +236,11 @@ UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatikan
 VC:VCT:670:Saint Vincent e Grenadinet
 VE:VEN:862:Venezuelë
-VG:VGB:092:British Virgin Islands
-VI:VIR:850:American Virgin Islands
+VG:VGB:092:Virgin Islands, British
+VI:VIR:850:Virgin Islands, U.S.
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis and Futuna
+WF:WLF:876:Wallis and Futuna Islands
 WS:WSM:882:Samoa
 YE:YEM:887:Jemen
 YT:MYT:175:Mayotte

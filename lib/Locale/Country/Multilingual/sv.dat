@@ -5,7 +5,6 @@ AG:ATG:028:Antigua och Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albanien
 AM:ARM:051:Armenien
-AN:ANT:530:Nederländska Antillerna
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktis
 AR:ARG:032:Argentina
@@ -15,7 +14,7 @@ AU:AUS:036:Australien
 AW:ABW:533:Aruba
 AX:ALA:248:Åland
 AZ:AZE:031:Azerbajdzjan
-BA:BIH:070:Bosnien och Hercegovina:Bosnien-Hercegovina
+BA:BIH:070:Bosnien och Hercegovina
 BB:BRB:052:Barbados
 BD:BGD:050:Bangladesh
 BE:BEL:056:Belgien
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgarien
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:S t Barthélemy:Saint-Barthélemy
+BL:BLM:652:S t Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Karibiska Nederländerna
 BR:BRA:076:Brasilien
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -36,12 +36,12 @@ BW:BWA:072:Botswana
 BY:BLR:112:Vitryssland
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Kokosöarna:Kokosöarna (Keelingöarna)
-CD:COD:180:Kongo-Kinshasa
+CC:CCK:166:Kokosöarna
+CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
 CF:CAF:140:Centralafrikanska republiken
-CG:COG:178:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
 CH:CHE:756:Schweiz
-CI:CIV:384:Elfenbenskusten
+CI:CIV:384:Elfenbenskusten:Elfenbenskusten
 CK:COK:184:Cooköarna
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Kuba
 CV:CPV:132:Kap Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Julön
 CY:CYP:196:Cypern
 CZ:CZE:203:Tjeckien
@@ -68,7 +69,7 @@ ES:ESP:724:Spanien
 ET:ETH:231:Etiopien
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsöarna
+FK:FLK:238:Falklandsöarna:Falklandsöarna
 FM:FSM:583:Mikronesien
 FO:FRO:234:Färöarna
 FR:FRA:250:Frankrike
@@ -86,12 +87,12 @@ GN:GIN:324:Guinea
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Ekvatorialguinea
 GR:GRC:300:Grekland
-GS:SGS:239:Sydgeorgien och Södra Sandwichöarna
+GS:SGS:239:Sydgeorgien och Sydsandwichöarna
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Honkong S.A.R. Kina:Hongkong:Hongkong (S.A.R. Kina):Hongkong
+HK:HKG:344:Hongkong (S.A.R. Kina):Hongkong
 HM:HMD:334:Heard- och McDonaldöarna
 HN:HND:340:Honduras
 HR:HRV:191:Kroatien
@@ -140,11 +141,11 @@ ME:MNE:499:Montenegro
 MF:MAF:663:S t Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallöarna
-MK:MKD:807:Makedonien
+MK:MKD:807:Makedonien:Makedonien
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar:Burma
+MM:MMR:104:Myanmar
 MN:MNG:496:Mongoliet
-MO:MAC:446:Macao (S.A.R. Kina):Macao:Macao S.A.R. Kina:Macao
+MO:MAC:446:Macao (S.A.R. Kina):Macao
 MP:MNP:580:Nordmarianerna
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauretanien
@@ -177,22 +178,22 @@ PH:PHL:608:Filippinerna
 PK:PAK:586:Pakistan
 PL:POL:616:Polen
 PM:SPM:666:S t Pierre och Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Pitcairnöarna
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinska territoriet
+PS:PSE:275:Palestinska territoriet:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
 RE:REU:638:Réunion
-RO:ROM:642:Rumänien
+RO:ROU:642:Rumänien
 RS:SRB:688:Serbien
 RU:RUS:643:Ryssland
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudiarabien
 SB:SLB:090:Salomonöarna
 SC:SYC:690:Seychellerna
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Sverige
 SG:SGP:702:Singapore
 SH:SHN:654:S t Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
+SS:SSD:728:Sydsudan
 ST:STP:678:São Tomé och Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:S t Martin (nederländska delen)
 SY:SYR:760:Syrien
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks- och Caicosöarna
@@ -214,8 +217,8 @@ TF:ATF:260:Franska Sydterritorierna
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadzjikistan
-TK:TKL:772:Tokelau:Tokelauöarna
-TL:TLS:626:Östtimor
+TK:TKL:772:Tokelau
+TL:TLS:626:Östtimor:Östtimor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisien
 TO:TON:776:Tonga
@@ -237,7 +240,7 @@ VG:VGB:092:Brittiska Jungfruöarna
 VI:VIR:850:Amerikanska Jungfruöarna
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
-WF:WLF:876:Wallis- och Futunaöarna:Wallis och Futuna
+WF:WLF:876:Wallis- och Futunaöarna
 WS:WSM:882:Samoa
 YE:YEM:887:Jemen
 YT:MYT:175:Mayotte

@@ -2,10 +2,9 @@ AD:AND:020:Andorra
 AE:ARE:784:Spojené arabské emiráty
 AF:AFG:004:Afghánistán
 AG:ATG:028:Antigua a Barbuda
-AI:AIA:660:Anguila
+AI:AIA:660:Anguilla
 AL:ALB:008:Albánie
 AM:ARM:051:Arménie
-AN:ANT:530:Nizozemské Antily
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktida
 AR:ARG:032:Argentina
@@ -24,24 +23,25 @@ BG:BGR:100:Bulharsko
 BH:BHR:048:Bahrajn
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Svatý Bartoloměj
 BM:BMU:060:Bermudy
-BN:BRN:096:Brunej Darussalam
+BN:BRN:096:Brunej
 BO:BOL:068:Bolívie
+BQ:BES:535:Karibské Nizozemsko
 BR:BRA:076:Brazílie
 BS:BHS:044:Bahamy
 BT:BTN:064:Bhútán
-BV:BVT:074:Ostrov Bouvet
+BV:BVT:074:Bouvetův ostrov
 BW:BWA:072:Botswana
 BY:BLR:112:Bělorusko
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kokosové ostrovy
-CD:COD:180:Demokratická republika Kongo
+CD:COD:180:Kongo - Kinshasa:Kongo - DRK
 CF:CAF:140:Středoafrická republika
-CG:COG:178:Kongo
+CG:COG:178:Kongo - Brazzaville:Kongo - republika
 CH:CHE:756:Švýcarsko
-CI:CIV:384:Pobřeží slonoviny
+CI:CIV:384:Pobřeží slonoviny:Pobřeží slonoviny
 CK:COK:184:Cookovy ostrovy
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -50,11 +50,12 @@ CO:COL:170:Kolumbie
 CR:CRI:188:Kostarika
 CU:CUB:192:Kuba
 CV:CPV:132:Kapverdy
+CW:CUW:531:Curaçao
 CX:CXR:162:Vánoční ostrovy
 CY:CYP:196:Kypr
 CZ:CZE:203:Česká republika
 DE:DEU:276:Německo
-DJ:DJI:262:Džibuti
+DJ:DJI:262:Džibutsko
 DK:DNK:208:Dánsko
 DM:DMA:212:Dominika
 DO:DOM:214:Dominikánská republika
@@ -68,8 +69,8 @@ ES:ESP:724:Španělsko
 ET:ETH:231:Etiopie
 FI:FIN:246:Finsko
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandské ostrovy
-FM:FSM:583:Mikronézie
+FK:FLK:238:Falklandské ostrovy:Falklandské ostrovy [Malvíny]
+FM:FSM:583:Mikronésie
 FO:FRO:234:Faerské ostrovy
 FR:FRA:250:Francie
 GA:GAB:266:Gabon
@@ -91,8 +92,8 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Hongkong, zvláštní administrativní oblast Číny:Zvláštní administrativní oblast Číny Hongkong:Hongkong
-HM:HMD:334:Ostrovy Heard a McDonald
+HK:HKG:344:Hongkong - ZAO Číny:Hongkong
+HM:HMD:334:Heardův ostrov a McDonaldovy ostrovy
 HN:HND:340:Honduras
 HR:HRV:191:Chorvatsko
 HT:HTI:332:Haiti
@@ -102,7 +103,7 @@ IE:IRL:372:Irsko
 IL:ISR:376:Izrael
 IM:IMN:833:Ostrov Man
 IN:IND:356:Indie
-IO:IOT:086:Britské území v Indickém oceánu
+IO:IOT:086:Britské indickooceánské území
 IQ:IRQ:368:Irák
 IR:IRN:364:Írán
 IS:ISL:352:Island
@@ -122,7 +123,7 @@ KR:KOR:410:Jižní Korea
 KW:KWT:414:Kuvajt
 KY:CYM:136:Kajmanské ostrovy
 KZ:KAZ:398:Kazachstán
-LA:LAO:418:Lidově demokratická republika Laos
+LA:LAO:418:Laos
 LB:LBN:422:Libanon
 LC:LCA:662:Svatá Lucie
 LI:LIE:438:Lichtenštejnsko
@@ -135,23 +136,23 @@ LV:LVA:428:Lotyšsko
 LY:LBY:434:Libye
 MA:MAR:504:Maroko
 MC:MCO:492:Monako
-MD:MDA:498:Moldavsko, republika:Moldávie
+MD:MDA:498:Moldavsko
 ME:MNE:499:Černá Hora
 MF:MAF:663:Svatý Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallovy ostrovy
-MK:MKD:807:Macedonia
+MK:MKD:807:Makedonie:Makedonie
 ML:MLI:466:Mali
 MM:MMR:104:Myanmar
 MN:MNG:496:Mongolsko
-MO:MAC:446:Zvláštní administrativní oblast Číny Macao:Macao
+MO:MAC:446:Macao - ZAO Číny:Macao
 MP:MNP:580:Severní Mariany
 MQ:MTQ:474:Martinik
 MR:MRT:478:Mauritánie
 MS:MSR:500:Montserrat
 MT:MLT:470:Malta
 MU:MUS:480:Mauricius
-MV:MDV:462:Maladivy
+MV:MDV:462:Maledivy
 MW:MWI:454:Malawi
 MX:MEX:484:Mexiko
 MY:MYS:458:Malajsie
@@ -177,45 +178,47 @@ PH:PHL:608:Filipíny
 PK:PAK:586:Pákistán
 PL:POL:616:Polsko
 PM:SPM:666:Svatý Pierre a Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Pitcairnovy ostrovy
 PR:PRI:630:Portoriko
-PS:PSE:275:Palestinian Territory:Palestinské území
+PS:PSE:275:Palestinská území:Palestina
 PT:PRT:620:Portugalsko
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Katar
 RE:REU:638:Réunion
-RO:ROM:642:Rumunsko
+RO:ROU:642:Rumunsko
 RS:SRB:688:Srbsko
 RU:RUS:643:Rusko
 RW:RWA:646:Rwanda
 SA:SAU:682:Saúdská Arábie
 SB:SLB:090:Šalamounovy ostrovy
 SC:SYC:690:Seychely
-SD:SDN:736:Súdán
+SD:SDN:729:Súdán
 SE:SWE:752:Švédsko
 SG:SGP:702:Singapur
 SH:SHN:654:Svatá Helena
 SI:SVN:705:Slovinsko
-SJ:SJM:744:Svalbard a Jan Mayen
+SJ:SJM:744:Špicberky a Jan Mayen
 SK:SVK:703:Slovensko
 SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somálsko
 SR:SUR:740:Surinam
-ST:STP:678:Svatý Tomáš
-SV:SLV:222:El Salvador
+SS:SSD:728:Jižní Súdán
+ST:STP:678:Svatý Tomáš a Princův ostrov
+SV:SLV:222:Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Sýrie
 SZ:SWZ:748:Svazijsko
-TC:TCA:796:Ostrovy Caicos a Turks
+TC:TCA:796:Ostrovy Turks a Caicos
 TD:TCD:148:Čad
 TF:ATF:260:Francouzská jižní teritoria
 TG:TGO:768:Togo
 TH:THA:764:Thajsko
 TJ:TJK:762:Tádžikistán
 TK:TKL:772:Tokelau
-TL:TLS:626:Východní Timor
+TL:TLS:626:Východní Timor:Východní Timor
 TM:TKM:795:Turkmenistán
 TN:TUN:788:Tunisko
 TO:TON:776:Tonga
@@ -230,8 +233,8 @@ UM:UMI:581:Menší odlehlé ostrovy USA
 US:USA:840:Spojené státy
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistán
-VA:VAT:336:Svatý stolec
-VC:VCT:670:Svatý Vincent a Grenadiny
+VA:VAT:336:Vatikán
+VC:VCT:670:Svatý Vincenc a Grenadiny
 VE:VEN:862:Venezuela
 VG:VGB:092:Britské Panenské ostrovy
 VI:VIR:850:Americké Panenské ostrovy

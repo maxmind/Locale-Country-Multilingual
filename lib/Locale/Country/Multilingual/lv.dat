@@ -5,7 +5,6 @@ AG:ATG:028:Antigva un Barbuda
 AI:AIA:660:Angilja
 AL:ALB:008:Albānija
 AM:ARM:051:Armēnija
-AN:ANT:530:Antiļas:Nīderlandes Antiļas
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktika
 AR:ARG:032:Argentīna
@@ -13,7 +12,7 @@ AS:ASM:016:Amerikāņu Samoa
 AT:AUT:040:Austrija
 AU:AUS:036:Austrālija
 AW:ABW:533:Aruba
-AX:ALA:248:Olandes salas:Ālandi
+AX:ALA:248:Olandes salas
 AZ:AZE:031:Azerbaidžāna
 BA:BIH:070:Bosnija un Hercegovina
 BB:BRB:052:Barbadosa
@@ -24,24 +23,25 @@ BG:BGR:100:Bulgārija
 BH:BHR:048:Bahreina
 BI:BDI:108:Burundi
 BJ:BEN:204:Benina
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Senbartelmī
 BM:BMU:060:Bermudu salas
 BN:BRN:096:Bruneja
 BO:BOL:068:Bolīvija
+BQ:BES:535:Nīderlandes Karību salas
 BR:BRA:076:Brazīlija
-BS:BHS:044:Bahamas
+BS:BHS:044:Bahamu salas
 BT:BTN:064:Butāna
 BV:BVT:074:Buvē sala
 BW:BWA:072:Botsvāna
 BY:BLR:112:Baltkrievija
 BZ:BLZ:084:Beliza
 CA:CAN:124:Kanāda
-CC:CCK:166:Kokosu (Kīlinga) salas:Kokosu jeb Kīlinga salas
-CD:COD:180:Kongo Demokrātiskā Republika:Kongo-Kinshasa
+CC:CCK:166:Kokosu jeb Kīlinga salas
+CD:COD:180:Kongo-Kinšasa:Kongo Demokrātiskā Republika
 CF:CAF:140:Centrālāfrikas Republika
-CG:COG:178:Kongo:Kongo-Brazzaville
+CG:COG:178:Kongo - Brazavila:Kongo [Republika]
 CH:CHE:756:Šveice
-CI:CIV:384:Kotdivuāra
+CI:CIV:384:Kotdivuāra:Ziloņkaula krasts
 CK:COK:184:Kuka salas
 CL:CHL:152:Čīle
 CM:CMR:120:Kamerūna
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbija
 CR:CRI:188:Kostarika
 CU:CUB:192:Kuba
 CV:CPV:132:Kaboverde
+CW:CUW:531:Kirasao
 CX:CXR:162:Ziemsvētku sala
 CY:CYP:196:Kipra
 CZ:CZE:203:Čehija
@@ -68,9 +69,9 @@ ES:ESP:724:Spānija
 ET:ETH:231:Etiopija
 FI:FIN:246:Somija
 FJ:FJI:242:Fidži
-FK:FLK:238:Folklenda salas
-FM:FSM:583:Mikronēzijas Federatīvās Valstis
-FO:FRO:234:Farēru salas
+FK:FLK:238:Folklenda salas:Folklenda salas [Malvinu salas]
+FM:FSM:583:Mikronēzija
+FO:FRO:234:Fēru Salas
 FR:FRA:250:Francija
 GA:GAB:266:Gabona
 GB:GBR:826:Lielbritānija
@@ -91,7 +92,7 @@ GT:GTM:320:Gvatemala
 GU:GUM:316:Guama
 GW:GNB:624:Gvineja-Bisava
 GY:GUY:328:Gajāna
-HK:HKG:344:Honkonga, Ķīnas īpašās pārvaldes apgabals:Honkonga:Honkonga
+HK:HKG:344:Ķīnas īpašās pārvaldes apgabals Honkonga:Honkonga
 HM:HMD:334:Hērda un Makdonalda salas
 HN:HND:340:Hondurasa
 HR:HRV:191:Horvātija
@@ -100,19 +101,19 @@ HU:HUN:348:Ungārija
 ID:IDN:360:Indonēzija
 IE:IRL:372:Īrija
 IL:ISR:376:Izraēla
-IM:IMN:833:Mena:Menas sala
+IM:IMN:833:Mena
 IN:IND:356:Indija
-IO:IOT:086:Britu Indijas okeāna teritorija
+IO:IOT:086:Indijas okeāna Britu teritorija
 IQ:IRQ:368:Irāka
 IR:IRN:364:Irāna
-IS:ISL:352:Islande:Īslande
+IS:ISL:352:Īslande
 IT:ITA:380:Itālija
 JE:JEY:832:Džērsija
 JM:JAM:388:Jamaika
 JO:JOR:400:Jordānija
 JP:JPN:392:Japāna
 KE:KEN:404:Kenija
-KG:KGZ:417:Kirgīzija
+KG:KGZ:417:Kirgizstāna
 KH:KHM:116:Kambodža
 KI:KIR:296:Kiribati
 KM:COM:174:Komoru salas
@@ -137,15 +138,15 @@ MA:MAR:504:Maroka
 MC:MCO:492:Monako
 MD:MDA:498:Moldova
 ME:MNE:499:Melnkalne
-MF:MAF:663:Saint Martin
+MF:MAF:663:Senmartēna
 MG:MDG:450:Madagaskara
 MH:MHL:584:Māršala salas
-MK:MKD:807:Maķedonija
+MK:MKD:807:Maķedonija:Maķedonija [BDRM]
 ML:MLI:466:Mali
-MM:MMR:104:Mjanma
+MM:MMR:104:Mjanma [Birma]
 MN:MNG:496:Mongolija
-MO:MAC:446:Makao, Ķīnas īpašās pārvaldes apgabals:Makao:Makao
-MP:MNP:580:Ziemeļu Marianas:Ziemeļmarianas salas
+MO:MAC:446:Ķīnas īpašās pārvaldes apgabals Makao:Makao
+MP:MNP:580:Ziemeļu Marianas salas
 MQ:MTQ:474:Martinika
 MR:MRT:478:Mauritānija
 MS:MSR:500:Montserrata
@@ -159,7 +160,7 @@ MZ:MOZ:508:Mozambika
 NA:NAM:516:Namībija
 NC:NCL:540:Jaunkaledonija
 NE:NER:562:Nigēra
-NF:NFK:574:Norfolka:Norfolkas sala
+NF:NFK:574:Norfolkas sala
 NG:NGA:566:Nigērija
 NI:NIC:558:Nikaragva
 NL:NLD:528:Nīderlande
@@ -179,20 +180,20 @@ PL:POL:616:Polija
 PM:SPM:666:Senpjēra un Mikelona
 PN:PCN:612:Pitkērna
 PR:PRI:630:Puertoriko
-PS:PSE:275:Palestīniešu pašpārvaldes teritorija
+PS:PSE:275:Palestīna:Palestīna
 PT:PRT:620:Portugāle
 PW:PLW:585:Palau
 PY:PRY:600:Paragvaja
 QA:QAT:634:Katara
 RE:REU:638:Reinjona
-RO:ROM:642:Rumānija
+RO:ROU:642:Rumānija
 RS:SRB:688:Serbija
 RU:RUS:643:Krievija
 RW:RWA:646:Ruanda
 SA:SAU:682:Saūda Arābija
 SB:SLB:090:Zālamana salas
 SC:SYC:690:Seišeļu salas
-SD:SDN:736:Sudāna
+SD:SDN:729:Sudāna
 SE:SWE:752:Zviedrija
 SG:SGP:702:Singapūra
 SH:SHN:654:Sv. Helēnas sala
@@ -204,8 +205,10 @@ SM:SMR:674:Sanmarīno
 SN:SEN:686:Senegāla
 SO:SOM:706:Somālija
 SR:SUR:740:Surinama
+SS:SSD:728:Dienvidsudāna
 ST:STP:678:Santome un Prinsipi
 SV:SLV:222:Salvadora
+SX:SXM:534:Sintmārtena
 SY:SYR:760:Sīrija
 SZ:SWZ:748:Svazilenda
 TC:TCA:796:Tērksas un Kaikosas salas
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Taizeme
 TJ:TJK:762:Tadžikistāna
 TK:TKL:772:Tokelau
-TL:TLS:626:Austrumtimora
+TL:TLS:626:Austrumtimora:Austrumtimora
 TM:TKM:795:Turkmenistāna
 TN:TUN:788:Tunisija
 TO:TON:776:Tonga
@@ -226,21 +229,21 @@ TW:TWN:158:Taivāna
 TZ:TZA:834:Tanzānija
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
-UM:UMI:581:ASV mazās aizjūras teritorijas
-US:USA:840:United States:Amerikas Savienotās Valstis
+UM:UMI:581:ASV Mazās Aizjūras salas
+US:USA:840:Amerikas Savienotās Valstis
 UY:URY:858:Urugvaja
 UZ:UZB:860:Uzbekistāna
 VA:VAT:336:Vatikāns
 VC:VCT:670:Sentvinsenta un Grenadīnas
 VE:VEN:862:Venecuēla
-VG:VGB:092:Britu Virdžīnu salas
-VI:VIR:850:Amerikāņu Virdžīnu salas
+VG:VGB:092:Britu Virdžīnas
+VI:VIR:850:ASV Virdžīnas
 VN:VNM:704:Vjetnama
 VU:VUT:548:Vanuatu
 WF:WLF:876:Volisa un Futuna
 WS:WSM:882:Samoa
 YE:YEM:887:Jemena
 YT:MYT:175:Majota
-ZA:ZAF:710:Dienvidāfrika
+ZA:ZAF:710:Dienvidāfrikas Republika
 ZM:ZMB:894:Zambija
 ZW:ZWE:716:Zimbabve

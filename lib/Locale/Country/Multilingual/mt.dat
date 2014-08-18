@@ -5,7 +5,6 @@ AG:ATG:028:Antigua and Barbuda
 AI:AIA:660:Angwilla
 AL:ALB:008:Albanija
 AM:ARM:051:Armenja
-AN:ANT:530:Antilles Olandiżi
 AO:AGO:024:Angola
 AQ:ATA:010:Antartika
 AR:ARG:032:Arġentina
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgarija
 BH:BHR:048:Baħrajn
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunej
 BO:BOL:068:Bolivja
+BQ:BES:535:Bonaire, Sint Eustatius and Saba
 BR:BRA:076:Brażil
 BS:BHS:044:Baħamas
 BT:BTN:064:Butan
@@ -50,6 +50,7 @@ CO:COL:170:Kolumbja
 CR:CRI:188:Kosta Rika
 CU:CUB:192:Kuba
 CV:CPV:132:Kape Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Ċipru
 CZ:CZE:203:Repubblika Ċeka
@@ -91,7 +92,7 @@ GT:GTM:320:Gwatemala
 GU:GUM:316:Gwam
 GW:GNB:624:Ginea-Bissaw
 GY:GUY:328:Gujana
-HK:HKG:344:Ħong Kong S.A.R., Ċina
+HK:HKG:344:Ħong Kong S.A.R., Ċina:Ħong Kong
 HM:HMD:334:Heard Island and McDonald Islands
 HN:HND:340:Ħonduras
 HR:HRV:191:Kroazja
@@ -137,14 +138,14 @@ MA:MAR:504:Marokk
 MC:MCO:492:Monako
 MD:MDA:498:Maldova
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint Martin (French part)
 MG:MDG:450:Madagaskar
 MH:MHL:584:Gżejjer ta’ Marshall
 MK:MKD:807:Maċedonja
 ML:MLI:466:Mali
 MM:MMR:104:Mjanmar
 MN:MNG:496:Mongolja
-MO:MAC:446:Macao S.A.R., China
+MO:MAC:446:Macao S.A.R., China:Macao
 MP:MNP:580:Gżejjer Marjana ta’ Fuq
 MQ:MTQ:474:Martinik
 MR:MRT:478:Mawritanja
@@ -185,14 +186,14 @@ PW:PLW:585:Palau
 PY:PRY:600:Paragwaj
 QA:QAT:634:Qatar
 RE:REU:638:Réunion
-RO:ROM:642:Rumanija
+RO:ROU:642:Rumanija
 RS:SRB:688:Serbia
 RU:RUS:643:Russja
 RW:RWA:646:Rwanda
 SA:SAU:682:Għarabja Sawdita
 SB:SLB:090:Solomon Islands
 SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Żvezja
 SG:SGP:702:Singapor
 SH:SHN:654:Saint Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalja
 SR:SUR:740:Surinam
+SS:SSD:728:South Sudan
 ST:STP:678:Sao Tome and Principe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Sirja
 SZ:SWZ:748:Sważiland
 TC:TCA:796:Turks and Caicos Islands

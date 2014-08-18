@@ -1,50 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE ldml SYSTEM "http://www.unicode.org/cldr/dtd/1.6/ldml.dtd">
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2013 Unicode, Inc.
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+For terms of use, see http://www.unicode.org/copyright.html
+-->
 <ldml>
 	<identity>
-		<version number="$Revision: 1.44 $"/>
-		<generation date="$Date: 2008/05/28 15:49:27 $"/>
+		<version number="$Revision: 8245 $"/>
+		<generation date="$Date: 2013-02-24 22:19:26 -0600 (Sun, 24 Feb 2013) $"/>
 		<language type="aa"/>
 	</identity>
 	<localeDisplayNames>
 		<languages>
 			<language type="aa" draft="unconfirmed">Qafar</language>
-			<language type="ar" draft="unconfirmed">Arabic</language>
-			<language type="de" draft="unconfirmed">German</language>
-			<language type="en" draft="unconfirmed">English</language>
-			<language type="es" draft="unconfirmed">Spanish</language>
-			<language type="fr" draft="unconfirmed">French</language>
-			<language type="hi" draft="unconfirmed">Hindi</language>
-			<language type="it" draft="unconfirmed">Italian</language>
-			<language type="ja" draft="unconfirmed">Japanese</language>
-			<language type="pt" draft="unconfirmed">Portuguese</language>
-			<language type="ru" draft="unconfirmed">Russian</language>
-			<language type="zh" draft="unconfirmed">Chinese</language>
 		</languages>
-		<scripts>
-			<script type="Latn" draft="unconfirmed">Latin</script>
-		</scripts>
 		<territories>
-			<territory type="BR" draft="unconfirmed">Brazil</territory>
-			<territory type="CN" draft="unconfirmed">China</territory>
-			<territory type="DE" draft="unconfirmed">Germany</territory>
 			<territory type="DJ" draft="unconfirmed">Yabuuti</territory>
 			<territory type="ER" draft="unconfirmed">Eretria</territory>
 			<territory type="ET" draft="unconfirmed">Otobbia</territory>
-			<territory type="FR" draft="unconfirmed">France</territory>
-			<territory type="GB" draft="unconfirmed">United Kingdom</territory>
-			<territory type="IN" draft="unconfirmed">India</territory>
-			<territory type="IT" draft="unconfirmed">Italy</territory>
-			<territory type="JP" draft="unconfirmed">Japan</territory>
-			<territory type="RU" draft="unconfirmed">Russia</territory>
-			<territory type="US" draft="unconfirmed">United States</territory>
 		</territories>
 	</localeDisplayNames>
 	<characters>
-		<exemplarCharacters draft="unconfirmed">[a-z]</exemplarCharacters>
+		<exemplarCharacters>[a b t s e c k x i d q r f g o l m n u w h y]</exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[j p v z]</exemplarCharacters>
+		<exemplarCharacters type="index">[A B T S E C K X I D Q R F G O L M N U W H Y]</exemplarCharacters>
 	</characters>
 	<dates>
 		<calendars>
+			<calendar type="generic">
+				<dateFormats>
+					<dateFormatLength type="full">
+						<dateFormat>
+							<pattern draft="unconfirmed">EEEE, MMMM dd, y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="long">
+						<dateFormat>
+							<pattern draft="unconfirmed">dd MMMM y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="medium">
+						<dateFormat>
+							<pattern draft="unconfirmed">dd-MMM-y G</pattern>
+						</dateFormat>
+					</dateFormatLength>
+					<dateFormatLength type="short">
+						<dateFormat>
+							<pattern draft="unconfirmed">dd/MM/yy GGGGG</pattern>
+						</dateFormat>
+					</dateFormatLength>
+				</dateFormats>
+			</calendar>
 			<calendar type="gregorian">
 				<months>
 					<monthContext type="format">
@@ -127,24 +133,14 @@
 						</dayWidth>
 					</dayContext>
 				</days>
-				<quarters>
-					<quarterContext type="format">
-						<quarterWidth type="abbreviated">
-							<quarter type="1" draft="unconfirmed">Q1</quarter>
-							<quarter type="2" draft="unconfirmed">Q2</quarter>
-							<quarter type="3" draft="unconfirmed">Q3</quarter>
-							<quarter type="4" draft="unconfirmed">Q4</quarter>
-						</quarterWidth>
-						<quarterWidth type="wide">
-							<quarter type="1" draft="unconfirmed">Q1</quarter>
-							<quarter type="2" draft="unconfirmed">Q2</quarter>
-							<quarter type="3" draft="unconfirmed">Q3</quarter>
-							<quarter type="4" draft="unconfirmed">Q4</quarter>
-						</quarterWidth>
-					</quarterContext>
-				</quarters>
-				<am draft="unconfirmed">saaku</am>
-				<pm draft="unconfirmed">carra</pm>
+				<dayPeriods>
+					<dayPeriodContext type="format">
+						<dayPeriodWidth type="wide">
+							<dayPeriod type="am" draft="unconfirmed">saaku</dayPeriod>
+							<dayPeriod type="pm" draft="unconfirmed">carra</dayPeriod>
+						</dayPeriodWidth>
+					</dayPeriodContext>
+				</dayPeriods>
 				<eras>
 					<eraAbbr>
 						<era type="0" draft="unconfirmed">Yaasuusuk Duma</era>
@@ -154,17 +150,17 @@
 				<dateFormats>
 					<dateFormatLength type="full">
 						<dateFormat>
-							<pattern draft="unconfirmed">EEEE, MMMM dd, yyyy</pattern>
+							<pattern draft="unconfirmed">EEEE, MMMM dd, y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="long">
 						<dateFormat>
-							<pattern draft="unconfirmed">dd MMMM yyyy</pattern>
+							<pattern draft="unconfirmed">dd MMMM y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="medium">
 						<dateFormat>
-							<pattern draft="unconfirmed">dd-MMM-yyyy</pattern>
+							<pattern draft="unconfirmed">dd-MMM-y</pattern>
 						</dateFormat>
 					</dateFormatLength>
 					<dateFormatLength type="short">
@@ -176,7 +172,7 @@
 				<timeFormats>
 					<timeFormatLength type="full">
 						<timeFormat>
-							<pattern>h:mm:ss a v</pattern>
+							<pattern>h:mm:ss a zzzz</pattern>
 						</timeFormat>
 					</timeFormatLength>
 					<timeFormatLength type="long">
@@ -186,35 +182,20 @@
 					</timeFormatLength>
 					<timeFormatLength type="medium">
 						<timeFormat>
-							<pattern draft="unconfirmed">h:mm:ss a</pattern>
+							<pattern>h:mm:ss a</pattern>
 						</timeFormat>
 					</timeFormatLength>
 					<timeFormatLength type="short">
 						<timeFormat>
-							<pattern draft="unconfirmed">h:mm a</pattern>
+							<pattern>h:mm a</pattern>
 						</timeFormat>
 					</timeFormatLength>
 				</timeFormats>
-				<dateTimeFormats>
-					<dateTimeFormatLength>
-						<dateTimeFormat>
-							<pattern draft="unconfirmed">{1} {0}</pattern>
-						</dateTimeFormat>
-					</dateTimeFormatLength>
-					<availableFormats>
-						<dateFormatItem id="yyQ" draft="unconfirmed">Q yy</dateFormatItem>
-					</availableFormats>
-				</dateTimeFormats>
 			</calendar>
 		</calendars>
-		<timeZoneNames>
-			<hourFormat draft="unconfirmed">+HH:mm;-HH:mm</hourFormat>
-			<gmtFormat draft="unconfirmed">GMT{0}</gmtFormat>
-			<regionFormat draft="unconfirmed">{0}</regionFormat>
-		</timeZoneNames>
 	</dates>
 	<numbers>
-		<currencyFormats>
+		<currencyFormats numberSystem="latn">
 			<currencyFormatLength>
 				<currencyFormat>
 					<pattern draft="unconfirmed">¤#,##0.00</pattern>
@@ -222,39 +203,10 @@
 			</currencyFormatLength>
 		</currencyFormats>
 		<currencies>
-			<currency type="BRL">
-				<displayName draft="unconfirmed">Brazilian Real</displayName>
-			</currency>
-			<currency type="CNY">
-				<displayName draft="unconfirmed">Chinese Yuan Renminbi</displayName>
-			</currency>
-			<currency type="DJF">
-				<symbol draft="unconfirmed">FD</symbol>
-			</currency>
-			<currency type="ERN">
-				<symbol draft="unconfirmed">Nfk</symbol>
-			</currency>
 			<currency type="ETB">
-				<symbol draft="unconfirmed">Br</symbol>
-			</currency>
-			<currency type="EUR">
-				<displayName draft="unconfirmed">Euro</displayName>
-			</currency>
-			<currency type="GBP">
-				<displayName draft="unconfirmed">British Pound Sterling</displayName>
-			</currency>
-			<currency type="INR">
-				<displayName draft="unconfirmed">Indian Rupee</displayName>
-			</currency>
-			<currency type="JPY">
-				<displayName draft="unconfirmed">Japanese Yen</displayName>
-			</currency>
-			<currency type="RUB">
-				<displayName draft="unconfirmed">Russian Ruble</displayName>
-			</currency>
-			<currency type="USD">
-				<displayName draft="unconfirmed">US Dollar</displayName>
+				<symbol>Br</symbol>
 			</currency>
 		</currencies>
 	</numbers>
 </ldml>
+

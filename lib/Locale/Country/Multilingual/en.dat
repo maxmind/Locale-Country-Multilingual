@@ -5,7 +5,6 @@ AG:ATG:028:Antigua and Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:Angola
 AQ:ATA:010:Antarctica
 AR:ARG:032:Argentina
@@ -13,7 +12,7 @@ AS:ASM:016:American Samoa
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands
+AX:ALA:248:Åland Islands
 AZ:AZE:031:Azerbaijan
 BA:BIH:070:Bosnia and Herzegovina
 BB:BRB:052:Barbados
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgaria
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint-Barthélemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
-BN:BRN:096:Brunei Darussalam
+BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Caribbean Netherlands
 BR:BRA:076:Brazil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -36,12 +36,12 @@ BW:BWA:072:Botswana
 BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
-CC:CCK:166:Cocos (Keeling) Islands
-CD:COD:180:Congo, The Democratic Republic of the:Zaire:Congo, Democratic Republic of the
+CC:CCK:166:Cocos [Keeling] Islands
+CD:COD:180:Congo - Kinshasa:Congo [DRC]
 CF:CAF:140:Central African Republic
-CG:COG:178:Congo:Congo, Republic of the
+CG:COG:178:Congo - Brazzaville:Congo [Republic]
 CH:CHE:756:Switzerland
-CI:CIV:384:Cote D'Ivoire
+CI:CIV:384:Côte d’Ivoire:Ivory Coast
 CK:COK:184:Cook Islands
 CL:CHL:152:Chile
 CM:CMR:120:Cameroon
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Cape Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Cyprus
 CZ:CZE:203:Czech Republic
@@ -68,12 +69,12 @@ ES:ESP:724:Spain
 ET:ETH:231:Ethiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falkland Islands (Malvinas):Falkland Islands (Islas Malvinas)
-FM:FSM:583:Micronesia, Federated States of
+FK:FLK:238:Falkland Islands:Falkland Islands [Islas Malvinas]
+FM:FSM:583:Micronesia
 FO:FRO:234:Faroe Islands
 FR:FRA:250:France
 GA:GAB:266:Gabon
-GB:GBR:826:United Kingdom:United Kingdom of Great Britain and Northern Ireland
+GB:GBR:826:United Kingdom:U.K.
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:French Guiana
@@ -91,7 +92,7 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Hong Kong
+HK:HKG:344:Hong Kong SAR China:Hong Kong
 HM:HMD:334:Heard Island and McDonald Islands
 HN:HND:340:Honduras
 HR:HRV:191:Croatia
@@ -104,7 +105,7 @@ IM:IMN:833:Isle of Man
 IN:IND:356:India
 IO:IOT:086:British Indian Ocean Territory
 IQ:IRQ:368:Iraq
-IR:IRN:364:Iran, Islamic Republic of:Iran
+IR:IRN:364:Iran
 IS:ISL:352:Iceland
 IT:ITA:380:Italy
 JE:JEY:832:Jersey
@@ -117,12 +118,12 @@ KH:KHM:116:Cambodia
 KI:KIR:296:Kiribati
 KM:COM:174:Comoros
 KN:KNA:659:Saint Kitts and Nevis
-KP:PRK:408:Korea, Democratic People's Republic of:Korea, North:North Korea
-KR:KOR:410:Korea, Republic of:Korea, South:South Korea
+KP:PRK:408:North Korea
+KR:KOR:410:South Korea
 KW:KWT:414:Kuwait
 KY:CYM:136:Cayman Islands
-KZ:KAZ:398:Kazakhstan:Kazakstan
-LA:LAO:418:Lao People's Democratic Republic
+KZ:KAZ:398:Kazakhstan
+LA:LAO:418:Laos
 LB:LBN:422:Lebanon
 LC:LCA:662:Saint Lucia
 LI:LIE:438:Liechtenstein
@@ -132,19 +133,19 @@ LS:LSO:426:Lesotho
 LT:LTU:440:Lithuania
 LU:LUX:442:Luxembourg
 LV:LVA:428:Latvia
-LY:LBY:434:Libyan Arab Jamahiriya:Libya
+LY:LBY:434:Libya
 MA:MAR:504:Morocco
 MC:MCO:492:Monaco
-MD:MDA:498:Moldova, Republic of:Moldova
+MD:MDA:498:Moldova
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint-Martin (French part)
+MF:MAF:663:Saint Martin
 MG:MDG:450:Madagascar
 MH:MHL:584:Marshall Islands
-MK:MKD:807:Macedonia
+MK:MKD:807:Macedonia:Macedonia [FYROM]
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar:Burma
+MM:MMR:104:Myanmar [Burma]
 MN:MNG:496:Mongolia
-MO:MAC:446:Macao:Macau
+MO:MAC:446:Macau SAR China:Macau
 MP:MNP:580:Northern Mariana Islands
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauritania
@@ -177,40 +178,42 @@ PH:PHL:608:Philippines
 PK:PAK:586:Pakistan
 PL:POL:616:Poland
 PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn:Pitcairn Island
+PN:PCN:612:Pitcairn Islands
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinian Territory, Occupied
+PS:PSE:275:Palestinian Territories:Palestine
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Reunion
+RE:REU:638:Réunion
 RO:ROU:642:Romania
 RS:SRB:688:Serbia
-RU:RUS:643:Russian Federation:Russia
+RU:RUS:643:Russia
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudi Arabia
 SB:SLB:090:Solomon Islands
 SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Sweden
 SG:SGP:702:Singapore
 SH:SHN:654:Saint Helena
 SI:SVN:705:Slovenia
-SJ:SJM:744:Svalbard and Jan Mayen:Jan Mayen:Svalbard
+SJ:SJM:744:Svalbard and Jan Mayen
 SK:SVK:703:Slovakia
 SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Suriname
-ST:STP:678:Sao Tome and Principe
+SS:SSD:728:South Sudan
+ST:STP:678:São Tomé and Príncipe
 SV:SLV:222:El Salvador
-SY:SYR:760:Syrian Arab Republic:Syria
+SX:SXM:534:Sint Maarten
+SY:SYR:760:Syria
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks and Caicos Islands
 TD:TCD:148:Chad
-TF:ATF:260:French Southern Territories:French Southern and Antarctic Lands
+TF:ATF:260:French Southern Territories
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tajikistan
@@ -222,19 +225,19 @@ TO:TON:776:Tonga
 TR:TUR:792:Turkey
 TT:TTO:780:Trinidad and Tobago
 TV:TUV:798:Tuvalu
-TW:TWN:158:Taiwan, Province of China:Taiwan
-TZ:TZA:834:Tanzania, United Republic of:Tanzania
+TW:TWN:158:Taiwan
+TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraine
 UG:UGA:800:Uganda
-UM:UMI:581:United States Minor Outlying Islands
-US:USA:840:United States:USA:United States of America
+UM:UMI:581:U.S. Outlying Islands
+US:USA:840:United States:U.S.
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:Holy See (Vatican City State):Holy See (Vatican City)
+VA:VAT:336:Vatican City
 VC:VCT:670:Saint Vincent and the Grenadines
 VE:VEN:862:Venezuela
-VG:VGB:092:Virgin Islands, British:British Virgin Islands
-VI:VIR:850:Virgin Islands, U.S.
+VG:VGB:092:British Virgin Islands
+VI:VIR:850:U.S. Virgin Islands
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis and Futuna

@@ -5,7 +5,6 @@ AG:ATG:028:Antigua og Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:De nederlandske antiller
 AO:AGO:024:Angola
 AQ:ATA:010:Antarktis
 AR:ARG:032:Argentina
@@ -28,6 +27,7 @@ BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei Darussalam
 BO:BOL:068:Bolivia
+BQ:BES:535:Karibisk Nederland
 BR:BRA:076:Brasil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -37,11 +37,11 @@ BY:BLR:112:Hviterussland
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
 CC:CCK:166:Kokosøyene
-CD:COD:180:Kongo-Kinshasa
+CD:COD:180:Kongo-Kinshasa:Den demokratiske republikken Kongo
 CF:CAF:140:Den sentralafrikanske republikk
-CG:COG:178:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville:Republikken Kongo
 CH:CHE:756:Sveits
-CI:CIV:384:Elfenbenskysten
+CI:CIV:384:Elfenbenskysten:Elfenbenskysten
 CK:COK:184:Cookøyene
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -50,6 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Kapp Verde
+CW:CUW:531:Curaçao
 CX:CXR:162:Christmasøya
 CY:CYP:196:Kypros
 CZ:CZE:203:Tsjekkia
@@ -68,7 +69,7 @@ ES:ESP:724:Spania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsøyene
+FK:FLK:238:Falklandsøyene:Falklandsøyene
 FM:FSM:583:Mikronesiaføderasjonen
 FO:FRO:234:Færøyene
 FR:FRA:250:Frankrike
@@ -137,12 +138,12 @@ MA:MAR:504:Marokko
 MC:MCO:492:Monaco
 MD:MDA:498:Moldova
 ME:MNE:499:Montenegro
-MF:MAF:663:Saint Martin
+MF:MAF:663:Saint-Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalløyene
-MK:MKD:807:Makedonia
+MK:MKD:807:Makedonia:Den tidligere jugoslaviske republikken Makedonia
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar [Burma]
 MN:MNG:496:Mongolia
 MO:MAC:446:Macao S.A.R. Kina:Macao
 MP:MNP:580:Nord-Marianene
@@ -179,20 +180,20 @@ PL:POL:616:Polen
 PM:SPM:666:St. Pierre og Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinsk territorium
+PS:PSE:275:Det palestinske området:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Reunion
-RO:ROM:642:Romania
+RE:REU:638:Réunion
+RO:ROU:642:Romania
 RS:SRB:688:Serbia
 RU:RUS:643:Russland
 RW:RWA:646:Rwanda
 SA:SAU:682:Saudi-Arabia
 SB:SLB:090:Salomonøyene
 SC:SYC:690:Seychellene
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Sverige
 SG:SGP:702:Singapore
 SH:SHN:654:St. Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
+SS:SSD:728:Sør-Sudan
 ST:STP:678:São Tomé og Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Syria
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks- og Caicosøyene
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadsjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Øst-Timor
+TL:TLS:626:Øst-Timor:Øst-Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga

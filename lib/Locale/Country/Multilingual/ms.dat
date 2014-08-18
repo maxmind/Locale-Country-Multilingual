@@ -5,7 +5,6 @@ AG:ATG:028:Antigua dan Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
-AN:ANT:530:Netherlands Antilles
 AO:AGO:024:Angola
 AQ:ATA:010:Antarctica
 AR:ARG:032:Argentina
@@ -13,7 +12,7 @@ AS:ASM:016:American Samoa
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Aland Islands
+AX:ALA:248:Kepulauan Åland
 AZ:AZE:031:Azerbaijan
 BA:BIH:070:Bosnia dan Herzegovina
 BB:BRB:052:Barbados
@@ -24,10 +23,11 @@ BG:BGR:100:Bulgaria
 BH:BHR:048:Bahrain
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
-BL:BLM:652:Saint Barthelemy
+BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
+BQ:BES:535:Caribbean Belanda
 BR:BRA:076:Brazil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
@@ -36,20 +36,21 @@ BW:BWA:072:Botswana
 BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Cocos (Keeling) Islands
-CD:COD:180:Democratic Republic of the Congo
+CC:CCK:166:Cocos [Keeling] Islands
+CD:COD:180:Congo - Kinshasa:Congo [DRC]
 CF:CAF:140:Republik Afrika Tengah
-CG:COG:178:Congo
+CG:COG:178:Congo - Brazzaville:Congo [Republik]
 CH:CHE:756:Switzerland
-CI:CIV:384:Pantai Gading
+CI:CIV:384:Côte d’Ivoire:Ivory Coast
 CK:COK:184:Cook Islands
 CL:CHL:152:Cile
 CM:CMR:120:Kamerun
-CN:CHN:156:Cina
+CN:CHN:156:China
 CO:COL:170:Colombia
 CR:CRI:188:Kosta Rika
 CU:CUB:192:Cuba
 CV:CPV:132:Cape Verde
+CW:CUW:531:Curacao
 CX:CXR:162:Christmas Island
 CY:CYP:196:Kibris
 CZ:CZE:203:Republik Czech
@@ -68,7 +69,7 @@ ES:ESP:724:Sepanyol
 ET:ETH:231:Ethiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falkland Islands
+FK:FLK:238:Falkland Islands:Kepulauan Falkland [Islas Malvinas]
 FM:FSM:583:Micronesia
 FO:FRO:234:Faroe Islands
 FR:FRA:250:Perancis
@@ -91,7 +92,7 @@ GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea Bissau
 GY:GUY:328:Guyana
-HK:HKG:344:Hong Kong S.A.R., China
+HK:HKG:344:Hong Kong SAR China:Hong Kong
 HM:HMD:334:Heard Island and McDonald Islands
 HN:HND:340:Honduras
 HR:HRV:191:Croatia
@@ -101,7 +102,7 @@ ID:IDN:360:Indonesia
 IE:IRL:372:Ireland
 IL:ISR:376:Israel
 IM:IMN:833:Isle of Man
-IN:IND:356:Hindia
+IN:IND:356:India
 IO:IOT:086:British Indian Ocean Territory
 IQ:IRQ:368:Iraq
 IR:IRN:364:Iran
@@ -140,11 +141,11 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Kepulauan Marshall
-MK:MKD:807:Macedonia
+MK:MKD:807:Macedonia:Macedonia [FYROM]
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar [Burma]
 MN:MNG:496:Mongolia
-MO:MAC:446:Macao S.A.R., China
+MO:MAC:446:Macau SAR China:Macau
 MP:MNP:580:Northern Mariana Islands
 MQ:MTQ:474:Martinique
 MR:MRT:478:Mauritania
@@ -171,28 +172,28 @@ NZ:NZL:554:New Zealand
 OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Peru
-PF:PYF:258:French Polynesia
+PF:PYF:258:Polinesia Perancis
 PG:PNG:598:Papua New Guinea
 PH:PHL:608:Filipina
 PK:PAK:586:Pakistan
 PL:POL:616:Poland
 PM:SPM:666:Saint Pierre and Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Kepulauan Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinian Territory
+PS:PSE:275:Wilayah Palestin:Palestin
 PT:PRT:620:Feringgi
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
 RE:REU:638:Réunion
-RO:ROM:642:Romania
+RO:ROU:642:Romania
 RS:SRB:688:Serbia
-RU:RUS:643:Russia
+RU:RUS:643:Rusia
 RW:RWA:646:Rwanda
 SA:SAU:682:Arab Saudi
 SB:SLB:090:Kepulauan Solomon
 SC:SYC:690:Seychelles
-SD:SDN:736:Sudan
+SD:SDN:729:Sudan
 SE:SWE:752:Sweden
 SG:SGP:702:Singapura
 SH:SHN:654:Saint Helena
@@ -204,8 +205,10 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Surinam
-ST:STP:678:Sao Tome dan Principe
+SS:SSD:728:Sudan Selatan
+ST:STP:678:São Tomé dan Príncipe
 SV:SLV:222:El Salvador
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Syria
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks and Caicos Islands
@@ -215,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor-Leste
+TL:TLS:626:Timor-Leste:Timor Timur
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -230,7 +233,7 @@ UM:UMI:581:United States Minor Outlying Islands
 US:USA:840:Amerika Syarikat
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:Vatican
+VA:VAT:336:Kota Vatican
 VC:VCT:670:Saint Vincent dan Grenadines
 VE:VEN:862:Venezuela
 VG:VGB:092:British Virgin Islands

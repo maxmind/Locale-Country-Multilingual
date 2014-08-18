@@ -1,42 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE ldml SYSTEM "http://www.unicode.org/cldr/dtd/1.6/ldml.dtd">
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2013 Unicode, Inc.
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+For terms of use, see http://www.unicode.org/copyright.html
+-->
 <ldml>
 	<identity>
-		<version number="$Revision: 1.46 $"/>
-		<generation date="$Date: 2008/05/28 15:49:34 $"/>
+		<version number="$Revision: 8245 $"/>
+		<generation date="$Date: 2013-02-24 22:19:26 -0600 (Sun, 24 Feb 2013) $"/>
 		<language type="om"/>
 		<territory type="KE"/>
 	</identity>
 	<numbers>
 		<currencies>
-			<currency type="ETB">
-				<symbol>ETB</symbol>
+			<currency type="KES">
+				<symbol>Ksh</symbol>
 			</currency>
 		</currencies>
 	</numbers>
 </ldml>
-<!-- Old Comments. See root.xml for more info.
-URL: http://oss.software.ibm.com/cvs/icu/icu/source/data/locales/om_KE.txt?only_with_tag=final-update-LDML
 
-* Oromo language locale for Kenya.
-* Contributed by Daniel Yacob <yacob@geez.org>
-* Oromo terms are provided by Mahdi Hamid Muudee of Sagalee Oromoo
-* Publishing Co. Inc and formatted in Posix format locale by Daniel Yacob of
-* the Ge'ez Frontier Foundation.  The Oromo language terms used here
-* are those considered to be canonical in the Oromo language under
-* contemporary and progressive usage adopted by government bureaus
-* across the Oromo region.  Regional synonyms naturally exist for many
-* of the month and day names.
-Measurement { "Metric" }
-"\u2030",
-"\u221E",
-"\uFFFD",
-}
-PaperSize {
-Height { "297" }
-Width { "210" }
-Units { "mm" }
-}
-                "WD",  // WD = Waaree Dura
-                "WB",  // WD = Waaree Booda
--->
