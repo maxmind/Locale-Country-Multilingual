@@ -48,8 +48,8 @@ sub new {
 
     %args = @_ if @_;
     return bless {
-	use_io_layer => 0,
-	%args,
+        use_io_layer => 0,
+        %args,
     }, $class;
 }
 
@@ -63,8 +63,8 @@ sub assert_lang {
     my $self = shift;
 
     foreach (@_) {
-	eval { $self->_load_data($_) }
-	    and return $_;
+        eval { $self->_load_data($_) }
+            and return $_;
     }
     return undef;
 }
@@ -73,7 +73,7 @@ sub assert_lang {
 sub code2country {
     my $self = shift;
     my $code = shift
-	or return;
+        or return;
 
     return if $code =~ /\W/;
 
@@ -100,8 +100,8 @@ sub country2code {
     my $language = $self->_load_data($lang);
 
     return $language->[COUNTRY]
-	->[MAP_LOCALE_CODE_STR_TO_IDX->{$codeset || 'LOCALE_CODE_ALPHA_2'} || 0]
-	->{$country};
+        ->[MAP_LOCALE_CODE_STR_TO_IDX->{$codeset || 'LOCALE_CODE_ALPHA_2'} || 0]
+        ->{$country};
 }
 
 sub all_country_codes {
@@ -111,8 +111,8 @@ sub all_country_codes {
     my $language = $self->_load_data($lang);
 
     return keys %{
-	$language->[CODE]
-	->[MAP_LOCALE_CODE_STR_TO_IDX->{$codeset || 'LOCALE_CODE_ALPHA_2'} || 0]
+        $language->[CODE]
+        ->[MAP_LOCALE_CODE_STR_TO_IDX->{$codeset || 'LOCALE_CODE_ALPHA_2'} || 0]
     };
 }
 
@@ -132,30 +132,30 @@ sub _load_data {
     my $languages = $self->languages;
     my $language = $languages->{$lang};
 
-    return $language if ref $language;	# already set
+    return $language if ref $language;        # already set
 
     ($lang, my $fh) = $self->_open_dat($lang);
     binmode $fh, ':utf8'
-	if $self->use_io_layer or ref($self) and $self->{use_io_layer};
+        if $self->use_io_layer or ref($self) and $self->{use_io_layer};
 
     $language = $languages->{$lang} = [[], []];
 
     my $codes = $language->[CODE];
     my $countries = $language->[COUNTRY];
     while (my $line = <$fh>) {
-	chomp $line;
-	my ($alpha2, $alpha3, $numeric, @countries) = split(/:/, $line);
-	next unless ($alpha2);
-	$codes->[LOCALE_CODE_ALPHA_2]->{$alpha2} = $countries[0];
-	$codes->[LOCALE_CODE_ALPHA_3]->{$alpha3} = $countries[0] if ($alpha3);
-	$codes->[LOCALE_CODE_NUMERIC]->{$numeric + 0} = $countries[0] if ($numeric);
-	foreach my $country (@countries) {
-	    $countries->[LOCALE_CODE_ALPHA_2]->{"\L$country"} = $alpha2;
-	    $countries->[LOCALE_CODE_ALPHA_3]->{"\L$country"} = $alpha3 if ($alpha3);
-	    $countries->[LOCALE_CODE_NUMERIC]->{"\L$country"} = $numeric if ($numeric);
-	}
+        chomp $line;
+        my ($alpha2, $alpha3, $numeric, @countries) = split(/:/, $line);
+        next unless ($alpha2);
+        $codes->[LOCALE_CODE_ALPHA_2]->{$alpha2} = $countries[0];
+        $codes->[LOCALE_CODE_ALPHA_3]->{$alpha3} = $countries[0] if ($alpha3);
+        $codes->[LOCALE_CODE_NUMERIC]->{$numeric + 0} = $countries[0] if ($numeric);
+        foreach my $country (@countries) {
+            $countries->[LOCALE_CODE_ALPHA_2]->{"\L$country"} = $alpha2;
+            $countries->[LOCALE_CODE_ALPHA_3]->{"\L$country"} = $alpha3 if ($alpha3);
+            $countries->[LOCALE_CODE_NUMERIC]->{"\L$country"} = $numeric if ($numeric);
+        }
     }
-    close $fh;	# be a nice kid
+    close $fh;        # be a nice kid
 
     return $language;
 }
@@ -163,27 +163,27 @@ sub _load_data {
 sub _open_dat {
     my $self = shift;
     my $filename = shift || '';
-    my $fh = gensym;	# required before Perl 5.6
+    my $fh = gensym;        # required before Perl 5.6
     my @errors;
-    my $lang;		# stores the actual name used for loading
+    my $lang;                # stores the actual name used for loading
 
     # backwards compatibility
     if ($filename eq 'cn') {
-	$filename = 'zh';	# zh is simplified Han Chinese (hans)
+        $filename = 'zh';        # zh is simplified Han Chinese (hans)
     }
     elsif ($filename eq 'tw') {
-	$filename = 'zh-tw';	# zh-tw is traditional Han Chinese (hant)
+        $filename = 'zh-tw';        # zh-tw is traditional Han Chinese (hant)
     }
 
     # be tolerant on language identifier format as long as language comes
     # first, optionally followed by region:
     # "en_GB", "en-gb", "EN -> GB" is all the same.
     for (my @lang = split /[^A-Za-z]+/, $filename; @lang; pop @lang) {
-	$lang = join('-', @lang);
-	$filename = File::Spec->catfile($self->dir, "$lang.dat");
-	open $fh, $filename
-	    and return $lang => $fh
-	    or push @errors, "$filename: $!";
+        $lang = join('-', @lang);
+        $filename = File::Spec->catfile($self->dir, "$lang.dat");
+        open $fh, $filename
+            and return $lang => $fh
+            or push @errors, "$filename: $!";
     }
     # succeed or die
     croak join(', ', @errors);
