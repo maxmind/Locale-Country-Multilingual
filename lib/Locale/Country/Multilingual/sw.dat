@@ -36,12 +36,12 @@ BW:BWA:072:Botswana
 BY:BLR:112:Belarusi
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Visiwa vya Cocos [Keeling]
-CD:COD:180:Jamhuri ya Kidemokrasia ya Kongo:Kongo [Jamhuri ya Kidemokrasia]
+CC:CCK:166:Visiwa vya Cocos (Keeling)
+CD:COD:180:Jamhuri ya Kidemokrasia ya Kongo:Kongo (Jamhuri ya Kidemokrasia)
 CF:CAF:140:Jamhuri ya Afrika ya Kati
-CG:COG:178:Kongo:Kongo [Jamhuri ya]
+CG:COG:178:Kongo - Brazzaville:Kongo (Jamhuri ya)
 CH:CHE:756:Uswisi
-CI:CIV:384:Kodivaa:Cote d'Ivoire
+CI:CIV:384:Côte d’Ivoire
 CK:COK:184:Visiwa vya Cook
 CL:CHL:152:Chile
 CM:CMR:120:Kameruni
@@ -69,12 +69,12 @@ ES:ESP:724:Hispania
 ET:ETH:231:Uhabeshi
 FI:FIN:246:Ufini
 FJ:FJI:242:Fiji
-FK:FLK:238:Visiwa vya Falkland:Visiwa vya Falklandi [Islas Malvinas]
+FK:FLK:238:Visiwa vya Falkland:Visiwa vya Falkland (Islas Malvinas)
 FM:FSM:583:Mikronesia
 FO:FRO:234:Visiwa vya Faroe
 FR:FRA:250:Ufaransa
 GA:GAB:266:Gaboni
-GB:GBR:826:Uingereza
+GB:GBR:826:Uingereza:Uingereza
 GD:GRD:308:Grenada
 GE:GEO:268:Jojia
 GF:GUF:254:Gwiyana ya Ufaransa
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Bukini
 MH:MHL:584:Visiwa vya Marshal
-MK:MKD:807:Masedonia:Masedonia [FYROM]
+MK:MKD:807:Masedonia:Masedonia (FYROM)
 ML:MLI:466:Mali
-MM:MMR:104:Myama
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macau SAR China:Macau
 MP:MNP:580:Visiwa vya Mariana vya Kaskazini
@@ -161,7 +161,7 @@ NA:NAM:516:Namibia
 NC:NCL:540:Nyukaledonia
 NE:NER:562:Nijeri
 NF:NFK:574:Kisiwa cha Norfok
-NG:NGA:566:Nijeria
+NG:NGA:566:Nigeria
 NI:NIC:558:Nikaragwa
 NL:NLD:528:Uholanzi
 NO:NOR:578:Norwe
@@ -180,7 +180,7 @@ PL:POL:616:Polandi
 PM:SPM:666:Santapieri na Mikeloni
 PN:PCN:612:Pitkairni
 PR:PRI:630:Pwetoriko
-PS:PSE:275:Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina:Palestina
+PS:PSE:275:Maeneo ya Palestina:Palestina
 PT:PRT:620:Ureno
 PW:PLW:585:Palau
 PY:PRY:600:Paragwai
@@ -206,7 +206,7 @@ SN:SEN:686:Senegali
 SO:SOM:706:Somalia
 SR:SUR:740:Surinamu
 SS:SSD:728:Sudani Kusini
-ST:STP:678:Sao Tome na Principe
+ST:STP:678:São Tomé na Príncipe
 SV:SLV:222:Elsavado
 SX:SXM:534:Santamatini
 SY:SYR:760:Siria
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tailandi
 TJ:TJK:762:Tajikistani
 TK:TKL:772:Tokelau
-TL:TLS:626:Timori ya Mashariki:Timori Mashariki
+TL:TLS:626:Timor ya Mashariki
 TM:TKM:795:Turukimenistani
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga

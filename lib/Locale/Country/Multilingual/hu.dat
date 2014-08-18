@@ -37,11 +37,11 @@ BY:BLR:112:Fehéroroszország
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kókusz-szigetek
-CD:COD:180:Kongó - Kinshasa:Kongó [KDK]
+CD:COD:180:Kongó - Kinshasa:Kongó (KDK)
 CF:CAF:140:Közép-afrikai Köztársaság
-CG:COG:178:Kongó - Brazzaville:Kongó [Köztársaság]
+CG:COG:178:Kongó - Brazzaville:Kongó (Köztársaság)
 CH:CHE:756:Svájc
-CI:CIV:384:Elefántcsontpart:Elefántcsontpart
+CI:CIV:384:Elefántcsontpart
 CK:COK:184:Cook-szigetek
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -51,7 +51,7 @@ CR:CRI:188:Costa Rica
 CU:CUB:192:Kuba
 CV:CPV:132:Zöld-foki Köztársaság
 CW:CUW:531:Curaçao
-CX:CXR:162:Karácsony-szigetek
+CX:CXR:162:Karácsony-sziget
 CY:CYP:196:Ciprus
 CZ:CZE:203:Csehország
 DE:DEU:276:Németország
@@ -68,13 +68,13 @@ ER:ERI:232:Eritrea
 ES:ESP:724:Spanyolország
 ET:ETH:231:Etiópia
 FI:FIN:246:Finnország
-FJ:FJI:242:Fidzsi
-FK:FLK:238:Falkland-szigetek:Falkland-szigetek [Malvin-szigetek]
+FJ:FJI:242:Fidzsi-szigetek
+FK:FLK:238:Falkland-szigetek:Falkland-szigetek (Malvin-szigetek)
 FM:FSM:583:Mikronézia
 FO:FRO:234:Feröer-szigetek
 FR:FRA:250:Franciaország
 GA:GAB:266:Gabon
-GB:GBR:826:Egyesült Királyság
+GB:GBR:826:Egyesült Királyság:UK
 GD:GRD:308:Grenada
 GE:GEO:268:Grúzia
 GF:GUF:254:Francia Guyana
@@ -87,13 +87,13 @@ GN:GIN:324:Guinea
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Egyenlítői-Guinea
 GR:GRC:300:Görögország
-GS:SGS:239:Dél Grúzia és a Déli Szendvics-szigetek
+GS:SGS:239:Déli-Georgia és Déli-Sandwich-szigetek
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hongkong SAR Kína:Hongkong
-HM:HMD:334:Heard és McDonald Szigetek
+HM:HMD:334:Heard-sziget és McDonald-szigetek
 HN:HND:340:Honduras
 HR:HRV:191:Horvátország
 HT:HTI:332:Haiti
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegró
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaszkár
 MH:MHL:584:Marshall-szigetek
-MK:MKD:807:Macedónia:Macedónia [MVJK]
+MK:MKD:807:Macedónia:Macedónia (MVJK)
 ML:MLI:466:Mali
-MM:MMR:104:Mianmar [Burma]
+MM:MMR:104:Mianmar (Burma)
 MN:MNG:496:Mongólia
 MO:MAC:446:Makaó SAR Kína:Makaó
 MP:MNP:580:Északi Mariana-szigetek
@@ -188,7 +188,7 @@ QA:QAT:634:Katar
 RE:REU:638:Reunion
 RO:ROU:642:Románia
 RS:SRB:688:Szerbia
-RU:RUS:643:Oroszországi Föderáció
+RU:RUS:643:Oroszország
 RW:RWA:646:Ruanda
 SA:SAU:682:Szaúd-Arábia
 SB:SLB:090:Salamon-szigetek
@@ -196,7 +196,7 @@ SC:SYC:690:Seychelle-szigetek
 SD:SDN:729:Szudán
 SE:SWE:752:Svédország
 SG:SGP:702:Szingapúr
-SH:SHN:654:Szent Helena
+SH:SHN:654:Szent Ilona
 SI:SVN:705:Szlovénia
 SJ:SJM:744:Spitzbergák és Jan Mayen-szigetek
 SK:SVK:703:Szlovákia
@@ -216,9 +216,9 @@ TD:TCD:148:Csád
 TF:ATF:260:Francia Déli Területek
 TG:TGO:768:Togo
 TH:THA:764:Thaiföld
-TJ:TJK:762:Tadzsikisztán
+TJ:TJK:762:Tádzsikisztán
 TK:TKL:772:Tokelau
-TL:TLS:626:Kelet-Timor:Kelet-Timor
+TL:TLS:626:Kelet-Timor
 TM:TKM:795:Türkmenisztán
 TN:TUN:788:Tunézia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzánia
 UA:UKR:804:Ukrajna
 UG:UGA:800:Uganda
 UM:UMI:581:Amerikai Csendes-óceáni Szigetek
-US:USA:840:Egyesült Államok
+US:USA:840:Egyesült Államok:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Üzbegisztán
 VA:VAT:336:Vatikán

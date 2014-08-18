@@ -37,11 +37,11 @@ BY:BLR:112:Hvítarussland
 BZ:BLZ:084:Belis
 CA:CAN:124:Kanada
 CC:CCK:166:Kokosoyggjarnar
-CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
+CD:COD:180:Kongo-Kinshasa
 CF:CAF:140:Miðafrikalýðveldið
 CG:COG:178:Kongo:Kongo-Brazzaville
 CH:CHE:756:Sveis
-CI:CIV:384:Fílabeinsstrondin:Fílabeinsstrondin
+CI:CIV:384:Fílabeinsstrondin
 CK:COK:184:Cooksoyggjarnar
 CL:CHL:152:Kili
 CM:CMR:120:Kamerun
@@ -69,12 +69,12 @@ ES:ESP:724:Spania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finnland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsoyggjarnar:Falklandsoyggjarnar
+FK:FLK:238:Falklandsoyggjarnar
 FM:FSM:583:Mikronesia
 FO:FRO:234:Føroyar
 FR:FRA:250:Frakland
 GA:GAB:266:Gabon
-GB:GBR:826:Stóra Bretland
+GB:GBR:826:Stóra Bretland:Stóra Bretland
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Fransk Gujana
@@ -141,7 +141,7 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Fransk Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalloyggjarnar
-MK:MKD:807:Makedónia:Makedónia
+MK:MKD:807:Makedónia
 ML:MLI:466:Mali
 MM:MMR:104:Burma
 MN:MNG:496:Mongolia
@@ -180,7 +180,7 @@ PL:POL:616:Pólland
 PM:SPM:666:Saint Pierre og Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinskt territorium
+PS:PSE:275:Palestinskt territorium:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguei
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Teiland
 TJ:TJK:762:Tadsjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Eystur-Timor:Eystur-Timor
+TL:TLS:626:Eystur-Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunesia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tansania
 UA:UKR:804:Ukreina
 UG:UGA:800:Uganda
 UM:UMI:581:United States Minor Outlying Islands
-US:USA:840:Sambandsríki Amerika
+US:USA:840:Sambandsríki Amerika:USA
 UY:URY:858:Uruguei
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikan
@@ -244,6 +244,6 @@ WF:WLF:876:Wallis og Futuna
 WS:WSM:882:Sámoa
 YE:YEM:887:Jemen
 YT:MYT:175:Mayotte
-ZA:ZAF:710:Suðurafrika
+ZA:ZAF:710:Suðurafrikalýðveldið
 ZM:ZMB:894:Sambia
 ZW:ZWE:716:Simbabvi

@@ -1,4 +1,4 @@
-AD:AND:020:Andora
+AD:AND:020:Andorra
 AE:ARE:784:Uni Emirat Arab
 AF:AFG:004:Afganistan
 AG:ATG:028:Antigua dan Barbuda
@@ -37,9 +37,9 @@ BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kepulauan Cocos
-CD:COD:180:Kongo - Kinshasa:Kongo - Republik Demokratik
+CD:COD:180:Kongo - Kinshasa:Kongo (RDK)
 CF:CAF:140:Republik Afrika Tengah
-CG:COG:178:Kongo - Brazzaville:Kongo - Republik
+CG:COG:178:Kongo - Brazzaville:Kongo (Republik)
 CH:CHE:756:Swiss
 CI:CIV:384:Cote d'Ivoire:Ivory Coast
 CK:COK:184:Kepulauan Cook
@@ -69,12 +69,12 @@ ES:ESP:724:Spanyol
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fiji
-FK:FLK:238:Kepulauan Malvinas:Kepulauan Malvinas
+FK:FLK:238:Kepulauan Malvinas:Kepulauan Malvinas (Falkland)
 FM:FSM:583:Mikronesia
 FO:FRO:234:Kepulauan Faroe
 FR:FRA:250:Prancis
 GA:GAB:266:Gabon
-GB:GBR:826:Inggris
+GB:GBR:826:Inggris:GB
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Guyana Prancis
@@ -87,7 +87,7 @@ GN:GIN:324:Guinea
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Guinea Ekuatorial
 GR:GRC:300:Yunani
-GS:SGS:239:Kepulauan South Sandwich dan South Georgia
+GS:SGS:239:Georgia Selatan dan Kepulauan Sandwich Selatan
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
@@ -101,7 +101,7 @@ HU:HUN:348:Hungaria
 ID:IDN:360:Indonesia
 IE:IRL:372:Irlandia
 IL:ISR:376:Israel
-IM:IMN:833:Isle of Man
+IM:IMN:833:Pulau Man
 IN:IND:356:India
 IO:IOT:086:Wilayah Inggris di Samudra Hindia
 IQ:IRQ:368:Irak
@@ -121,7 +121,7 @@ KN:KNA:659:Saint Kitts dan Nevis
 KP:PRK:408:Korea Utara
 KR:KOR:410:Korea Selatan
 KW:KWT:414:Kuwait
-KY:CYM:136:Kepulauan Kayman
+KY:CYM:136:Kepulauan Cayman
 KZ:KAZ:398:Kazakstan
 LA:LAO:418:Laos
 LB:LBN:422:Lebanon
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Kepulauan Marshall
-MK:MKD:807:Makedonia:Makedonia - Bekas Republik Yugoslavia
+MK:MKD:807:Makedonia:Makedonia (BRY)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Makau SAR China:Makau
 MP:MNP:580:Kepulauan Mariana Utara
@@ -180,7 +180,7 @@ PL:POL:616:Polandia
 PM:SPM:666:Saint Pierre dan Miquelon
 PN:PCN:612:Kepulauan Pitcairn
 PR:PRI:630:Puerto Riko
-PS:PSE:275:Otoritas Palestina:Palestina
+PS:PSE:275:Wilayah Palestina:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
@@ -213,12 +213,12 @@ SY:SYR:760:Suriah
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Kepulauan Turks dan Caicos
 TD:TCD:148:Cad
-TF:ATF:260:Teritori Kutub Selatan Prancis
+TF:ATF:260:Wilayah Kutub Selatan Prancis
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tajikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Leste:Timor Leste
+TL:TLS:626:Timor Leste
 TM:TKM:795:Turkimenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:Kepulauan Terluar A.S.
-US:USA:840:Amerika Serikat
+US:USA:840:Amerika Serikat:A.S.
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatikan

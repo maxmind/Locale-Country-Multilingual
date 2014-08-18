@@ -12,7 +12,7 @@ AS:ASM:016:Americká Samoa
 AT:AUT:040:Rakousko
 AU:AUS:036:Austrálie
 AW:ABW:533:Aruba
-AX:ALA:248:Alandy
+AX:ALA:248:Ålandy
 AZ:AZE:031:Ázerbájdžán
 BA:BIH:070:Bosna a Hercegovina
 BB:BRB:052:Barbados
@@ -37,11 +37,11 @@ BY:BLR:112:Bělorusko
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kokosové ostrovy
-CD:COD:180:Kongo - Kinshasa:Kongo - DRK
+CD:COD:180:Kongo - Kinshasa:Kongo (DRK)
 CF:CAF:140:Středoafrická republika
-CG:COG:178:Kongo - Brazzaville:Kongo - republika
+CG:COG:178:Kongo - Brazzaville:Kongo (republika)
 CH:CHE:756:Švýcarsko
-CI:CIV:384:Pobřeží slonoviny:Pobřeží slonoviny
+CI:CIV:384:Pobřeží slonoviny
 CK:COK:184:Cookovy ostrovy
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -51,7 +51,7 @@ CR:CRI:188:Kostarika
 CU:CUB:192:Kuba
 CV:CPV:132:Kapverdy
 CW:CUW:531:Curaçao
-CX:CXR:162:Vánoční ostrovy
+CX:CXR:162:Vánoční ostrov
 CY:CYP:196:Kypr
 CZ:CZE:203:Česká republika
 DE:DEU:276:Německo
@@ -69,12 +69,12 @@ ES:ESP:724:Španělsko
 ET:ETH:231:Etiopie
 FI:FIN:246:Finsko
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandské ostrovy:Falklandské ostrovy [Malvíny]
+FK:FLK:238:Falklandské ostrovy:Falklandské ostrovy (Malvíny)
 FM:FSM:583:Mikronésie
 FO:FRO:234:Faerské ostrovy
 FR:FRA:250:Francie
 GA:GAB:266:Gabon
-GB:GBR:826:Velká Británie
+GB:GBR:826:Velká Británie:VB
 GD:GRD:308:Grenada
 GE:GEO:268:Gruzie
 GF:GUF:254:Francouzská Guyana
@@ -117,7 +117,7 @@ KG:KGZ:417:Kyrgyzstán
 KH:KHM:116:Kambodža
 KI:KIR:296:Kiribati
 KM:COM:174:Komory
-KN:KNA:659:Svatý Kitts a Nevis
+KN:KNA:659:Svatý Kryštof a Nevis
 KP:PRK:408:Severní Korea
 KR:KOR:410:Jižní Korea
 KW:KWT:414:Kuvajt
@@ -141,9 +141,9 @@ ME:MNE:499:Černá Hora
 MF:MAF:663:Svatý Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallovy ostrovy
-MK:MKD:807:Makedonie:Makedonie
+MK:MKD:807:Makedonie:Makedonie (FYROM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar (Barma)
 MN:MNG:496:Mongolsko
 MO:MAC:446:Macao - ZAO Číny:Macao
 MP:MNP:580:Severní Mariany
@@ -177,7 +177,7 @@ PG:PNG:598:Papua-Nová Guinea
 PH:PHL:608:Filipíny
 PK:PAK:586:Pákistán
 PL:POL:616:Polsko
-PM:SPM:666:Svatý Pierre a Miquelon
+PM:SPM:666:Saint-Pierre a Miquelon
 PN:PCN:612:Pitcairnovy ostrovy
 PR:PRI:630:Portoriko
 PS:PSE:275:Palestinská území:Palestina
@@ -211,14 +211,14 @@ SV:SLV:222:Salvador
 SX:SXM:534:Sint Maarten
 SY:SYR:760:Sýrie
 SZ:SWZ:748:Svazijsko
-TC:TCA:796:Ostrovy Turks a Caicos
+TC:TCA:796:Turks a Caicos
 TD:TCD:148:Čad
-TF:ATF:260:Francouzská jižní teritoria
+TF:ATF:260:Francouzská jižní území
 TG:TGO:768:Togo
 TH:THA:764:Thajsko
 TJ:TJK:762:Tádžikistán
 TK:TKL:772:Tokelau
-TL:TLS:626:Východní Timor:Východní Timor
+TL:TLS:626:Východní Timor
 TM:TKM:795:Turkmenistán
 TN:TUN:788:Tunisko
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzanie
 UA:UKR:804:Ukrajina
 UG:UGA:800:Uganda
 UM:UMI:581:Menší odlehlé ostrovy USA
-US:USA:840:Spojené státy
+US:USA:840:Spojené státy:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistán
 VA:VAT:336:Vatikán

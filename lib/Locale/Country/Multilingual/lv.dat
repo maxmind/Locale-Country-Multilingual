@@ -39,7 +39,7 @@ CA:CAN:124:Kanāda
 CC:CCK:166:Kokosu jeb Kīlinga salas
 CD:COD:180:Kongo-Kinšasa:Kongo Demokrātiskā Republika
 CF:CAF:140:Centrālāfrikas Republika
-CG:COG:178:Kongo - Brazavila:Kongo [Republika]
+CG:COG:178:Kongo - Brazavila:Kongo (Republika)
 CH:CHE:756:Šveice
 CI:CIV:384:Kotdivuāra:Ziloņkaula krasts
 CK:COK:184:Kuka salas
@@ -58,7 +58,7 @@ DE:DEU:276:Vācija
 DJ:DJI:262:Džibutija
 DK:DNK:208:Dānija
 DM:DMA:212:Dominika
-DO:DOM:214:Dominikānas Republika
+DO:DOM:214:Dominikāna
 DZ:DZA:012:Alžīrija
 EC:ECU:218:Ekvadora
 EE:EST:233:Igaunija
@@ -69,12 +69,12 @@ ES:ESP:724:Spānija
 ET:ETH:231:Etiopija
 FI:FIN:246:Somija
 FJ:FJI:242:Fidži
-FK:FLK:238:Folklenda salas:Folklenda salas [Malvinu salas]
+FK:FLK:238:Folklenda salas:Folklenda salas (Malvinu salas)
 FM:FSM:583:Mikronēzija
 FO:FRO:234:Fēru Salas
 FR:FRA:250:Francija
 GA:GAB:266:Gabona
-GB:GBR:826:Lielbritānija
+GB:GBR:826:Lielbritānija:Lielbritānija
 GD:GRD:308:Grenāda
 GE:GEO:268:Gruzija
 GF:GUF:254:Franču Gviāna
@@ -141,9 +141,9 @@ ME:MNE:499:Melnkalne
 MF:MAF:663:Senmartēna
 MG:MDG:450:Madagaskara
 MH:MHL:584:Māršala salas
-MK:MKD:807:Maķedonija:Maķedonija [BDRM]
+MK:MKD:807:Maķedonija:Maķedonija (BDRM)
 ML:MLI:466:Mali
-MM:MMR:104:Mjanma [Birma]
+MM:MMR:104:Mjanma (Birma)
 MN:MNG:496:Mongolija
 MO:MAC:446:Ķīnas īpašās pārvaldes apgabals Makao:Makao
 MP:MNP:580:Ziemeļu Marianas salas
@@ -196,7 +196,7 @@ SC:SYC:690:Seišeļu salas
 SD:SDN:729:Sudāna
 SE:SWE:752:Zviedrija
 SG:SGP:702:Singapūra
-SH:SHN:654:Sv. Helēnas sala
+SH:SHN:654:Sv.Helēnas sala
 SI:SVN:705:Slovēnija
 SJ:SJM:744:Svalbāra un Jana Majena sala
 SK:SVK:703:Slovākija
@@ -213,12 +213,12 @@ SY:SYR:760:Sīrija
 SZ:SWZ:748:Svazilenda
 TC:TCA:796:Tērksas un Kaikosas salas
 TD:TCD:148:Čada
-TF:ATF:260:Franču dienvidu teritorijas
+TF:ATF:260:Francijas Dienvidjūru Zemes
 TG:TGO:768:Togo
 TH:THA:764:Taizeme
 TJ:TJK:762:Tadžikistāna
 TK:TKL:772:Tokelau
-TL:TLS:626:Austrumtimora:Austrumtimora
+TL:TLS:626:Austrumtimora
 TM:TKM:795:Turkmenistāna
 TN:TUN:788:Tunisija
 TO:TON:776:Tonga
@@ -229,8 +229,8 @@ TW:TWN:158:Taivāna
 TZ:TZA:834:Tanzānija
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
-UM:UMI:581:ASV Mazās Aizjūras salas
-US:USA:840:Amerikas Savienotās Valstis
+UM:UMI:581:ASV Aizjūras salas
+US:USA:840:Amerikas Savienotās Valstis:ASV
 UY:URY:858:Urugvaja
 UZ:UZB:860:Uzbekistāna
 VA:VAT:336:Vatikāns

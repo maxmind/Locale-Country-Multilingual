@@ -39,7 +39,7 @@ CA:CAN:124:Kanada
 CC:CCK:166:Kookossaared
 CD:COD:180:Kongo DV:Kongo-Kinshasa
 CF:CAF:140:Kesk-Aafrika Vabariik
-CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville
 CH:CHE:756:Šveits
 CI:CIV:384:Côte d'Ivoire:Elevandiluurannik
 CK:COK:184:Cooki saared
@@ -69,12 +69,12 @@ ES:ESP:724:Hispaania
 ET:ETH:231:Etioopia
 FI:FIN:246:Soome
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandi saared:Falklandi saared
+FK:FLK:238:Falklandi saared
 FM:FSM:583:Mikroneesia Liiduriigid
 FO:FRO:234:Fääri saared
 FR:FRA:250:Prantsusmaa
 GA:GAB:266:Gabon
-GB:GBR:826:Suurbritannia
+GB:GBR:826:Suurbritannia:Suurbritannia
 GD:GRD:308:Grenada
 GE:GEO:268:Gruusia
 GF:GUF:254:Prantsuse Guajaana
@@ -141,7 +141,7 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalli saared
-MK:MKD:807:Makedoonia:Makedoonia
+MK:MKD:807:Makedoonia
 ML:MLI:466:Mali
 MM:MMR:104:Myanmar
 MN:MNG:496:Mongoolia
@@ -178,9 +178,9 @@ PH:PHL:608:Filipiinid
 PK:PAK:586:Pakistan
 PL:POL:616:Poola
 PM:SPM:666:Saint Pierre ja Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Pitcairni saared
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestiina ala:Palestiina
+PS:PSE:275:Palestiina alad:Palestiina
 PT:PRT:620:Portugal
 PW:PLW:585:Belau
 PY:PRY:600:Paraguay
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tai
 TJ:TJK:762:Tadžikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Ida-Timor:Ida-Timor
+TL:TLS:626:Ida-Timor
 TM:TKM:795:Türkmenistan
 TN:TUN:788:Tuneesia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tansaania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:Ühendriikide hajasaared
-US:USA:840:Ameerika Ühendriigid
+US:USA:840:Ameerika Ühendriigid:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikan

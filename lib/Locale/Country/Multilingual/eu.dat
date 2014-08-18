@@ -26,8 +26,8 @@ BJ:BEN:204:Benin
 BL:BLM:652:San Bartolome
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
-BO:BOL:068:Bolibia
-BQ:BES:535:Karibeko Holanda
+BO:BOL:068:Bolivia
+BQ:BES:535:Karibeko Herbehereak
 BR:BRA:076:Brasil
 BS:BHS:044:Bahamak
 BT:BTN:064:Bhutan
@@ -36,12 +36,12 @@ BW:BWA:072:Botswana
 BY:BLR:112:Bielorrusia
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Cocos [Keeling] uharteak
-CD:COD:180:Kongoko Errepublika Demokratikoa:Kongo [KED]
+CC:CCK:166:Cocos (Keeling) uharteak
+CD:COD:180:Kongoko Errepublika Demokratikoa:Kongo (KED)
 CF:CAF:140:Afrika Erdiko Errepublika
-CG:COG:178:Kongo (Brazzaville):Kongo [errepublika]
+CG:COG:178:Kongo (Brazzaville):Kongo (errepublika)
 CH:CHE:756:Suitza
-CI:CIV:384:Boli Kosta:BK
+CI:CIV:384:Boli Kosta
 CK:COK:184:Cook uharteak
 CL:CHL:152:Txile
 CM:CMR:120:Kamerun
@@ -53,7 +53,7 @@ CV:CPV:132:Cabo Verde
 CW:CUW:531:Curaçao
 CX:CXR:162:Christmas uhartea
 CY:CYP:196:Zipre
-CZ:CZE:203:Txekiar errepublika
+CZ:CZE:203:Txekiar Errepublika
 DE:DEU:276:Alemania
 DJ:DJI:262:Djibuti
 DK:DNK:208:Danimarka
@@ -69,9 +69,9 @@ ES:ESP:724:Espainia
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fiji
-FK:FLK:238:Malvinak:Falkland uharteak [Malvina uharteak]
+FK:FLK:238:Malvinak:Falkland uharteak (Malvina uharteak)
 FM:FSM:583:Mikronesia
-FO:FRO:234:Faroe Uharteak
+FO:FRO:234:Faroe uharteak
 FR:FRA:250:Frantzia
 GA:GAB:266:Gabon
 GB:GBR:826:Erresuma Batua
@@ -93,7 +93,7 @@ GU:GUM:316:Guam
 GW:GNB:624:Ginea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hong Kong AEB Txina:Hong Kong
-HM:HMD:334:Heard eta McDonald Uharteak
+HM:HMD:334:Heard eta McDonald uharteak
 HN:HND:340:Honduras
 HR:HRV:191:Kroazia
 HT:HTI:332:Haiti
@@ -103,7 +103,7 @@ IE:IRL:372:Irlanda
 IL:ISR:376:Israel
 IM:IMN:833:Man uhartea
 IN:IND:356:India
-IO:IOT:086:Indiako Ozeanoko Britainiar Lurraldea
+IO:IOT:086:Indiako Ozeanoko lurralde britainiarra
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Islandia
@@ -112,7 +112,7 @@ JE:JEY:832:Jersey
 JM:JAM:388:Jamaika
 JO:JOR:400:Jordania
 JP:JPN:392:Japonia
-KE:KEN:404:Kenia
+KE:KEN:404:Kenya
 KG:KGZ:417:Kirgizistan
 KH:KHM:116:Kanbodia
 KI:KIR:296:Kiribati
@@ -121,7 +121,7 @@ KN:KNA:659:Saint Kitts eta Nevis
 KP:PRK:408:Ipar Korea
 KR:KOR:410:Hego Korea
 KW:KWT:414:Kuwait
-KY:CYM:136:Kaiman Uharteak
+KY:CYM:136:Kaiman uharteak
 KZ:KAZ:398:Kazakhstan
 LA:LAO:418:Laos
 LB:LBN:422:Libano
@@ -141,11 +141,11 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshall uharteak
-MK:MKD:807:Mazedonia:Mazedonia [FYROM]
+MK:MKD:807:Mazedonia:Mazedonia (Mazedoniako Yugoslaviar Errepublika ohia)
 ML:MLI:466:Mali
 MM:MMR:104:Myanmar
 MN:MNG:496:Mongolia
-MO:MAC:446:Makau:Macau
+MO:MAC:446:Macau AEB Txina:Macau
 MP:MNP:580:Iparraldeko Mariana uharteak
 MQ:MTQ:474:Martinika
 MR:MRT:478:Mauritania
@@ -155,7 +155,7 @@ MU:MUS:480:Maurizio
 MV:MDV:462:Maldivak
 MW:MWI:454:Malawi
 MX:MEX:484:Mexiko
-MY:MYS:458:Malasia
+MY:MYS:458:Malaysia
 MZ:MOZ:508:Mozambike
 NA:NAM:516:Namibia
 NC:NCL:540:Kaledonia Berria
@@ -184,7 +184,7 @@ PS:PSE:275:Palestinako Lurraldeak:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguai
-QA:QAT:634:Katar
+QA:QAT:634:Qatar
 RE:REU:638:Reunion
 RO:ROU:642:Errumania
 RS:SRB:688:Serbia
@@ -213,9 +213,9 @@ SY:SYR:760:Siria
 SZ:SWZ:748:Swazilandia
 TC:TCA:796:Turk eta Caicos uharteak
 TD:TCD:148:Txad
-TF:ATF:260:Frantziaren Lurralde Australak
+TF:ATF:260:Hegoaldeko lurralde frantsesak
 TG:TGO:768:Togo
-TH:THA:764:Tailandia
+TH:THA:764:Thailandia
 TJ:TJK:762:Tadjikistan
 TK:TKL:772:Tokelau
 TL:TLS:626:Ekialdeko Timor:Timor ekialdea
@@ -229,8 +229,8 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
-UM:UMI:581:Estatu Batuetatik urruti dauden uharte txikiak
-US:USA:840:Ameriketako Estatu Batuak
+UM:UMI:581:Ameriketako Estatu Batuetako Kanpoaldeko Uharte Txikiak
+US:USA:840:Ameriketako Estatu Batuak:AEB
 UY:URY:858:Uruguai
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatikano Hiria

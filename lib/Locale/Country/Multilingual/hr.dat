@@ -2,11 +2,11 @@ AD:AND:020:Andora
 AE:ARE:784:Ujedinjeni Arapski Emirati
 AF:AFG:004:Afganistan
 AG:ATG:028:Antigua i Barbuda
-AI:AIA:660:Anguila
+AI:AIA:660:Angvila
 AL:ALB:008:Albanija
 AM:ARM:051:Armenija
 AO:AGO:024:Angola
-AQ:ATA:010:Antarktik
+AQ:ATA:010:Antarktika
 AR:ARG:032:Argentina
 AS:ASM:016:Američka Samoa
 AT:AUT:040:Austrija
@@ -36,20 +36,20 @@ BW:BWA:072:Bocvana
 BY:BLR:112:Bjelorusija
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Kokosovi [Keeling] Otoci
-CD:COD:180:Demokratska Republika Kongo:Demokratska Republika Kongo
+CC:CCK:166:Kokosovi (Keeling) Otoci
+CD:COD:180:Kongo (DRK)
 CF:CAF:140:Srednjoafrička Republika
-CG:COG:178:Kongo - Brazzaville:Republika Kongo
+CG:COG:178:Kongo - Brazzaville:Kongo (RK)
 CH:CHE:756:Švicarska
-CI:CIV:384:Bjelokosna Obala:Bjelokosna Obala
-CK:COK:184:Kukovi Otoci
+CI:CIV:384:Obala Bjelokosti:Bjelokosna Obala
+CK:COK:184:Cookovi Otoci
 CL:CHL:152:Čile
 CM:CMR:120:Kamerun
 CN:CHN:156:Kina
 CO:COL:170:Kolumbija
 CR:CRI:188:Kostarika
 CU:CUB:192:Kuba
-CV:CPV:132:Zeleni Rt
+CV:CPV:132:Zelenortska Republika
 CW:CUW:531:Curaçao
 CX:CXR:162:Božićni Otok
 CY:CYP:196:Cipar
@@ -69,12 +69,12 @@ ES:ESP:724:Španjolska
 ET:ETH:231:Etiopija
 FI:FIN:246:Finska
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandski Otoci:Falklandi
+FK:FLK:238:Falklandski Otoci:Falklandski Otoci (Malvini)
 FM:FSM:583:Mikronezija
 FO:FRO:234:Farski Otoci
 FR:FRA:250:Francuska
 GA:GAB:266:Gabon
-GB:GBR:826:Velika Britanija
+GB:GBR:826:Velika Britanija:UK
 GD:GRD:308:Grenada
 GE:GEO:268:Gruzija
 GF:GUF:254:Francuska Gvajana
@@ -84,16 +84,16 @@ GI:GIB:292:Gibraltar
 GL:GRL:304:Grenland
 GM:GMB:270:Gambija
 GN:GIN:324:Gvineja
-GP:GLP:312:Guadeloupe
+GP:GLP:312:Guadalupa
 GQ:GNQ:226:Ekvatorska Gvineja
 GR:GRC:300:Grčka
-GS:SGS:239:Južna Gruzija i Južni Sendvič Otoci
+GS:SGS:239:Južna Georgija i Južni Sendvički Otoci
 GT:GTM:320:Gvatemala
 GU:GUM:316:Guam
 GW:GNB:624:Gvineja Bisau
 GY:GUY:328:Gvajana
-HK:HKG:344:Kinesko Posebno Upravno Područje Hong Kong:Hong Kong
-HM:HMD:334:Otok Heard i Otoci McDonald
+HK:HKG:344:Hong Kong PUP Kina:Hong Kong
+HM:HMD:334:Otoci Heard i McDonald
 HN:HND:340:Honduras
 HR:HRV:191:Hrvatska
 HT:HTI:332:Haiti
@@ -103,7 +103,7 @@ IE:IRL:372:Irska
 IL:ISR:376:Izrael
 IM:IMN:833:Otok Man
 IN:IND:356:Indija
-IO:IOT:086:Britanski Teritorij Indijskog Oceana
+IO:IOT:086:Britanski Indijskooceanski Teritorij
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Island
@@ -122,7 +122,7 @@ KP:PRK:408:Sjeverna Koreja
 KR:KOR:410:Južna Koreja
 KW:KWT:414:Kuvajt
 KY:CYM:136:Kajmanski Otoci
-KZ:KAZ:398:Kazakstan
+KZ:KAZ:398:Kazahstan
 LA:LAO:418:Laos
 LB:LBN:422:Libanon
 LC:LCA:662:Sveta Lucija
@@ -141,15 +141,15 @@ ME:MNE:499:Crna Gora
 MF:MAF:663:Sveti Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Maršalovi Otoci
-MK:MKD:807:Makedonija:Makedonija - BJRM
+MK:MKD:807:Makedonija:Makedonija (BJRM)
 ML:MLI:466:Mali
-MM:MMR:104:Mijanmar [Burma]
+MM:MMR:104:Mijanmar (Burma)
 MN:MNG:496:Mongolija
-MO:MAC:446:Kinesko Posebno Upravno Područje Makao:Makao
+MO:MAC:446:Makao PUP Kina:Makao
 MP:MNP:580:Sjeverni Marijanski Otoci
-MQ:MTQ:474:Martinik
+MQ:MTQ:474:Martinique
 MR:MRT:478:Mauritanija
-MS:MSR:500:Montserat
+MS:MSR:500:Montserrat
 MT:MLT:470:Malta
 MU:MUS:480:Mauricijus
 MV:MDV:462:Maldivi
@@ -191,7 +191,7 @@ RS:SRB:688:Srbija
 RU:RUS:643:Rusija
 RW:RWA:646:Ruanda
 SA:SAU:682:Saudijska Arabija
-SB:SLB:090:Solomonski Otoci
+SB:SLB:090:Salomonski Otoci
 SC:SYC:690:Sejšeli
 SD:SDN:729:Sudan
 SE:SWE:752:Švedska
@@ -206,19 +206,19 @@ SN:SEN:686:Senegal
 SO:SOM:706:Somalija
 SR:SUR:740:Surinam
 SS:SSD:728:Južni Sudan
-ST:STP:678:Sveti Toma i Prinsipe
-SV:SLV:222:El Salvador
+ST:STP:678:Sveti Toma i Princip
+SV:SLV:222:Salvador
 SX:SXM:534:Sint Maarten
 SY:SYR:760:Sirija
 SZ:SWZ:748:Svazi
-TC:TCA:796:Turkski i Kaikos Otoci
+TC:TCA:796:Otoci Turks i Caicos
 TD:TCD:148:Čad
-TF:ATF:260:Francuski Južni Teritoriji
+TF:ATF:260:Francuske Južne i Antarktičke Zemlje
 TG:TGO:768:Togo
 TH:THA:764:Tajland
 TJ:TJK:762:Tadžikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Istočni Timor:Istočni Timor
+TL:TLS:626:Istočni Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunis
 TO:TON:776:Tonga
@@ -229,11 +229,11 @@ TW:TWN:158:Tajvan
 TZ:TZA:834:Tanzanija
 UA:UKR:804:Ukrajina
 UG:UGA:800:Uganda
-UM:UMI:581:Ujedinjene Države Manjih Pacifičkih Otoka
-US:USA:840:Sjedinjene Države
+UM:UMI:581:Mali udaljeni otoci SAD-a
+US:USA:840:Sjedinjene Američke Države:SAD
 UY:URY:858:Urugvaj
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:Grad Vatikan
+VA:VAT:336:Sveta Stolica
 VC:VCT:670:Sveti Vincent i Grenadini
 VE:VEN:862:Venezuela
 VG:VGB:092:Britanski Djevičanski Otoci
@@ -243,7 +243,7 @@ VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis i Futuna
 WS:WSM:882:Samoa
 YE:YEM:887:Jemen
-YT:MYT:175:Majote
+YT:MYT:175:Mayotte
 ZA:ZAF:710:Južnoafrička Republika
 ZM:ZMB:894:Zambija
 ZW:ZWE:716:Zimbabve

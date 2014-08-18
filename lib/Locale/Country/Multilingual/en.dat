@@ -36,10 +36,10 @@ BW:BWA:072:Botswana
 BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
-CC:CCK:166:Cocos [Keeling] Islands
-CD:COD:180:Congo - Kinshasa:Congo [DRC]
+CC:CCK:166:Cocos (Keeling) Islands
+CD:COD:180:Congo - Kinshasa:Congo (DRC)
 CF:CAF:140:Central African Republic
-CG:COG:178:Congo - Brazzaville:Congo [Republic]
+CG:COG:178:Congo - Brazzaville:Congo (Republic)
 CH:CHE:756:Switzerland
 CI:CIV:384:Côte d’Ivoire:Ivory Coast
 CK:COK:184:Cook Islands
@@ -69,7 +69,7 @@ ES:ESP:724:Spain
 ET:ETH:231:Ethiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falkland Islands:Falkland Islands [Islas Malvinas]
+FK:FLK:238:Falkland Islands:Falkland Islands (Islas Malvinas)
 FM:FSM:583:Micronesia
 FO:FRO:234:Faroe Islands
 FR:FRA:250:France
@@ -87,13 +87,13 @@ GN:GIN:324:Guinea
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Equatorial Guinea
 GR:GRC:300:Greece
-GS:SGS:239:South Georgia and the South Sandwich Islands
+GS:SGS:239:South Georgia & South Sandwich Islands
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hong Kong SAR China:Hong Kong
-HM:HMD:334:Heard Island and McDonald Islands
+HM:HMD:334:Heard & McDonald Islands
 HN:HND:340:Honduras
 HR:HRV:191:Croatia
 HT:HTI:332:Haiti
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagascar
 MH:MHL:584:Marshall Islands
-MK:MKD:807:Macedonia:Macedonia [FYROM]
+MK:MKD:807:Macedonia:Macedonia (FYROM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macau SAR China:Macau
 MP:MNP:580:Northern Mariana Islands
@@ -234,7 +234,7 @@ US:USA:840:United States:U.S.
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatican City
-VC:VCT:670:Saint Vincent and the Grenadines
+VC:VCT:670:St. Vincent & Grenadines
 VE:VEN:862:Venezuela
 VG:VGB:092:British Virgin Islands
 VI:VIR:850:U.S. Virgin Islands

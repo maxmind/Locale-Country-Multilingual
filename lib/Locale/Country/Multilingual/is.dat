@@ -36,21 +36,21 @@ BW:BWA:072:Botsvana
 BY:BLR:112:Hvíta-Rússland
 BZ:BLZ:084:Belís
 CA:CAN:124:Kanada
-CC:CCK:166:Kókoseyjar
-CD:COD:180:Kongó-Kinshasa:Kongó [lýðræðislega lýðveldið]
+CC:CCK:166:Kókoseyjar (Keeling)
+CD:COD:180:Kongó-Kinshasa:Kongó (Lýðstjórnarlýðveldið)
 CF:CAF:140:Mið-Afríkulýðveldið
-CG:COG:178:Kongó-Brazzaville:Kóngó [lýðveldið]
+CG:COG:178:Kongó-Brazzaville:Kongó (Lýðveldið)
 CH:CHE:756:Sviss
-CI:CIV:384:Fílabeinsströndin:Fílabeinsströndin
-CK:COK:184:Cookseyjar
-CL:CHL:152:Chíle
+CI:CIV:384:Fílabeinsströndin
+CK:COK:184:Cooks-eyjar
+CL:CHL:152:Síle
 CM:CMR:120:Kamerún
 CN:CHN:156:Kína
 CO:COL:170:Kólumbía
 CR:CRI:188:Kostaríka
 CU:CUB:192:Kúba
 CV:CPV:132:Grænhöfðaeyjar
-CW:CUW:531:Curacao
+CW:CUW:531:Curaçao
 CX:CXR:162:Jólaey
 CY:CYP:196:Kýpur
 CZ:CZE:203:Tékkland
@@ -69,12 +69,12 @@ ES:ESP:724:Spánn
 ET:ETH:231:Eþíópía
 FI:FIN:246:Finnland
 FJ:FJI:242:Fídjieyjar
-FK:FLK:238:Falklandseyjar:Falklandseyjar [Islas Malvinas]
-FM:FSM:583:Mikrónesía
+FK:FLK:238:Falklandseyjar:Falklandseyjar (Malvinas)
+FM:FSM:583:Míkrónesía (FM)
 FO:FRO:234:Færeyjar
 FR:FRA:250:Frakkland
 GA:GAB:266:Gabon
-GB:GBR:826:Bretland
+GB:GBR:826:Bretland:Stóra Bretland
 GD:GRD:308:Grenada
 GE:GEO:268:Georgía
 GF:GUF:254:Franska Gvæjana
@@ -141,9 +141,9 @@ ME:MNE:499:Svartfjallaland
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalleyjar
-MK:MKD:807:Makedónía:Makedónía [Fyrrum júgóslavneska lýðveldið Makedónía]
+MK:MKD:807:Makedónía:Makedónía (Fyrrverandi lýðveldi Júgóslavíu)
 ML:MLI:466:Malí
-MM:MMR:104:Mjanmar [Búrma]
+MM:MMR:104:Mjanmar (Búrma)
 MN:MNG:496:Mongólía
 MO:MAC:446:Sjálfstjórnarsvæðið Makaó:Makaó
 MP:MNP:580:Norður-Maríanaeyjar
@@ -163,7 +163,7 @@ NE:NER:562:Níger
 NF:NFK:574:Norfolkeyja
 NG:NGA:566:Nígería
 NI:NIC:558:Níkaragva
-NL:NLD:528:Niðurlönd
+NL:NLD:528:Holland
 NO:NOR:578:Noregur
 NP:NPL:524:Nepal
 NR:NRU:520:Nárú
@@ -178,7 +178,7 @@ PH:PHL:608:Filippseyjar
 PK:PAK:586:Pakistan
 PL:POL:616:Pólland
 PM:SPM:666:Sankti Pierre og Miquelon
-PN:PCN:612:Pitcairneyjar
+PN:PCN:612:Pitcairn-eyjar
 PR:PRI:630:Púertó Ríkó
 PS:PSE:275:Heimastjórnarsvæði Palestínumanna:Palestína
 PT:PRT:620:Portúgal
@@ -192,7 +192,7 @@ RU:RUS:643:Rússland
 RW:RWA:646:Rúanda
 SA:SAU:682:Sádi-Arabía
 SB:SLB:090:Salómonseyjar
-SC:SYC:690:Seychelleseyjar
+SC:SYC:690:Seychelles-eyjar
 SD:SDN:729:Súdan
 SE:SWE:752:Svíþjóð
 SG:SGP:702:Singapúr
@@ -230,10 +230,10 @@ TZ:TZA:834:Tansanía
 UA:UKR:804:Úkraína
 UG:UGA:800:Úganda
 UM:UMI:581:Smáeyjar Bandaríkjanna
-US:USA:840:Bandaríkin
+US:USA:840:Bandaríkin:BNA
 UY:URY:858:Úrúgvæ
 UZ:UZB:860:Úsbekistan
-VA:VAT:336:Páfagarður
+VA:VAT:336:Páfastóll
 VC:VCT:670:Sankti Vinsent og Grenadíneyjar
 VE:VEN:862:Venesúela
 VG:VGB:092:Bresku Jómfrúaeyjar

@@ -37,11 +37,11 @@ BY:BLR:112:Vilges-Ruošša
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanáda
 CC:CCK:166:Cocos-sullot
-CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
+CD:COD:180:Kongo-Kinshasa
 CF:CAF:140:Gaska-Afrihká dásseváldi
-CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville
 CH:CHE:756:Šveica
-CI:CIV:384:Elfenbenariddu:Elfenbenariddu
+CI:CIV:384:Elfenbenariddu
 CK:COK:184:Cook-sullot
 CL:CHL:152:Čiile
 CM:CMR:120:Kamerun
@@ -69,12 +69,12 @@ ES:ESP:724:Spánia
 ET:ETH:231:Etiopia
 FI:FIN:246:Suopma
 FJ:FJI:242:Fijisullot
-FK:FLK:238:Falklandsullot:Falklandsullot
+FK:FLK:238:Falklandsullot
 FM:FSM:583:Mikronesia
 FO:FRO:234:Fearsullot
 FR:FRA:250:Frankriika
 GA:GAB:266:Gabon
-GB:GBR:826:Stuorra-Británnia
+GB:GBR:826:Stuorra-Británnia:Stuorra-Británnia
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Frankriikka Guayana
@@ -116,7 +116,7 @@ KE:KEN:404:Kenia
 KG:KGZ:417:Kirgisistan
 KH:KHM:116:Kambodža
 KI:KIR:296:Kiribati
-KM:COM:174:Komorosullot
+KM:COM:174:Komoros
 KN:KNA:659:Saint Kitts ja Nevis
 KP:PRK:408:Davvi-Korea
 KR:KOR:410:Mátta-Korea
@@ -141,7 +141,7 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Frankriikka Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallsullot
-MK:MKD:807:Makedonia:Makedonia
+MK:MKD:807:Makedonia
 ML:MLI:466:Mali
 MM:MMR:104:Burma
 MN:MNG:496:Mongolia
@@ -180,7 +180,7 @@ PL:POL:616:Polen
 PM:SPM:666:Saint Pierre ja Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestina
+PS:PSE:275:Palestina:Palestina
 PT:PRT:620:Portugála
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thaieana
 TJ:TJK:762:Tažikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Nuorta-Timor:Nuorta-Timor
+TL:TLS:626:Nuorta-Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzánia
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:United States Minor Outlying Islands
-US:USA:840:Amerihká ovttastuvvan stáhtat
+US:USA:840:Amerihká ovttastuvvan stáhtat:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikána

@@ -37,9 +37,9 @@ BY:BLR:112:Hvideruslandi
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
 CC:CCK:166:Cocos qeqertaq
-CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
+CD:COD:180:Kongo-Kinshasa
 CF:CAF:140:Central African Republic
-CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville
 CH:CHE:756:Schweizi
 CI:CIV:384:Côte d'Ivoire
 CK:COK:184:Cook qeqertaq
@@ -69,12 +69,12 @@ ES:ESP:724:Spania
 ET:ETH:231:Ethiopia
 FI:FIN:246:Finlandi
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandi qeqertaq:Falklandi qeqertaq
+FK:FLK:238:Falklandi qeqertaq
 FM:FSM:583:Micronesia
 FO:FRO:234:Savalimmiut
 FR:FRA:250:Frankrigi
 GA:GAB:266:Gabon
-GB:GBR:826:Tuluit Nunaat
+GB:GBR:826:Tuluit Nunaat:Tuluit Nunaat
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:French Guiana
@@ -95,7 +95,7 @@ GY:GUY:328:Guyana
 HK:HKG:344:Hongkong:Hongkong
 HM:HMD:334:Heard and McDonald Islands
 HN:HND:340:Honduras
-HR:HRV:191:Croatia
+HR:HRV:191:Kroatia
 HT:HTI:332:Haiti
 HU:HUN:348:Ungarni
 ID:IDN:360:Indonesia
@@ -121,7 +121,7 @@ KN:KNA:659:Saint Kitts aamma Nevis
 KP:PRK:408:Korea Avannarleq
 KR:KOR:410:Korea Kujalleq
 KW:KWT:414:Kuwait
-KY:CYM:136:Cayman Islands
+KY:CYM:136:Cayman qeqertaq
 KZ:KAZ:398:Kasakhstani
 LA:LAO:418:Laos
 LB:LBN:422:Libanon
@@ -141,7 +141,7 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Frankrigi Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshall Islands
-MK:MKD:807:Makedonia:Makedonia
+MK:MKD:807:Makedonia
 ML:MLI:466:Mali
 MM:MMR:104:Burma
 MN:MNG:496:Mongolia
@@ -193,7 +193,7 @@ RW:RWA:646:Rwanda
 SA:SAU:682:Saudi Arabia
 SB:SLB:090:Solomon Islands
 SC:SYC:690:Seychelles
-SD:SDN:729:Sudan
+SD:SDN:729:Avannarleqsudan
 SE:SWE:752:Sverige
 SG:SGP:702:Singapore
 SH:SHN:654:Saint Helena
@@ -205,7 +205,7 @@ SM:SMR:674:San Marino
 SN:SEN:686:Senegal
 SO:SOM:706:Somalia
 SR:SUR:740:Suriname
-SS:SSD:728:South Sudan
+SS:SSD:728:Kujalleqsudan
 ST:STP:678:São Tomé aamma Príncipe
 SV:SLV:222:El Salvador
 SX:SXM:534:Sint Maarten
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thailandi
 TJ:TJK:762:Tajikistani
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Kangilliit:Timor Kangilliit
+TL:TLS:626:Timor Kangilliit
 TM:TKM:795:Turkmenistani
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:United States Minor Outlying Islands
-US:USA:840:Naalagaaffeqatigiit
+US:USA:840:Naalagaaffeqatigiit:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistani
 VA:VAT:336:Vatikani
@@ -244,6 +244,6 @@ WF:WLF:876:Wallis aamma Futuna
 WS:WSM:882:Samoa
 YE:YEM:887:Jemen
 YT:MYT:175:Mayotte
-ZA:ZAF:710:South Africa
+ZA:ZAF:710:Kujalleqafrika
 ZM:ZMB:894:Zambia
 ZW:ZWE:716:Zimbabwe

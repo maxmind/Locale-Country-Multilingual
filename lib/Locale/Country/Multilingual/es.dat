@@ -14,13 +14,13 @@ AU:AUS:036:Australia
 AW:ABW:533:Aruba
 AX:ALA:248:Islas Åland
 AZ:AZE:031:Azerbaiyán
-BA:BIH:070:Bosnia-Herzegovina
+BA:BIH:070:Bosnia y Herzegovina
 BB:BRB:052:Barbados
-BD:BGD:050:Bangladesh
+BD:BGD:050:Bangladés
 BE:BEL:056:Bélgica
 BF:BFA:854:Burkina Faso
 BG:BGR:100:Bulgaria
-BH:BHR:048:Bahréin
+BH:BHR:048:Baréin
 BI:BDI:108:Burundi
 BJ:BEN:204:Benín
 BL:BLM:652:San Bartolomé
@@ -37,11 +37,11 @@ BY:BLR:112:Bielorrusia
 BZ:BLZ:084:Belice
 CA:CAN:124:Canadá
 CC:CCK:166:Islas Cocos
-CD:COD:180:República Democrática del Congo:Congo [República Democrática del Congo]
+CD:COD:180:República Democrática del Congo:Congo (República Democrática del Congo)
 CF:CAF:140:República Centroafricana
-CG:COG:178:Congo - Brazzaville:Congo [República]
+CG:COG:178:República del Congo:Congo (República)
 CH:CHE:756:Suiza
-CI:CIV:384:Costa de Marfil:Costa de Marfil
+CI:CIV:384:Costa de Marfil
 CK:COK:184:Islas Cook
 CL:CHL:152:Chile
 CM:CMR:120:Camerún
@@ -69,16 +69,16 @@ ES:ESP:724:España
 ET:ETH:231:Etiopía
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fiyi
-FK:FLK:238:Islas Malvinas:Islas Malvinas [Islas Falkland]
+FK:FLK:238:Islas Malvinas:Islas Malvinas (Islas Falkland)
 FM:FSM:583:Micronesia
 FO:FRO:234:Islas Feroe
 FR:FRA:250:Francia
 GA:GAB:266:Gabón
-GB:GBR:826:Reino Unido
+GB:GBR:826:Reino Unido:UK
 GD:GRD:308:Granada
 GE:GEO:268:Georgia
 GF:GUF:254:Guayana Francesa
-GG:GGY:831:Guernsey
+GG:GGY:831:Guernesey
 GH:GHA:288:Ghana
 GI:GIB:292:Gibraltar
 GL:GRL:304:Groenlandia
@@ -90,9 +90,9 @@ GR:GRC:300:Grecia
 GS:SGS:239:Islas Georgia del Sur y Sandwich del Sur
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
-GW:GNB:624:Guinea-Bissau
+GW:GNB:624:Guinea-Bisáu
 GY:GUY:328:Guyana
-HK:HKG:344:Región Administrativa Especial de Hong Kong de la República Popular China:Hong Kong
+HK:HKG:344:RAE de Hong Kong (China):Hong Kong
 HM:HMD:334:Islas Heard y McDonald
 HN:HND:340:Honduras
 HR:HRV:191:Croacia
@@ -141,11 +141,11 @@ ME:MNE:499:Montenegro
 MF:MAF:663:San Martín
 MG:MDG:450:Madagascar
 MH:MHL:584:Islas Marshall
-MK:MKD:807:Macedonia:Macedonia [ERYM]
+MK:MKD:807:Macedonia:Macedonia (ERYM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Birmania]
+MM:MMR:104:Myanmar (Birmania)
 MN:MNG:496:Mongolia
-MO:MAC:446:Región Administrativa Especial de Macao de la República Popular China:Macao
+MO:MAC:446:RAE de Macao (China):Macao
 MP:MNP:580:Islas Marianas del Norte
 MQ:MTQ:474:Martinica
 MR:MRT:478:Mauritania
@@ -184,7 +184,7 @@ PS:PSE:275:Territorios Palestinos:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
-QA:QAT:634:Qatar
+QA:QAT:634:Catar
 RE:REU:638:Reunión
 RO:ROU:642:Rumanía
 RS:SRB:688:Serbia
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tailandia
 TJ:TJK:762:Tayikistán
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Oriental:Timor Oriental
+TL:TLS:626:Timor Oriental
 TM:TKM:795:Turkmenistán
 TN:TUN:788:Túnez
 TO:TON:776:Tonga
@@ -229,7 +229,7 @@ TW:TWN:158:Taiwán
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ucrania
 UG:UGA:800:Uganda
-UM:UMI:581:Islas menores alejadas de los Estados Unidos
+UM:UMI:581:Islas menores alejadas de EE. UU.
 US:USA:840:Estados Unidos:EE. UU.
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistán
@@ -237,7 +237,7 @@ VA:VAT:336:Ciudad del Vaticano
 VC:VCT:670:San Vicente y las Granadinas
 VE:VEN:862:Venezuela
 VG:VGB:092:Islas Vírgenes Británicas
-VI:VIR:850:Islas Vírgenes de los Estados Unidos
+VI:VIR:850:Islas Vírgenes de EE. UU.
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis y Futuna

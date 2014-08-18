@@ -41,7 +41,7 @@ CD:COD:180:Kongo-Kinshasa:Den demokratiske republikken Kongo
 CF:CAF:140:Den sentralafrikanske republikk
 CG:COG:178:Kongo-Brazzaville:Republikken Kongo
 CH:CHE:756:Sveits
-CI:CIV:384:Elfenbenskysten:Elfenbenskysten
+CI:CIV:384:Elfenbenskysten
 CK:COK:184:Cookøyene
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -69,12 +69,12 @@ ES:ESP:724:Spania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsøyene:Falklandsøyene
+FK:FLK:238:Falklandsøyene
 FM:FSM:583:Mikronesiaføderasjonen
 FO:FRO:234:Færøyene
 FR:FRA:250:Frankrike
 GA:GAB:266:Gabon
-GB:GBR:826:Storbritannia
+GB:GBR:826:Storbritannia:Storbritannia
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Fransk Guyana
@@ -87,7 +87,7 @@ GN:GIN:324:Guinea
 GP:GLP:312:Guadeloupe
 GQ:GNQ:226:Ekvatorial-Guinea
 GR:GRC:300:Hellas
-GS:SGS:239:Sør-Georgia og de sørlige Sandwich-øyene
+GS:SGS:239:Sør-Georgia og Sør-Sandwichøyene
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint-Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalløyene
-MK:MKD:807:Makedonia:Den tidligere jugoslaviske republikken Makedonia
+MK:MKD:807:Makedonia:Makedonia (FYROM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macao S.A.R. Kina:Macao
 MP:MNP:580:Nord-Marianene
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadsjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Øst-Timor:Øst-Timor
+TL:TLS:626:Øst-Timor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -229,8 +229,8 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
-UM:UMI:581:USAs ytre småøyer
-US:USA:840:USA
+UM:UMI:581:USAs ytre øyer
+US:USA:840:USA:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikanstaten

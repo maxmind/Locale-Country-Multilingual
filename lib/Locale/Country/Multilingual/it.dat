@@ -69,12 +69,12 @@ ES:ESP:724:Spagna
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlandia
 FJ:FJI:242:Figi
-FK:FLK:238:Isole Falkland:Isole Falkland [isole Malvine]
+FK:FLK:238:Isole Falkland:Isole Falkland (isole Malvine)
 FM:FSM:583:Micronesia
 FO:FRO:234:Isole Faroe
 FR:FRA:250:Francia
 GA:GAB:266:Gabon
-GB:GBR:826:Regno Unito
+GB:GBR:826:Regno Unito:GB
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Guiana Francese
@@ -178,7 +178,7 @@ PH:PHL:608:Filippine
 PK:PAK:586:Pakistan
 PL:POL:616:Polonia
 PM:SPM:666:Saint Pierre e Miquelon
-PN:PCN:612:Pitcairn
+PN:PCN:612:Isole Pitcairn
 PR:PRI:630:Portorico
 PS:PSE:275:Territori palestinesi:Palestina
 PT:PRT:620:Portogallo
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tailandia
 TJ:TJK:762:Tagikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Est:Timor Est
+TL:TLS:626:Timor Est
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
@@ -229,8 +229,8 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ucraina
 UG:UGA:800:Uganda
-UM:UMI:581:Isole periferiche agli USA
-US:USA:840:Stati Uniti
+UM:UMI:581:Isole minori lontane dagli USA
+US:USA:840:Stati Uniti:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Città del Vaticano

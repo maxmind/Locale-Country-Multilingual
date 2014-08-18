@@ -27,7 +27,7 @@ BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
-BQ:BES:535:Antilhez nederlandat
+BQ:BES:535:Nederlandat Karib
 BR:BRA:076:Brazil
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhoutan
@@ -37,9 +37,9 @@ BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Inizi Kokoz
-CD:COD:180:Kongo - Kinshasa:Kongo [RDK]
+CD:COD:180:Kongo - Kinshasa:Kongo (RDK)
 CF:CAF:140:Republik Kreizafrikan
-CG:COG:178:Kongo - Brazzaville:Kongo [Republik]
+CG:COG:178:Kongo - Brazzaville:Kongo (Republik)
 CH:CHE:756:Suis
 CI:CIV:384:Aod an Olifant:Aod Olifant
 CK:COK:184:Inizi Cook
@@ -69,7 +69,7 @@ ES:ESP:724:Spagn
 ET:ETH:231:Etiopia
 FI:FIN:246:Finland
 FJ:FJI:242:Fidji
-FK:FLK:238:Inizi Falkland:Inizi Falkland [Inizi Maloù]
+FK:FLK:238:Inizi Falkland:Inizi Falkland (Inizi Maloù)
 FM:FSM:583:Mikronezia
 FO:FRO:234:Inizi Faero
 FR:FRA:250:Frañs
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Inizi Marshall
-MK:MKD:807:Makedonia:Makedonia [RYKM]
+MK:MKD:807:Makedonia:Makedonia (RYKM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Birmania]
+MM:MMR:104:Myanmar (Birmania)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macau RMD Sina:Macau
 MP:MNP:580:Inizi Mariana an Norzh

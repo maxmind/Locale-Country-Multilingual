@@ -12,7 +12,7 @@ AS:ASM:016:Samoa Americană
 AT:AUT:040:Austria
 AU:AUS:036:Australia
 AW:ABW:533:Aruba
-AX:ALA:248:Insulele Aland
+AX:ALA:248:Insulele Åland
 AZ:AZE:031:Azerbaidjan
 BA:BIH:070:Bosnia și Herțegovina
 BB:BRB:052:Barbados
@@ -33,15 +33,15 @@ BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
 BV:BVT:074:Insula Bouvet
 BW:BWA:072:Botswana
-BY:BLR:112:Bielorusia
+BY:BLR:112:Belarus
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
-CC:CCK:166:Insulele Cocos
-CD:COD:180:Republica Democrată Congo:Congo [RDC]
+CC:CCK:166:Insulele Cocos (Keeling)
+CD:COD:180:Republica Democrată Congo:Congo (RDC)
 CF:CAF:140:Republica Centrafricană
-CG:COG:178:Congo:Congo [Republică]
+CG:COG:178:Congo:Congo (Republică)
 CH:CHE:756:Elveția
-CI:CIV:384:Coasta de Fildeș:Coasta de Fildeş
+CI:CIV:384:Côte d’Ivoire:Coasta de Fildeș
 CK:COK:184:Insulele Cook
 CL:CHL:152:Chile
 CM:CMR:120:Camerun
@@ -69,12 +69,12 @@ ES:ESP:724:Spania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlanda
 FJ:FJI:242:Fiji
-FK:FLK:238:Insulele Falkland:Insulele Falkland [Insulele Malvine]
+FK:FLK:238:Insulele Falkland:Insulele Falkland (Insulele Malvine)
 FM:FSM:583:Micronezia
 FO:FRO:234:Insulele Feroe
 FR:FRA:250:Franța
 GA:GAB:266:Gabon
-GB:GBR:826:Marea Britanie
+GB:GBR:826:Regatul Unit:Regatul Unit
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Guyana Franceză
@@ -87,7 +87,7 @@ GN:GIN:324:Guineea
 GP:GLP:312:Guadelupa
 GQ:GNQ:226:Guineea Ecuatorială
 GR:GRC:300:Grecia
-GS:SGS:239:Georgia de Sud şi Insulele Sandwich de Sud
+GS:SGS:239:Georgia de Sud și Insulele Sandwich de Sud
 GT:GTM:320:Guatemala
 GU:GUM:316:Guam
 GW:GNB:624:Guineea-Bissau
@@ -117,7 +117,7 @@ KG:KGZ:417:Kârgâzstan
 KH:KHM:116:Cambodgia
 KI:KIR:296:Kiribati
 KM:COM:174:Comore
-KN:KNA:659:Sfântul Kitts și Nevis
+KN:KNA:659:Saint Kitts și Nevis
 KP:PRK:408:Coreea de Nord
 KR:KOR:410:Coreea de Sud
 KW:KWT:414:Kuweit
@@ -141,9 +141,9 @@ ME:MNE:499:Muntenegru
 MF:MAF:663:Sfântul Martin
 MG:MDG:450:Madagascar
 MH:MHL:584:Insulele Marshall
-MK:MKD:807:Macedonia:Macedonia [FYROM]
+MK:MKD:807:Macedonia:Macedonia (FRIM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar (Birmania)
 MN:MNG:496:Mongolia
 MO:MAC:446:R.A.S. Macao a Chinei:Macao
 MP:MNP:580:Insulele Mariane de Nord
@@ -163,7 +163,7 @@ NE:NER:562:Niger
 NF:NFK:574:Insulele Norfolk
 NG:NGA:566:Nigeria
 NI:NIC:558:Nicaragua
-NL:NLD:528:Olanda
+NL:NLD:528:Țările de Jos
 NO:NOR:578:Norvegia
 NP:NPL:524:Nepal
 NR:NRU:520:Nauru
@@ -173,19 +173,19 @@ OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Peru
 PF:PYF:258:Polinezia Franceză
-PG:PNG:598:Papua Noua Guinee
+PG:PNG:598:Papua-Noua Guinee
 PH:PHL:608:Filipine
 PK:PAK:586:Pakistan
 PL:POL:616:Polonia
-PM:SPM:666:Sfântul Pierre și Miquelon
-PN:PCN:612:Pitcairn
-PR:PRI:630:Porto Rico
-PS:PSE:275:Teritoriul Palestinian:Palestina
+PM:SPM:666:Saint-Pierre și Miquelon
+PN:PCN:612:Insulele Pitcairn
+PR:PRI:630:Puerto Rico
+PS:PSE:275:Teritoriile Palestiniene:Palestina
 PT:PRT:620:Portugalia
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Reunion
+RE:REU:638:Réunion
 RO:ROU:642:România
 RS:SRB:688:Serbia
 RU:RUS:643:Rusia
@@ -208,7 +208,7 @@ SR:SUR:740:Surinam
 SS:SSD:728:Sudanul de Sud
 ST:STP:678:Sao Tome și Principe
 SV:SLV:222:El Salvador
-SX:SXM:534:Sint Maarten
+SX:SXM:534:Sint-Maarten
 SY:SYR:760:Siria
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Insulele Turks și Caicos
@@ -218,23 +218,23 @@ TG:TGO:768:Togo
 TH:THA:764:Thailanda
 TJ:TJK:762:Tadjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timorul de Est:Timorul de Est
+TL:TLS:626:Timorul de Est
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisia
 TO:TON:776:Tonga
 TR:TUR:792:Turcia
-TT:TTO:780:Trinidad-Tobago
+TT:TTO:780:Trinidad și Tobago
 TV:TUV:798:Tuvalu
 TW:TWN:158:Taiwan
 TZ:TZA:834:Tanzania
 UA:UKR:804:Ucraina
 UG:UGA:800:Uganda
 UM:UMI:581:Insulele Minore Îndepărtate ale Statelor Unite ale Americii
-US:USA:840:Statele Unite ale Americii
+US:USA:840:Statele Unite ale Americii:S.U.A.
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:Vatican
-VC:VCT:670:Sfântul Vincent și Grenadine
+VA:VAT:336:Statul Cetății Vaticanului
+VC:VCT:670:Saint Vincent și Grenadine
 VE:VEN:862:Venezuela
 VG:VGB:092:Insulele Virgine Britanice
 VI:VIR:850:Insulele Virgine S.U.A.

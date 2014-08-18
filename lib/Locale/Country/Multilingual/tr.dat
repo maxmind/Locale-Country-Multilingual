@@ -36,12 +36,12 @@ BW:BWA:072:Botsvana
 BY:BLR:112:Beyaz Rusya
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Cocos [Keeling] Adaları
+CC:CCK:166:Cocos (Keeling) Adaları
 CD:COD:180:Kongo - Kinşasa:Demokratik Kongo Cumhuriyeti
 CF:CAF:140:Orta Afrika Cumhuriyeti
 CG:COG:178:Kongo - Brazavil:Kongo Cumhuriyeti
 CH:CHE:756:İsviçre
-CI:CIV:384:Fildişi Sahili:Fildişi Sahili
+CI:CIV:384:Fildişi Sahili
 CK:COK:184:Cook Adaları
 CL:CHL:152:Şili
 CM:CMR:120:Kamerun
@@ -69,12 +69,12 @@ ES:ESP:724:İspanya
 ET:ETH:231:Etiyopya
 FI:FIN:246:Finlandiya
 FJ:FJI:242:Fiji
-FK:FLK:238:Falkland Adaları:Falkland Adaları [Malvinas Adaları]
+FK:FLK:238:Falkland Adaları:Falkland Adaları (Malvinas Adaları)
 FM:FSM:583:Mikronezya Federal Eyaletleri
 FO:FRO:234:Faroe Adaları
 FR:FRA:250:Fransa
 GA:GAB:266:Gabon
-GB:GBR:826:Birleşik Krallık
+GB:GBR:826:Birleşik Krallık:BK
 GD:GRD:308:Grenada
 GE:GEO:268:Gürcistan
 GF:GUF:254:Fransız Guyanası
@@ -141,9 +141,9 @@ ME:MNE:499:Karadağ
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshall Adaları
-MK:MKD:807:Makedonya:Makedonya [EYMC]
+MK:MKD:807:Makedonya:Makedonya (EYMC)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Moğolistan
 MO:MAC:446:Çin Makao ÖYB:Makao
 MP:MNP:580:Kuzey Mariana Adaları
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzanya
 UA:UKR:804:Ukrayna
 UG:UGA:800:Uganda
 UM:UMI:581:ABD Dış Adaları
-US:USA:840:ABD
+US:USA:840:ABD:ABD
 UY:URY:858:Uruguay
 UZ:UZB:860:Özbekistan
 VA:VAT:336:Vatikan

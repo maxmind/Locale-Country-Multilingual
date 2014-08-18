@@ -37,11 +37,11 @@ BY:BLR:112:Vitryssland
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Kokosöarna
-CD:COD:180:Kongo-Kinshasa:Kongo-Kinshasa
+CD:COD:180:Kongo-Kinshasa:Demokratiska republiken Kongo
 CF:CAF:140:Centralafrikanska republiken
-CG:COG:178:Kongo-Brazzaville:Kongo-Brazzaville
+CG:COG:178:Kongo-Brazzaville:Republiken Kongo
 CH:CHE:756:Schweiz
-CI:CIV:384:Elfenbenskusten:Elfenbenskusten
+CI:CIV:384:Elfenbenskusten
 CK:COK:184:Cooköarna
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -69,12 +69,12 @@ ES:ESP:724:Spanien
 ET:ETH:231:Etiopien
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsöarna:Falklandsöarna
+FK:FLK:238:Falklandsöarna:Falklandsöarna (Malvinerna)
 FM:FSM:583:Mikronesien
 FO:FRO:234:Färöarna
 FR:FRA:250:Frankrike
 GA:GAB:266:Gabon
-GB:GBR:826:Storbritannien
+GB:GBR:826:Storbritannien:Storbritannien
 GD:GRD:308:Grenada
 GE:GEO:268:Georgien
 GF:GUF:254:Franska Guyana
@@ -93,7 +93,7 @@ GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hongkong (S.A.R. Kina):Hongkong
-HM:HMD:334:Heard- och McDonaldöarna
+HM:HMD:334:Heardön och McDonaldöarna
 HN:HND:340:Honduras
 HR:HRV:191:Kroatien
 HT:HTI:332:Haiti
@@ -103,7 +103,7 @@ IE:IRL:372:Irland
 IL:ISR:376:Israel
 IM:IMN:833:Isle of Man
 IN:IND:356:Indien
-IO:IOT:086:Brittiska Indiska oceanöarna
+IO:IOT:086:Brittiska territoriet i Indiska oceanen
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Island
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:S t Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallöarna
-MK:MKD:807:Makedonien:Makedonien
+MK:MKD:807:Makedonien:Makedonien (FYROM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongoliet
 MO:MAC:446:Macao (S.A.R. Kina):Macao
 MP:MNP:580:Nordmarianerna
@@ -180,7 +180,7 @@ PL:POL:616:Polen
 PM:SPM:666:S t Pierre och Miquelon
 PN:PCN:612:Pitcairnöarna
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestinska territoriet:Palestina
+PS:PSE:275:Palestinska territorierna:Palestina
 PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
@@ -208,17 +208,17 @@ SR:SUR:740:Surinam
 SS:SSD:728:Sydsudan
 ST:STP:678:São Tomé och Príncipe
 SV:SLV:222:El Salvador
-SX:SXM:534:S t Martin (nederländska delen)
+SX:SXM:534:Sint Maarten
 SY:SYR:760:Syrien
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks- och Caicosöarna
 TD:TCD:148:Tchad
-TF:ATF:260:Franska Sydterritorierna
+TF:ATF:260:Franska sydterritorierna
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadzjikistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Östtimor:Östtimor
+TL:TLS:626:Östtimor
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunisien
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:USA s yttre öar
-US:USA:840:USA
+US:USA:840:USA:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatikanstaten

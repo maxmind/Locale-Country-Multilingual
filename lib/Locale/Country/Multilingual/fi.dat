@@ -36,7 +36,7 @@ BW:BWA:072:Botswana
 BY:BLR:112:Valko-Venäjä
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
-CC:CCK:166:Kookossaaret [Keelingsaaret]
+CC:CCK:166:Kookossaaret (Keelingsaaret)
 CD:COD:180:Kongon demokraattinen tasavalta:Kongo-Kinshasa
 CF:CAF:140:Keski-Afrikan tasavalta
 CG:COG:178:Kongon tasavalta:Kongo-Brazzaville
@@ -69,12 +69,12 @@ ES:ESP:724:Espanja
 ET:ETH:231:Etiopia
 FI:FIN:246:Suomi
 FJ:FJI:242:Fidži
-FK:FLK:238:Falklandinsaaret:Falklandinsaaret [Malvinassaaret]
+FK:FLK:238:Falklandinsaaret:Falklandinsaaret (Malvinassaaret)
 FM:FSM:583:Mikronesian liittovaltio
 FO:FRO:234:Färsaaret
 FR:FRA:250:Ranska
 GA:GAB:266:Gabon
-GB:GBR:826:Britannia
+GB:GBR:826:Yhdistynyt kuningaskunta:Britannia
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Ranskan Guayana
@@ -93,7 +93,7 @@ GU:GUM:316:Guam
 GW:GNB:624:Guinea-Bissau
 GY:GUY:328:Guyana
 HK:HKG:344:Hongkong – Kiinan e.h.a.:Hongkong
-HM:HMD:334:Heard- ja McDonaldinsaaret
+HM:HMD:334:Heard ja McDonaldinsaaret
 HN:HND:340:Honduras
 HR:HRV:191:Kroatia
 HT:HTI:332:Haiti
@@ -143,7 +143,7 @@ MG:MDG:450:Madagaskar
 MH:MHL:584:Marshallinsaaret
 MK:MKD:807:Makedonia:EJT Makedonia
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macao – Kiinan e.h.a.:Macao
 MP:MNP:580:Pohjois-Mariaanit
@@ -180,7 +180,7 @@ PL:POL:616:Puola
 PM:SPM:666:Saint-Pierre ja Miquelon
 PN:PCN:612:Pitcairn
 PR:PRI:630:Puerto Rico
-PS:PSE:275:Palestiina:Palestiina
+PS:PSE:275:Palestiinalaisalueet:Palestiina
 PT:PRT:620:Portugali
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
@@ -229,8 +229,8 @@ TW:TWN:158:Taiwan
 TZ:TZA:834:Tansania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
-UM:UMI:581:Yhdysvaltain pienet erillissaaret
-US:USA:840:Yhdysvallat
+UM:UMI:581:Yhdysvaltain erillissaaret
+US:USA:840:Yhdysvallat:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Vatikaani

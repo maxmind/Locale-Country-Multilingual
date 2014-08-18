@@ -37,11 +37,11 @@ BY:BLR:112:Białoruś
 BZ:BLZ:084:Belize
 CA:CAN:124:Kanada
 CC:CCK:166:Wyspy Kokosowe
-CD:COD:180:Demokratyczna Republika Konga:Demokratyczna Republika Konga
+CD:COD:180:Demokratyczna Republika Konga
 CF:CAF:140:Republika Środkowoafrykańska
-CG:COG:178:Kongo:Kongo
+CG:COG:178:Kongo:Republika Konga
 CH:CHE:756:Szwajcaria
-CI:CIV:384:Wybrzeże Kości Słoniowej:Wybrzeże Kości Słoniowej
+CI:CIV:384:Côte d’Ivoire:Wybrzeże Kości Słoniowej
 CK:COK:184:Wyspy Cooka
 CL:CHL:152:Chile
 CM:CMR:120:Kamerun
@@ -58,7 +58,7 @@ DE:DEU:276:Niemcy
 DJ:DJI:262:Dżibuti
 DK:DNK:208:Dania
 DM:DMA:212:Dominika
-DO:DOM:214:Republika Dominikańska
+DO:DOM:214:Dominikana
 DZ:DZA:012:Algieria
 EC:ECU:218:Ekwador
 EE:EST:233:Estonia
@@ -69,12 +69,12 @@ ES:ESP:724:Hiszpania
 ET:ETH:231:Etiopia
 FI:FIN:246:Finlandia
 FJ:FJI:242:Fidżi
-FK:FLK:238:Falklandy:Falklandy [Malwiny]
-FM:FSM:583:Federalne Stany Mikronezji
+FK:FLK:238:Falklandy:Falklandy (Malwiny)
+FM:FSM:583:Mikronezja
 FO:FRO:234:Wyspy Owcze
 FR:FRA:250:Francja
 GA:GAB:266:Gabon
-GB:GBR:826:Wielka Brytania
+GB:GBR:826:Wielka Brytania:GB
 GD:GRD:308:Grenada
 GE:GEO:268:Gruzja
 GF:GUF:254:Gujana Francuska
@@ -103,7 +103,7 @@ IE:IRL:372:Irlandia
 IL:ISR:376:Izrael
 IM:IMN:833:Wyspa Man
 IN:IND:356:Indie
-IO:IOT:086:Terytorium Brytyjskie Oceanu Indyjskiego
+IO:IOT:086:Brytyjskie Terytorium Oceanu Indyjskiego
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Islandia
@@ -141,9 +141,9 @@ ME:MNE:499:Czarnogóra
 MF:MAF:663:Saint-Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Wyspy Marshalla
-MK:MKD:807:Macedonia:Macedonia
+MK:MKD:807:Macedonia
 ML:MLI:466:Mali
-MM:MMR:104:Birma
+MM:MMR:104:Mjanma (Birma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Makau SAR:Makau
 MP:MNP:580:Mariany Północne
@@ -173,7 +173,7 @@ OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Peru
 PF:PYF:258:Polinezja Francuska
-PG:PNG:598:Papua Nowa Gwinea
+PG:PNG:598:Papua-Nowa Gwinea
 PH:PHL:608:Filipiny
 PK:PAK:586:Pakistan
 PL:POL:616:Polska
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tajlandia
 TJ:TJK:762:Tadżykistan
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor Wschodni:Timor Wschodni
+TL:TLS:626:Timor Wschodni
 TM:TKM:795:Turkmenistan
 TN:TUN:788:Tunezja
 TO:TON:776:Tonga
@@ -230,7 +230,7 @@ TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraina
 UG:UGA:800:Uganda
 UM:UMI:581:Dalekie Wyspy Mniejsze Stanów Zjednoczonych
-US:USA:840:Stany Zjednoczone
+US:USA:840:Stany Zjednoczone:USA
 UY:URY:858:Urugwaj
 UZ:UZB:860:Uzbekistan
 VA:VAT:336:Watykan

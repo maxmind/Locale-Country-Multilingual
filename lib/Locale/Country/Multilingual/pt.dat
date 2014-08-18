@@ -12,36 +12,36 @@ AS:ASM:016:Samoa Americana
 AT:AUT:040:Áustria
 AU:AUS:036:Austrália
 AW:ABW:533:Aruba
-AX:ALA:248:Ilhas Aland
+AX:ALA:248:Ilhas Åland
 AZ:AZE:031:Azerbaijão
-BA:BIH:070:Bósnia-Herzegovina
+BA:BIH:070:Bósnia e Herzegovina
 BB:BRB:052:Barbados
 BD:BGD:050:Bangladesh
 BE:BEL:056:Bélgica
 BF:BFA:854:Burquina Faso
 BG:BGR:100:Bulgária
-BH:BHR:048:Bahrain
+BH:BHR:048:Bahrein
 BI:BDI:108:Burundi
 BJ:BEN:204:Benin
 BL:BLM:652:São Bartolomeu
 BM:BMU:060:Bermudas
 BN:BRN:096:Brunei
 BO:BOL:068:Bolívia
-BQ:BES:535:Antilhas Caribenhas
+BQ:BES:535:Países Baixos Caribenhos
 BR:BRA:076:Brasil
 BS:BHS:044:Bahamas
 BT:BTN:064:Butão
 BV:BVT:074:Ilha Bouvet
 BW:BWA:072:Botsuana
-BY:BLR:112:Belarus
+BY:BLR:112:Bielorrússia
 BZ:BLZ:084:Belize
 CA:CAN:124:Canadá
 CC:CCK:166:Ilhas Coco
-CD:COD:180:Congo-Kinshasa:República Democrática do Congo
+CD:COD:180:Congo - Kinshasa:República Democrática do Congo
 CF:CAF:140:República Centro-Africana
 CG:COG:178:Congo - Brazzaville:Congo
 CH:CHE:756:Suíça
-CI:CIV:384:Costa do Marfim:Costa do Marfim
+CI:CIV:384:Costa do Marfim
 CK:COK:184:Ilhas Cook
 CL:CHL:152:Chile
 CM:CMR:120:República dos Camarões
@@ -69,12 +69,12 @@ ES:ESP:724:Espanha
 ET:ETH:231:Etiópia
 FI:FIN:246:Finlândia
 FJ:FJI:242:Fiji
-FK:FLK:238:Ilhas Malvinas:Ilhas Malvinas
+FK:FLK:238:Ilhas Malvinas
 FM:FSM:583:Micronésia
 FO:FRO:234:Ilhas Faroe
 FR:FRA:250:França
 GA:GAB:266:Gabão
-GB:GBR:826:Reino Unido
+GB:GBR:826:Reino Unido:GB
 GD:GRD:308:Granada
 GE:GEO:268:Geórgia
 GF:GUF:254:Guiana Francesa
@@ -122,7 +122,7 @@ KP:PRK:408:Coreia do Norte
 KR:KOR:410:Coreia do Sul
 KW:KWT:414:Kuwait
 KY:CYM:136:Ilhas Caiman
-KZ:KAZ:398:Casaquistão
+KZ:KAZ:398:Cazaquistão
 LA:LAO:418:Laos
 LB:LBN:422:Líbano
 LC:LCA:662:Santa Lúcia
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:São Martinho
 MG:MDG:450:Madagascar
 MH:MHL:584:Ilhas Marshall
-MK:MKD:807:Macedônia:Macedônia [Antiga República Iugoslava da Macedônia - ARIM]
+MK:MKD:807:Macedônia:Macedônia (Antiga República Iugoslava da Macedônia - ARIM)
 ML:MLI:466:Mali
-MM:MMR:104:Mianmar [Birmânia]
+MM:MMR:104:Mianmar (Birmânia)
 MN:MNG:496:Mongólia
 MO:MAC:446:Macau, RAE da China:Macau
 MP:MNP:580:Ilhas Marianas do Norte
@@ -218,7 +218,7 @@ TG:TGO:768:Togo
 TH:THA:764:Tailândia
 TJ:TJK:762:Tadjiquistão
 TK:TKL:772:Tokelau
-TL:TLS:626:Timor-Leste:Timor-Leste
+TL:TLS:626:Timor-Leste
 TM:TKM:795:Turcomenistão
 TN:TUN:788:Tunísia
 TO:TON:776:Tonga
@@ -230,10 +230,10 @@ TZ:TZA:834:Tanzânia
 UA:UKR:804:Ucrânia
 UG:UGA:800:Uganda
 UM:UMI:581:Ilhas Distantes dos EUA
-US:USA:840:Estados Unidos
+US:USA:840:Estados Unidos:EUA
 UY:URY:858:Uruguai
 UZ:UZB:860:Uzbequistão
-VA:VAT:336:Vaticano
+VA:VAT:336:Cidade do Vaticano
 VC:VCT:670:São Vicente e Granadinas
 VE:VEN:862:Venezuela
 VG:VGB:092:Ilhas Virgens Britânicas

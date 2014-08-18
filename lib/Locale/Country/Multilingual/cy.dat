@@ -1,13 +1,13 @@
 AD:AND:020:Andorra
-AE:ARE:784:Yr Emiraethau Arabaidd Unedig
+AE:ARE:784:Emiradau Arabaidd Unedig
 AF:AFG:004:Afghanistan
 AG:ATG:028:Antigua a Barbuda
 AI:AIA:660:Anguilla
 AL:ALB:008:Albania
 AM:ARM:051:Armenia
 AO:AGO:024:Angola
-AQ:ATA:010:Yr Antarctig
-AR:ARG:032:yr Ariannin
+AQ:ATA:010:Antarctica
+AR:ARG:032:Yr Ariannin
 AS:ASM:016:Samoa America
 AT:AUT:040:Awstria
 AU:AUS:036:Awstralia
@@ -27,24 +27,24 @@ BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
 BN:BRN:096:Brunei
 BO:BOL:068:Bolifia
-BQ:BES:535:Iseldiroedd y Caribî
+BQ:BES:535:Antilles yr Iseldiroedd
 BR:BRA:076:Brasil
-BS:BHS:044:y Bahamas
+BS:BHS:044:Y Bahamas
 BT:BTN:064:Bhutan
 BV:BVT:074:Ynys Bouvet
 BW:BWA:072:Botswana
 BY:BLR:112:Belarws
 BZ:BLZ:084:Belize
 CA:CAN:124:Canada
-CC:CCK:166:Ynysoedd Cocos [Keeling]
-CD:COD:180:y Congo - Kinshasa:y Congo [Gweriniaeth Ddemocrataidd]
+CC:CCK:166:Ynysoedd Cocos (Keeling)
+CD:COD:180:Y Congo - Kinshasa:y Congo (G.Dd.C.)
 CF:CAF:140:Gweriniaeth Canolbarth Affrica
-CG:COG:178:y Congo - Brazzaville:y Congo [Gweriniaeth]
-CH:CHE:756:y Swistir
-CI:CIV:384:Côte d’Ivoire:Côte d’Ivoire
+CG:COG:178:Y Congo - Brazzaville:Y Congo (Gweriniaeth)
+CH:CHE:756:Y Swistir
+CI:CIV:384:Côte d’Ivoire
 CK:COK:184:Ynysoedd Cook
 CL:CHL:152:Chile
-CM:CMR:120:y Camerŵn
+CM:CMR:120:Camerŵn
 CN:CHN:156:Tsieina
 CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
@@ -54,7 +54,7 @@ CW:CUW:531:Curaçao
 CX:CXR:162:Ynys y Nadolig
 CY:CYP:196:Cyprus
 CZ:CZE:203:Gweriniaeth Tsiec
-DE:DEU:276:yr Almaen
+DE:DEU:276:Yr Almaen
 DJ:DJI:262:Djibouti
 DK:DNK:208:Denmarc
 DM:DMA:212:Dominica
@@ -62,26 +62,26 @@ DO:DOM:214:Gweriniaeth Dominica
 DZ:DZA:012:Algeria
 EC:ECU:218:Ecuador
 EE:EST:233:Estonia
-EG:EGY:818:yr Aifft
-EH:ESH:732:Gorllewin y Sahara
+EG:EGY:818:Yr Aifft
+EH:ESH:732:Gorllewin Sahara
 ER:ERI:232:Eritrea
 ES:ESP:724:Sbaen
 ET:ETH:231:Ethiopia
-FI:FIN:246:y Ffindir
-FJ:FJI:242:Ffiji
-FK:FLK:238:Ynysoedd y Falkland/Malvinas:Ynysoedd y Falkland [Ynysoedd y Malfinas]
+FI:FIN:246:Y Ffindir
+FJ:FJI:242:Fiji
+FK:FLK:238:Ynysoedd y Falkland/Malvinas:Ynysoedd y Falkland (Ynysoedd y Malfinas)
 FM:FSM:583:Micronesia
 FO:FRO:234:Føroyar
 FR:FRA:250:Ffrainc
 GA:GAB:266:Gabon
-GB:GBR:826:y Deyrnas Unedig
+GB:GBR:826:Y Deyrnas Unedig:DU
 GD:GRD:308:Grenada
 GE:GEO:268:Georgia
 GF:GUF:254:Guyane Ffrengig
-GG:GGY:831:Guernsey
+GG:GGY:831:Ynys y Garn
 GH:GHA:288:Ghana
 GI:GIB:292:Gibraltar
-GL:GRL:304:yr Ynys Las
+GL:GRL:304:Yr Ynys Las
 GM:GMB:270:Gambia
 GN:GIN:324:Guinée
 GP:GLP:312:Guadeloupe
@@ -107,10 +107,10 @@ IO:IOT:086:Tiriogaeth Brydeinig Cefnfor India
 IQ:IRQ:368:Irac
 IR:IRN:364:Iran
 IS:ISL:352:Gwlad yr Iâ
-IT:ITA:380:yr Eidal
+IT:ITA:380:Yr Eidal
 JE:JEY:832:Jersey
 JM:JAM:388:Jamaica
-JO:JOR:400:Gwlad yr Iorddonen
+JO:JOR:400:Gwlad Iorddonen
 JP:JPN:392:Japan
 KE:KEN:404:Kenya
 KG:KGZ:417:Kyrgyzstan
@@ -118,8 +118,8 @@ KH:KHM:116:Cambodia
 KI:KIR:296:Kiribati
 KM:COM:174:Comoros
 KN:KNA:659:Saint Kitts a Nevis
-KP:PRK:408:Gogledd Corea
-KR:KOR:410:De Corea
+KP:PRK:408:Gogledd Korea
+KR:KOR:410:De Korea
 KW:KWT:414:Kuwait
 KY:CYM:136:Ynysoedd Cayman
 KZ:KAZ:398:Kazakstan
@@ -130,10 +130,10 @@ LI:LIE:438:Liechtenstein
 LK:LKA:144:Sri Lanka
 LR:LBR:430:Liberia
 LS:LSO:426:Lesotho
-LT:LTU:440:Lithwania
+LT:LTU:440:Lithuania
 LU:LUX:442:Lwcsembwrg
 LV:LVA:428:Latfia
-LY:LBY:434:Libia
+LY:LBY:434:Libya
 MA:MAR:504:Moroco
 MC:MCO:492:Monaco
 MD:MDA:498:Moldofa
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagascar
 MH:MHL:584:Ynysoedd Marshall
-MK:MKD:807:Macedonia:Macedonia [CWIM]
+MK:MKD:807:Macedonia:Macedonia (CWIM)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongolia
 MO:MAC:446:Macau RhGA Tsieina:Macau
 MP:MNP:580:Ynysoedd Gogledd Mariana
@@ -152,7 +152,7 @@ MR:MRT:478:Mauritania
 MS:MSR:500:Montserrat
 MT:MLT:470:Malta
 MU:MUS:480:Mauritius
-MV:MDV:462:y Maldives
+MV:MDV:462:Y Maldives
 MW:MWI:454:Malawi
 MX:MEX:484:Mecsico
 MY:MYS:458:Malaysia
@@ -162,8 +162,8 @@ NC:NCL:540:Caledonia Newydd
 NE:NER:562:Niger
 NF:NFK:574:Ynys Norfolk
 NG:NGA:566:Nigeria
-NI:NIC:558:Nicaragwa
-NL:NLD:528:yr Iseldiroedd
+NI:NIC:558:Nicaragua
+NL:NLD:528:Yr Iseldiroedd
 NO:NOR:578:Norwy
 NP:NPL:524:Nepal
 NR:NRU:520:Nauru
@@ -173,9 +173,9 @@ OM:OMN:512:Oman
 PA:PAN:591:Panama
 PE:PER:604:Periw
 PF:PYF:258:Polynesia Ffrengig
-PG:PNG:598:Papua Gini Newydd
+PG:PNG:598:Papua Guinea Newydd
 PH:PHL:608:Pilipinas
-PK:PAK:586:Pacistan
+PK:PAK:586:Pakistan
 PL:POL:616:Gwlad Pwyl
 PM:SPM:666:Saint-Pierre-et-Miquelon
 PN:PCN:612:Ynysoedd Pitcairn
@@ -193,7 +193,7 @@ RW:RWA:646:Rwanda
 SA:SAU:682:Saudi Arabia
 SB:SLB:090:Ynysoedd Solomon
 SC:SYC:690:Seychelles
-SD:SDN:729:y Swdan
+SD:SDN:729:Swdan
 SE:SWE:752:Sweden
 SG:SGP:702:Singapore
 SH:SHN:654:Saint Helena
@@ -204,13 +204,13 @@ SL:SLE:694:Sierra Leone
 SM:SMR:674:San Marino
 SN:SEN:686:Sénégal
 SO:SOM:706:Somalia
-SR:SUR:740:Surinam
-SS:SSD:728:De Sudan
+SR:SUR:740:Suriname
+SS:SSD:728:De Swdan
 ST:STP:678:São Tomé a Príncipe
 SV:SLV:222:El Salvador
 SX:SXM:534:Sint Maarten
 SY:SYR:760:Syria
-SZ:SWZ:748:Swaziland
+SZ:SWZ:748:Gwlad Swazi
 TC:TCA:796:Ynysoedd Turks a Caicos
 TD:TCD:148:Tchad
 TF:ATF:260:Tiroedd Deheuol ac Antarctig Ffrainc
@@ -224,16 +224,16 @@ TN:TUN:788:Tunisia
 TO:TON:776:Tonga
 TR:TUR:792:Twrci
 TT:TTO:780:Trinidad a Tobago
-TV:TUV:798:Twfalw
+TV:TUV:798:Tuvalu
 TW:TWN:158:Taiwan
-TZ:TZA:834:Tanzanïa
+TZ:TZA:834:Tanzania
 UA:UKR:804:Wcráin
 UG:UGA:800:Uganda
 UM:UMI:581:Ynysoedd Pellennig UDA
-US:USA:840:yr Unol Daleithiau
+US:USA:840:Yr Unol Daleithiau:UDA
 UY:URY:858:Uruguay
 UZ:UZB:860:Uzbekistan
-VA:VAT:336:y Fatican
+VA:VAT:336:Y Fatican
 VC:VCT:670:Saint Vincent a’r Grenadines
 VE:VEN:862:Venezuela
 VG:VGB:092:Ynysoedd Gwyryf Prydain

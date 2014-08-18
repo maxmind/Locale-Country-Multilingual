@@ -25,13 +25,13 @@ BI:BDI:108:Burundi
 BJ:BEN:204:Benin
 BL:BLM:652:Saint Barthélemy
 BM:BMU:060:Bermuda
-BN:BRN:096:Brunei Darussalam
+BN:BRN:096:Brunei
 BO:BOL:068:Bolivia
 BQ:BES:535:Nederlandske antiller
 BR:BRA:076:Brasilien
 BS:BHS:044:Bahamas
 BT:BTN:064:Bhutan
-BV:BVT:074:Bouvetø
+BV:BVT:074:Bouvetøen
 BW:BWA:072:Botswana
 BY:BLR:112:Hviderusland
 BZ:BLZ:084:Belize
@@ -39,7 +39,7 @@ CA:CAN:124:Canada
 CC:CCK:166:Cocosøerne
 CD:COD:180:Congo-Kinshasa:Den Demokratiske Republik Congo
 CF:CAF:140:Centralafrikanske Republik
-CG:COG:178:Congo – Brazzaville:Republikken Congo
+CG:COG:178:Congo-Brazzaville:Republikken Congo
 CH:CHE:756:Schweiz
 CI:CIV:384:Côte d’Ivoire:Elfenbenskysten
 CK:COK:184:Cookøerne
@@ -50,7 +50,7 @@ CO:COL:170:Colombia
 CR:CRI:188:Costa Rica
 CU:CUB:192:Cuba
 CV:CPV:132:Kap Verde
-CW:CUW:531:Curacao
+CW:CUW:531:Curaçao
 CX:CXR:162:Juleøen
 CY:CYP:196:Cypern
 CZ:CZE:203:Tjekkiet
@@ -69,12 +69,12 @@ ES:ESP:724:Spanien
 ET:ETH:231:Etiopien
 FI:FIN:246:Finland
 FJ:FJI:242:Fiji
-FK:FLK:238:Falklandsøerne:Falklandsøerne [Islas Malvinas]
+FK:FLK:238:Falklandsøerne:Falklandsøerne (Islas Malvinas)
 FM:FSM:583:Mikronesiens Forenede Stater
 FO:FRO:234:Færøerne
 FR:FRA:250:Frankrig
 GA:GAB:266:Gabon
-GB:GBR:826:Storbritannien
+GB:GBR:826:Storbritannien:UK
 GD:GRD:308:Grenada
 GE:GEO:268:Georgien
 GF:GUF:254:Fransk Guyana
@@ -103,7 +103,7 @@ IE:IRL:372:Irland
 IL:ISR:376:Israel
 IM:IMN:833:Isle of Man
 IN:IND:356:Indien
-IO:IOT:086:Det Britiske Territorium i Det Indiske Ocean
+IO:IOT:086:Det britiske territorium i Det Indiske Ocean
 IQ:IRQ:368:Irak
 IR:IRN:364:Iran
 IS:ISL:352:Island
@@ -141,9 +141,9 @@ ME:MNE:499:Montenegro
 MF:MAF:663:Saint Martin
 MG:MDG:450:Madagaskar
 MH:MHL:584:Marshalløerne
-MK:MKD:807:Makedonien:Makedonien [Den Tidligere Jugoslaviske Republik Makedonien]
+MK:MKD:807:Makedonien:Makedonien (Den Tidligere Jugoslaviske Republik Makedonien)
 ML:MLI:466:Mali
-MM:MMR:104:Myanmar [Burma]
+MM:MMR:104:Myanmar (Burma)
 MN:MNG:496:Mongoliet
 MO:MAC:446:Macao SAR:Macao
 MP:MNP:580:Nordmarianerne
@@ -185,7 +185,7 @@ PT:PRT:620:Portugal
 PW:PLW:585:Palau
 PY:PRY:600:Paraguay
 QA:QAT:634:Qatar
-RE:REU:638:Reunion
+RE:REU:638:Réunion
 RO:ROU:642:Rumænien
 RS:SRB:688:Serbien
 RU:RUS:643:Rusland
@@ -213,7 +213,7 @@ SY:SYR:760:Syrien
 SZ:SWZ:748:Swaziland
 TC:TCA:796:Turks- og Caicosøerne
 TD:TCD:148:Tchad
-TF:ATF:260:Franske Besiddelser i Det Sydlige Indiske Ocean
+TF:ATF:260:De franske besiddelser i Det Sydlige Indiske Ocean
 TG:TGO:768:Togo
 TH:THA:764:Thailand
 TJ:TJK:762:Tadsjikistan
@@ -230,14 +230,14 @@ TZ:TZA:834:Tanzania
 UA:UKR:804:Ukraine
 UG:UGA:800:Uganda
 UM:UMI:581:Amerikanske oversøiske øer
-US:USA:840:USA
+US:USA:840:USA:USA
 UY:URY:858:Uruguay
 UZ:UZB:860:Usbekistan
 VA:VAT:336:Vatikanstaten
-VC:VCT:670:St. Vincent og Grenadinerne
+VC:VCT:670:Saint Vincent og Grenadinerne
 VE:VEN:862:Venezuela
-VG:VGB:092:De britiske jomfruøer
-VI:VIR:850:De amerikanske jomfruøer
+VG:VGB:092:De Britiske Jomfruøer
+VI:VIR:850:De Amerikanske Jomfruøer
 VN:VNM:704:Vietnam
 VU:VUT:548:Vanuatu
 WF:WLF:876:Wallis og Futuna

@@ -27,7 +27,7 @@ BL:BLM:652:i-Saint Barthélemy
 BM:BMU:060:i-Bermuda
 BN:BRN:096:i-Brunei
 BO:BOL:068:i-Bolivia
-BQ:BES:535:I-Caribbean Netherlands
+BQ:BES:535:i-Caribbean Netherlands
 BR:BRA:076:i-Brazil
 BS:BHS:044:i-Bahamas
 BT:BTN:064:i-Bhutan
@@ -37,9 +37,9 @@ BY:BLR:112:i-Belarus
 BZ:BLZ:084:i-Belize
 CA:CAN:124:i-Canada
 CC:CCK:166:i-Cocos (Keeling) Islands
-CD:COD:180:e-Congo - Kinshasa:e-Congo [DRC]
+CD:COD:180:i-Congo - Kinshasa:i-Congo (DRC)
 CF:CAF:140:i-Central African Republic
-CG:COG:178:e-Congo - Brazzaville:e-Congo [Republic]
+CG:COG:178:i-Congo - Brazzaville:i-Congo (Republic)
 CH:CHE:756:i-Switzerland
 CI:CIV:384:i-Côte d’Ivoire:i-Ivory Coast
 CK:COK:184:i-Cook Islands
@@ -50,7 +50,7 @@ CO:COL:170:i-Colombia
 CR:CRI:188:i-Costa Rica
 CU:CUB:192:i-Cuba
 CV:CPV:132:i-Cape Verde
-CW:CUW:531:I-Curaçao
+CW:CUW:531:i-Curaçao
 CX:CXR:162:i-Christmas Island
 CY:CYP:196:i-Cyprus
 CZ:CZE:203:i-Czech Republic
@@ -69,7 +69,7 @@ ES:ESP:724:i-Spain
 ET:ETH:231:i-Ethiopia
 FI:FIN:246:i-Finland
 FJ:FJI:242:i-Fiji
-FK:FLK:238:i-Falkland Islands:i-Falkland Islands (i-Islas Malvinas]
+FK:FLK:238:i-Falkland Islands:i-Falkland Islands (Islas Malvinas)
 FM:FSM:583:i-Micronesia
 FO:FRO:234:i-Faroe Islands
 FR:FRA:250:i-France
@@ -78,7 +78,7 @@ GB:GBR:826:i-United Kingdom
 GD:GRD:308:i-Grenada
 GE:GEO:268:i-Georgia
 GF:GUF:254:isi-French Guiana
-GG:GGY:831:I-Guernsey
+GG:GGY:831:i-Guernsey
 GH:GHA:288:i-Ghana
 GI:GIB:292:i-Gibraltar
 GL:GRL:304:i-Greenland
@@ -92,7 +92,7 @@ GT:GTM:320:i-Guatemala
 GU:GUM:316:i-Guam
 GW:GNB:624:i-Guinea-Bissau
 GY:GUY:328:i-Guyana
-HK:HKG:344:e-Hong Kong SAR China:i-Hong Kong
+HK:HKG:344:i-Hong Kong SAR China:i-Hong Kong
 HM:HMD:334:i-Heard Island ne-McDonald Islands
 HN:HND:340:i-Honduras
 HR:HRV:191:i-Croatia
@@ -108,7 +108,7 @@ IQ:IRQ:368:i-Iraq
 IR:IRN:364:i-Iran
 IS:ISL:352:i-Iceland
 IT:ITA:380:i-Italy
-JE:JEY:832:isi-Jersey
+JE:JEY:832:i-Jersey
 JM:JAM:388:i-Jamaica
 JO:JOR:400:i-Jordan
 JP:JPN:392:i-Japan
@@ -141,9 +141,9 @@ ME:MNE:499:i-Montenegro
 MF:MAF:663:i-Saint Martin
 MG:MDG:450:i-Madagascar
 MH:MHL:584:i-Marshall Islands
-MK:MKD:807:I-Macedonia:isi-Macedonia [FYROM]
+MK:MKD:807:i-Macedonia:i-Macedonia (FYROM)
 ML:MLI:466:i-Mali
-MM:MMR:104:e-Myanmar [Burma]
+MM:MMR:104:i-Myanmar (Burma)
 MN:MNG:496:i-Mongolia
 MO:MAC:446:i-Macau SAR China:i-Macau
 MP:MNP:580:i-Northern Mariana Islands
@@ -180,7 +180,7 @@ PL:POL:616:i-Poland
 PM:SPM:666:i-Saint Pierre kanye ne-Miquelon
 PN:PCN:612:i-Pitcairn Islands
 PR:PRI:630:i-Puerto Rico
-PS:PSE:275:i-Palestinian Territories:iPhalestina
+PS:PSE:275:i-Palestinian Territories:i-Phalestine
 PT:PRT:620:i-Portugal
 PW:PLW:585:i-Palau
 PY:PRY:600:i-Paraguay
@@ -198,14 +198,14 @@ SE:SWE:752:i-Sweden
 SG:SGP:702:i-Singapore
 SH:SHN:654:i-Saint Helena
 SI:SVN:705:i-Slovenia
-SJ:SJM:744:I-Svalbard ne-Jan Mayen
+SJ:SJM:744:i-Svalbard ne-Jan Mayen
 SK:SVK:703:i-Slovakia
 SL:SLE:694:i-Sierra Leone
 SM:SMR:674:i-San Marino
 SN:SEN:686:i-Senegal
 SO:SOM:706:i-Somalia
 SR:SUR:740:i-Suriname
-SS:SSD:728:Iningizimu Sudan
+SS:SSD:728:iNingizimu Sudan
 ST:STP:678:i-São Tomé kanye ne-Príncipe
 SV:SLV:222:i-El Salvador
 SX:SXM:534:I-Sint Maarten
@@ -213,7 +213,7 @@ SY:SYR:760:i-Syria
 SZ:SWZ:748:i-Swaziland
 TC:TCA:796:i-Turks and Caicos Islands
 TD:TCD:148:i-Chad
-TF:ATF:260:e-French Southern Territories
+TF:ATF:260:i-French Southern Territories
 TG:TGO:768:i-Togo
 TH:THA:764:i-Thailand
 TJ:TJK:762:i-Tajikistan
@@ -229,7 +229,7 @@ TW:TWN:158:i-Taiwan
 TZ:TZA:834:i-Tanzania
 UA:UKR:804:i-Ukraine
 UG:UGA:800:i-Uganda
-UM:UMI:581:e-U.S. Minor Outlying Islands
+UM:UMI:581:i-U.S. Minor Outlying Islands
 US:USA:840:i-United States
 UY:URY:858:i-Uruguay
 UZ:UZB:860:i-Uzbekistan
@@ -244,6 +244,6 @@ WF:WLF:876:i-Wallis ne-Futuna
 WS:WSM:882:i-Samoa
 YE:YEM:887:i-Yemen
 YT:MYT:175:i-Mayotte
-ZA:ZAF:710:iNingizimu Afrika
+ZA:ZAF:710:i-South Africa
 ZM:ZMB:894:i-Zambia
 ZW:ZWE:716:i-Zimbabwe
