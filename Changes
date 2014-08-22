@@ -2,6 +2,8 @@ Revision history for Locale-Country-Multilingual
 
 {{$NEXT}}
 
+0.25     2014-08-22
+
 - Moved to Dist::Zilla.
 
 0.24     2014-08-18
