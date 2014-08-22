@@ -5,6 +5,8 @@ use warnings;
 
 use base 'Class::Data::Inheritable';
 
+use 5.008;
+
 use Symbol;
 use File::Spec;
 use Carp;
@@ -191,13 +193,11 @@ sub _open_dat {
 
 __END__
 
+# ABSTRACT: Map ISO codes to localized country names
+
 =pod
 
 =encoding utf-8
-
-=head1 NAME
-
-Locale::Country::Multilingual - mapping ISO codes to localized country names
 
 =head1 SYNOPSIS
 
@@ -608,20 +608,7 @@ Thanks to Andreas Marienborg for Norwegian dat file.
 
 Thanks to all contributors of the Unicode CLDR Project.
 
-=head1 AUTHORS
-
-Fayland Lam <fayland at gmail.com>
-
-Bernhard Graf <graf at cpan.org>
-
-Gregory Oschwald <oschwald at cpan.org>
-
-=head1 COPYRIGHT & LICENSE
-
-Copyright 2007-2014 by the aforementioned authors.
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+=head1 CLDR LICENSE
 
 Part of the data used for this module is generated from data provided by
 the CLDR project. See the LICENSE.cldr in this distribution for details
