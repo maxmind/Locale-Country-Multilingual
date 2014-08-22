@@ -1,6 +1,10 @@
 # NAME
 
-Locale::Country::Multilingual - mapping ISO codes to localized country names
+Locale::Country::Multilingual - Map ISO codes to localized country names
+
+# VERSION
+
+version 0.25
 
 # SYNOPSIS
 
@@ -41,15 +45,15 @@ Locale::Country::Multilingual - mapping ISO codes to localized country names
 # DESCRIPTION
 
 `Locale::Country::Multilingual` is an OO replacement for
-[Locale::Country](http://search.cpan.org/perldoc?Locale::Country), and supports country names in several
+[Locale::Country](https://metacpan.org/pod/Locale::Country), and supports country names in several
 languages.
 
 ## Language Codes
 
 A language is selected by a two-letter language code as described by
-ISO 639-1 [http://en.wikipedia.org/wiki/List\_of\_ISO\_639-1\_codes](http://en.wikipedia.org/wiki/List\_of\_ISO\_639-1\_codes).
+ISO 639-1 [http://en.wikipedia.org/wiki/List\_of\_ISO\_639-1\_codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 This code can be amended by a two-letter region code, that is described by
-ISO 3166-1 [http://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2](http://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2).
+ISO 3166-1 [http://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 This combination of language and region is also described in RFC 4646
 [http://www.ietf.org/rfc/rfc4646.txt](http://www.ietf.org/rfc/rfc4646.txt) and RFC 4647
 [http://www.ietf.org/rfc/rfc4647.txt](http://www.ietf.org/rfc/rfc4647.txt), and is commonly used for
@@ -115,7 +119,7 @@ thus saving memory.
 The last argument can be a reference to a hash of options.
 
 The only option ATM is `use_io_layer` and works for Perl 5.8 and higher. See
-[Locale::Country::Multilingual::Unicode](http://search.cpan.org/perldoc?Locale::Country::Multilingual::Unicode)
+[Locale::Country::Multilingual::Unicode](https://metacpan.org/pod/Locale::Country::Multilingual::Unicode)
 for more information.
 
 ## new
@@ -130,13 +134,13 @@ Constructor method. Accepts optional list of named arguments:
 
 - lang
 
-    The language to use. See ["AVAILABLE LANGAUGES"](#AVAILABLE LANGAUGES) for what codes are
+    The language to use. See ["AVAILABLE LANGAUGES"](#available-langauges) for what codes are
     accepted.
 
 - use\_io\_layer
 
     Set this `true` if you need correct encoding behavior. See
-    [Locale::Country::Multilingual::Unicode](http://search.cpan.org/perldoc?Locale::Country::Multilingual::Unicode)
+    [Locale::Country::Multilingual::Unicode](https://metacpan.org/pod/Locale::Country::Multilingual::Unicode)
     for more information.
 
 ## set\_lang
@@ -144,11 +148,11 @@ Constructor method. Accepts optional list of named arguments:
     $lcm->set_lang('de');
 
 Set the current language. Only argument is a language code as described in
-the ["DESCRIPTION"](#DESCRIPTION) above.
+the ["DESCRIPTION"](#description) above.
 
-See ["AVAILABLE LANGAUGES"](#AVAILABLE LANGAUGES) for what codes are accepted.
+See ["AVAILABLE LANGAUGES"](#available-langauges) for what codes are accepted.
 
-This method does not actually load the language data. Use ["assert\_lang"](#assert\_lang)
+This method does not actually load the language data. Use ["assert\_lang"](#assert_lang)
 if you really need to know for sure if a language is supported.
 
 ## assert\_lang
@@ -158,7 +162,7 @@ if you really need to know for sure if a language is supported.
 Tries to load any of the given languages. Returns the language code for
 the first language that was successfully loaded. Returns `undef` if none
 of the given languages could be loaded. Actually loads the language data,
-but does not [set the language](#set\_lang), so you probably want to use it
+but does not [set the language](#set_lang), so you probably want to use it
 this way:
 
     $lang = $lcm->assert_lang(qw/es it fr en/)
@@ -177,11 +181,11 @@ Accepts either two-letter or a three-letter code or a 3 digit numerical code.
 
 A language might be given as second argument to set the output language only
 for this call - it does not change the current language, that was set with
-["set\_lang"](#set\_lang).
+["set\_lang"](#set_lang).
 
 Returns the country name.
 
-This method [croaks](http://search.cpan.org/perldoc?Carp) if the language is not available.
+This method [croaks](https://metacpan.org/pod/Carp) if the language is not available.
 
 ## country2code
 
@@ -202,7 +206,7 @@ optional too.
 
 Returns an ISO-3166 code or `undef` if search fails.
 
-This method [croaks](http://search.cpan.org/perldoc?Carp) if the language is not available.
+This method [croaks](https://metacpan.org/pod/Carp) if the language is not available.
 
 ## all\_country\_codes
 
@@ -310,9 +314,9 @@ Corrections, additions and more languages are highly appreciated.
 
 # SEE ALSO
 
-[Locale::Country](http://search.cpan.org/perldoc?Locale::Country),
-ISO 639 [http://en.wikipedia.org/wiki/ISO\_639](http://en.wikipedia.org/wiki/ISO\_639),
-ISO 3166 [http://en.wikipedia.org/wiki/ISO\_3166](http://en.wikipedia.org/wiki/ISO\_3166),
+[Locale::Country](https://metacpan.org/pod/Locale::Country),
+ISO 639 [http://en.wikipedia.org/wiki/ISO\_639](http://en.wikipedia.org/wiki/ISO_639),
+ISO 3166 [http://en.wikipedia.org/wiki/ISO\_3166](http://en.wikipedia.org/wiki/ISO_3166),
 RFC 2616 [http://www.ietf.org/rfc/rfc2616.txt](http://www.ietf.org/rfc/rfc2616.txt)
 RFC 4646 [http://www.ietf.org/rfc/rfc4646.txt](http://www.ietf.org/rfc/rfc4646.txt),
 RFC 4647 [http://www.ietf.org/rfc/rfc4647.txt](http://www.ietf.org/rfc/rfc4647.txt),
@@ -326,21 +330,21 @@ Thanks to Andreas Marienborg for Norwegian dat file.
 
 Thanks to all contributors of the Unicode CLDR Project.
 
-# AUTHORS
-
-Fayland Lam <fayland at gmail.com>
-
-Bernhard Graf <graf at cpan.org>
-
-Gregory Oschwald <oschwald at cpan.org>
-
-# COPYRIGHT & LICENSE
-
-Copyright 2007-2014 by the aforementioned authors.
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+# CLDR LICENSE
 
 Part of the data used for this module is generated from data provided by
 the CLDR project. See the LICENSE.cldr in this distribution for details
 on the CLDR data's license.
+
+# AUTHORS
+
+- Bernhard Graf <graf@cpan.org>
+- Fayland Lam <fayland@gmail.com>
+- Greg Oschwald <oschwald@cpan.org>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2014 by Fayland Lam.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
