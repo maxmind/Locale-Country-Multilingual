@@ -1,15 +1,13 @@
 package Locale::Country::Multilingual;
 
-use warnings;
 use strict;
-use vars qw/$VERSION/;
+use warnings;
+
 use base 'Class::Data::Inheritable';
 
 use Symbol;
 use File::Spec;
 use Carp;
-
-$VERSION = '0.24';
 
 __PACKAGE__->mk_classdata(dir => (__FILE__ =~ /(.+)\.pm/)[0]);
 __PACKAGE__->mk_classdata(languages => {});
@@ -193,32 +191,30 @@ sub _open_dat {
 
 __END__
 
+=pod
+
 =encoding utf-8
 
 =head1 NAME
 
 Locale::Country::Multilingual - mapping ISO codes to localized country names
 
-=head1 VERSION
-
-Version 0.24
-
 =head1 SYNOPSIS
 
     use Locale::Country::Multilingual {use_io_layer => 1};
 
     my $lcm = Locale::Country::Multilingual->new();
-    $country = $lcm->code2country('JP');        # $country gets 'Japan'
+    my $country = $lcm->code2country('JP');        # $country gets 'Japan'
     $country = $lcm->code2country('CHN');       # $country gets 'China'
     $country = $lcm->code2country('250');       # $country gets 'France'
-    $code    = $lcm->country2code('Norway');    # $code gets 'NO'
+    my $code    = $lcm->country2code('Norway');    # $code gets 'NO'
 
     $lcm->set_lang('zh'); # set default language to Chinese
     $country = $lcm->code2country('CN');        # $country gets '中国'
     $code    = $lcm->country2code('日本');      # $code gets 'JP'
 
-    @codes   = $lcm->all_country_codes();
-    @names   = $lcm->all_country_names();
+    my @codes   = $lcm->all_country_codes();
+    my @names   = $lcm->all_country_names();
 
     # more heavy call
     my $lang = 'en';
@@ -630,3 +626,5 @@ under the same terms as Perl itself.
 Part of the data used for this module is generated from data provided by
 the CLDR project. See the LICENSE.cldr in this distribution for details
 on the CLDR data's license.
+
+=cut

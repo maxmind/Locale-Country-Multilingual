@@ -16,7 +16,7 @@ is($country, 'France', "NUMERIC: code2country('250') works");
 
 $lcm->set_lang('zh');
 
-$country = $lcm->code2country('cn'); 
+$country = $lcm->code2country('cn');
 is($country, '中国', "code2country('cn') works after set_lang('zh')");
 
 my $lang = 'en';
@@ -44,7 +44,7 @@ $code    = $lcm->country2code('挪威', $CODE, 'zh');
 is($code, '578', "NUMERIC: country2code('挪威', 'LOCALE_CODE_NUMERIC', 'zh') works");
 
 $lcm->set_lang('zh_TW');
-$country = $lcm->code2country('tw'); 
+$country = $lcm->code2country('tw');
 is($country, '臺灣', "code2country('tw') works after set_lang=zh_TW");
 
 # backwards compatibility test

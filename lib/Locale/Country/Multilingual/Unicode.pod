@@ -1,3 +1,10 @@
+# PODNAME: Locale::Country::Multilingual::Unicode
+# ABSTRACT: Recommended Usage with Unicode
+
+__END__
+
+=pod
+
 =encoding utf-8
 
 =head1 NAME
@@ -15,8 +22,7 @@ Locale::Country::Multilingual::Unicode - Recommended Usage with Unicode
   $lcm->set_lang('de');
   print $lcm->code2country('gb'), "\n";
 
-I<If you don't run Perl 5.8.1 or higher you should either upgrade or ignore
-this manual page.>
+=head1 DESCRIPTION
 
 You are on a modern computer system, that uses C<utf-8> encoding by
 default. L<Locale::Country::Multilingual> uses language data, that is
@@ -123,3 +129,5 @@ Bernhard Graf C<graf(a)cpan,org>
 =head1 COPYRIGHT & LICENSE
 
 This text is in the public domain.
+
+=cut
