@@ -3,14 +3,14 @@
 use strict;
 use warnings;
 
-
+use 5.008;
 
 use ExtUtils::MakeMaker ;
 
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "mapping ISO codes to localized country names",
+  "ABSTRACT" => "Map ISO codes to localized country names",
   "AUTHOR" => "Bernhard Graf <graf\@cpan.org>, Fayland Lam <fayland\@gmail.com>, Greg Oschwald <oschwald\@cpan.org>",
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0
