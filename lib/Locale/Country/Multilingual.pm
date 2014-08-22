@@ -5,6 +5,8 @@ use warnings;
 
 use base 'Class::Data::Inheritable';
 
+use 5.008;
+
 use Symbol;
 use File::Spec;
 use Carp;
