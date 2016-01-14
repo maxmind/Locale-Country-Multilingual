@@ -1,17 +1,25 @@
+---
+sudo: false
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
 language: perl
-
 perl:
-  - "5.20"
-  - "5.18"
-  - "5.16"
-  - "5.14"
-  - "5.12"
-  - "5.10"
-  - "5.8"
-
+  - '5.20'
+  - '5.18'
+  - '5.16'
+  - '5.14'
+  - '5.12'
+  - '5.10'
+  - '5.8'
 notifications:
   email:
+    on_failure: always
+    on_success: change
     recipients:
       - dev-ci@maxmind.com
-    on_success: change
-    on_failure: always
+  slack:
+    rooms:
+      secure: "be3k4sh57ITPnkJnVgOtVUp68RLMergngmrGOJo+l5YlEyUkZazS1qIa7XIfmPk8ILRgOMUCnTdz175oVSFKnuN8TFv99QyXlaRk+a5RZQo1wLNjOJf0fcbcpdEmT3D4THf4mwyy5W9y5KUXamyZVSGFKZpJABTV3s3zrRr8coQ=\n"
